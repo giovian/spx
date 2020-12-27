@@ -1,0 +1,36 @@
+---
+---
+
+html, body, input, textarea, select, button
+  background-color: #0b0d0e
+  color: #d9d7d4
+
+html.loading
+  cursor: wait
+
+article
+  margin-bottom: 1em
+  &.hour
+    color: #a5dfa9
+  &.day
+    color: #dddfa5
+  &.month
+    color: #767572
+  &.quarter
+    color: #dc7c7c
+  &.half
+    color: #a37cdc
+  h2, h3, p
+    margin: 0
+  .countdown
+    font-family: monospace
+    font-weight: normal
+  .local
+    text-transform: capitalize
+
+.grid
+  display: grid
+  grid-template-columns: repeat(auto-fit, minmax(0%, 1fr))
+  grid-column-gap: 1rem
+  grid-row-gap: 1rem
+  margin: 0 0 1rem 0
