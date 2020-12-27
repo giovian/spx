@@ -24,7 +24,6 @@ upcoming.done (data, status) ->
     template.find('[data-launch="cores[0].flight"]').text(launch.cores[0].flight || '-')
     template.find('[data-launch="cores[0].landing_type"]').text(launch.cores[0].landing_type || '-')
     template.find('article').addClass launch.date_precision
-    template.find('.index').text index+1
     div = if (index < ((data.length)/2)) then "1" else "2"
     $(".grid div:nth-child(#{div})").append template
   return
