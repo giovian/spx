@@ -3,7 +3,7 @@
 leading_0 = (number) -> "0#{number}".slice -2
 
 $('html').addClass 'loading'
-upcoming = $.get "https://api.spacexdata.com/v4/launches/upcoming"
+upcoming = $.get "https://api.spacexdata.com/v{{ site.api_version }}/launches/upcoming"
 upcoming.done (data, status) ->
   $('html').removeClass 'loading'
   parse_array = 'name,flight_number,date_precision,date_local'.split(',')
