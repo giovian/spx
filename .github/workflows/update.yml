@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.3.1
         with:
           persist-credentials: false
       - name: Fetch API Data
@@ -21,8 +21,8 @@ jobs:
         with:
           ENDPOINT: https://api.spacexdata.com/v4/launches
           SAVE_NAME: launches
-      - name: Build and Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v3
+      - name: Build and deploy
+        uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
           ACCESS_TOKEN: ${{ secrets.ACTIONS }}
           BRANCH: main
