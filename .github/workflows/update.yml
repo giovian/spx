@@ -1,7 +1,10 @@
 name: Update from spacexdata.com
 on:
-  schedule:
-    - cron: '0 * * * *'
+  pull_request_target:
+    types: [ opened ]
+    branches: [ main ]
+  #schedule:
+    #- cron: '0 * * * *'
     #- cron: '1 */24 * * *'
 
 jobs:
@@ -19,4 +22,22 @@ jobs:
               repo: context.repo.repo,
               path: "_data/upcoming.json"
             })
-            return file.data
+            // Update json
+            const new_content = {ciao:1}
+            const encoded_content = Buffer.from(new_content).toString('base64');
+            const update = await github.repos.createOrUpdateFileContents({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: "_data/upcoming.json",
+              message: "Updated",
+              content: encoded_content,
+              sha: file.data.sha,
+              committer: {
+                name: 'trasparente',
+                email: 'stradatrasparente@gmail.com'
+              },
+              author: {
+                name: 'trasparente',
+                email: 'stradatrasparente@gmail.com'
+              }
+            })
