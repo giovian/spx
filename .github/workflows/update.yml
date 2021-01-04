@@ -12,9 +12,19 @@ jobs:
     name: Update
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
       - name: Fetch API Data
         uses: JamesIves/fetch-api-data-action@1.0.19
         with:
           ENDPOINT: https://api.spacexdata.com/v4/launches
-          SAVE_LOCATION: _data
           SAVE_NAME: launches
+      - name: Build and Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          ACCESS_TOKEN: ${{ secrets.ACTIONS }}
+          BRANCH: main
+          FOLDER: fetch-api-data-action
+          TARGET_FOLDER: _data
