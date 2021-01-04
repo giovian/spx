@@ -1,0 +1,40 @@
+name: Append footers or request Pages build
+on:
+  schedule:
+    - cron: '25 * * * *'
+    #- cron: '1 */24 * * *'
+
+jobs:
+  update:
+    name: Update
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v3
+        with:
+          github-token: ${{ secrets.ACTIONS }}
+          script: |
+            // Get file for sha
+            const file = await github.repos.getContent({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: "_data/upcoming.json"
+            })
+            // Append footer
+            const new_content = {ciao:1}
+            const encoded_content = Buffer.from(new_content).toString('base64');
+            const update = await github.repos.createOrUpdateFileContents({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              path: "_data/upcoming.json",
+              message: "Updated",
+              content: encoded_content,
+              sha: file.data.sha,
+              committer: {
+                name: 'trasparente',
+                email: 'stradatrasparente@gmail.com'
+              },
+              author: {
+                name: 'trasparente',
+                email: 'stradatrasparente@gmail.com'
+              }
+            })
