@@ -20,16 +20,20 @@ jobs:
             const file = await github.repos.getContent({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              path: "_data/upcoming.json"
+              path: "_data/launches.json"
             })
+            
+            const api ="https://api.spacexdata.com/v4/"
+            const launches = await fetch(api+"launches").then(resp => resp.json())
+            
             // Update json
-            const new_content = {ciao:1}
+            const new_content = launches
             const encoded_content = Buffer.from(JSON.stringify(new_content), "utf8").toString('base64');
             const update = await github.repos.createOrUpdateFileContents({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              path: "_data/upcoming.json",
-              message: "Updated",
+              path: "_data/launches.json",
+              message: "Updated from Action",
               content: encoded_content,
               sha: file.data.sha,
               committer: {
