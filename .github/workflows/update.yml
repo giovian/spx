@@ -24,7 +24,7 @@ jobs:
             })
             // Update json
             const new_content = {ciao:1}
-            const encoded_content = Buffer.from(new_content).toString('base64');
+            const encoded_content = Buffer.from(JSON.stringify(new_content), "utf8").toString('base64');
             const update = await github.repos.createOrUpdateFileContents({
               owner: context.repo.owner,
               repo: context.repo.repo,
