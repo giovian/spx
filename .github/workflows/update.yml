@@ -1,7 +1,7 @@
-name: Append footers or request Pages build
+name: Update from spacexdata.com
 on:
   schedule:
-    - cron: '25 * * * *'
+    - cron: '0 * * * *'
     #- cron: '1 */24 * * *'
 
 jobs:
