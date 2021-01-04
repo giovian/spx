@@ -1,7 +1,7 @@
 name: Update from spacexdata.com
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '30 * * * *'
     #- cron: '1 */24 * * *'
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
               repo: context.repo.repo,
               path: "_data/upcoming.json"
             })
-            // Append footer
+            // Update json
             const new_content = {ciao:1}
             const encoded_content = Buffer.from(new_content).toString('base64');
             const update = await github.repos.createOrUpdateFileContents({
