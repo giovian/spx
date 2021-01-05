@@ -1,10 +1,10 @@
 name: Fetch and Autocommit v1
 on:
-  #pull_request_target:
-  #  types: [ opened ]
-  #  branches: [ main ]
-  schedule:
-    - cron: '10 * * * *'
+  pull_request_target:
+    types: [ opened ]
+    branches: [ main ]
+  #schedule:
+    #- cron: '10 * * * *'
     #- cron: '1 */24 * * *'
 
 jobs:
