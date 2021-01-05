@@ -12,10 +12,9 @@ jobs:
     name: Update
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Fetch data
-      uses: gautemo/fetch-api-data-action@1.1.0
-       with:
+    - uses: actions/checkout@v2.3.1
+    - uses: gautemo/fetch-api-data-action@1.1.0
+      with:
         url: 'https://api.spacexdata.com/v4/launches'
         file: '_data/launches.json'
     - name: list files
