@@ -1,10 +1,10 @@
 name: Fetch and Autocommit v1
 on:
-  pull_request_target:
-    types: [ opened ]
-    branches: [ main ]
-  #schedule:
-    #- cron: '10 * * * *'
+  #pull_request_target:
+  #  types: [ opened ]
+  #  branches: [ main ]
+  schedule:
+    - cron: '10 * * * *'
     #- cron: '1 */24 * * *'
 
 jobs:
@@ -18,8 +18,25 @@ jobs:
     - uses: gautemo/fetch-api-data-action@1.1.0
       with:
         url: 'https://api.spacexdata.com/v4/launches'
-        file: '_data/launches1.json'
-    - name: list files
-      run: ls
+        file: '_data/launches.json'
+    - uses: gautemo/fetch-api-data-action@1.1.0
+      with:
+        url: 'https://api.spacexdata.com/v4/cores'
+        file: '_data/cores.json'
+    - uses: gautemo/fetch-api-data-action@1.1.0
+      with:
+        url: 'https://api.spacexdata.com/v4/payloads'
+        file: '_data/payloads.json'
+    - uses: gautemo/fetch-api-data-action@1.1.0
+      with:
+        url: 'https://api.spacexdata.com/v4/launchpads'
+        file: '_data/launchpads.json'
+    - uses: gautemo/fetch-api-data-action@1.1.0
+      with:
+        url: 'https://api.spacexdata.com/v4/landpads'
+        file: '_data/landpads.json'
     - name: Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v4.8.0
+      with:
+        commit_message: Update APIs
+        branch: ${{ github.head_ref }}
