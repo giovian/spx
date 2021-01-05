@@ -2,7 +2,7 @@ name: Fetch and Autocommit v2
 on:
   schedule:
     # Run at 01 and 13 UTC every day
-    - cron: '10 * * * *'
+    - cron: '*/10 * * * *'
 
 jobs:
   update:
