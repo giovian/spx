@@ -1,8 +1,8 @@
-name: Fetch and Autocommit v1
+name: Fetch and Autocommit v2
 on:
   schedule:
     # Run at 01 and 13 UTC every day
-    - cron: '30 4/12 * * *'
+    - cron: '10 * * * *'
 
 jobs:
   update:
@@ -25,6 +25,16 @@ jobs:
         with:
           url: 'https://api.spacexdata.com/v4/payloads'
           file: '_data/payloads.json'
+      - name: Fetch and save capsules
+        uses: gautemo/fetch-api-data-action@1.1.0
+        with:
+          url: 'https://api.spacexdata.com/v4/capsules'
+          file: '_data/capsules.json'
+      - name: Fetch and save dragons
+        uses: gautemo/fetch-api-data-action@1.1.0
+        with:
+          url: 'https://api.spacexdata.com/v4/dragons'
+          file: '_data/dragons.json'
       - name: Fetch and save launchpads
         uses: gautemo/fetch-api-data-action@1.1.0
         with:
@@ -37,13 +47,3 @@ jobs:
           file: '_data/landpads.json'
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.8.0
-      - name: Rebuild pages
-        uses: actions/github/script@v3.1.0
-        with:
-          github-token: ${{ secrets.ACTIONS }}
-          script: |
-            const build = await github.repos.requestPagesBuild({
-              owner: context.repo.owner,
-              repo: context.repo.repo
-            });
-            return build.data.status;

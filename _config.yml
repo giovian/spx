@@ -1,0 +1,4 @@
+timezone: Europe/Rome
+baseurl: /spx
+permalink: pretty
+remote-theme: giovian/ui@v1
