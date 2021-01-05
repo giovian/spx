@@ -1,8 +1,8 @@
 name: Fetch Save and Autocommit
-on: workflow_dispatch
-  #schedule:
+on:
+  schedule:
     # Run at 01 and 13 UTC every day
-    #- cron: '0 1/12 * * *'
+    - cron: '0 1/12 * * *'
 
 jobs:
   update:
