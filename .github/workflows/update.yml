@@ -12,38 +12,11 @@ jobs:
     name: Update
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch API Data
-        uses: JamesIves/fetch-api-data-action@1.0.19
-        with:
-          ENDPOINT: https://api.spacexdata.com/v4/launches
-      - name: Commit
-        uses: actions/github-script@v3.1.0
-        with:
-          github-token: ${{ secrets.ACTIONS }}
-          script: |
-            // Get file for sha
-            const file = await github.repos.getContent({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              path: "_data/launches.json"
-            })
-
-            // Update json
-            const new_content = FETCH_API_DATA
-            const encoded_content = Buffer.from(JSON.stringify(new_content), "utf8").toString('base64');
-            const update = await github.repos.createOrUpdateFileContents({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              path: "_data/launches.json",
-              message: "Updated from Action",
-              content: encoded_content,
-              sha: file.data.sha,
-              committer: {
-                name: 'trasparente',
-                email: 'stradatrasparente@gmail.com'
-              },
-              author: {
-                name: 'trasparente',
-                email: 'stradatrasparente@gmail.com'
-              }
-            })
+    - uses: actions/checkout@v2
+    - name: Fetch data
+      uses: gautemo/fetch-api-data-action@1.1.0
+       with:
+        url: 'https://api.spacexdata.com/v4/launches'
+        file: '_data/launches.json'
+    - name: list files
+      run: ls
