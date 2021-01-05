@@ -1,4 +1,4 @@
-name: Update from spacexdata.com
+name: Fetch and Autocommit v1
 on:
   #pull_request_target:
   #  types: [ opened ]
