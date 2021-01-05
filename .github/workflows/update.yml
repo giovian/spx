@@ -20,6 +20,11 @@ jobs:
         with:
           url: 'https://api.spacexdata.com/v4/cores'
           file: '_data/cores.json'
+      - name: Fetch and save rockets
+        uses: gautemo/fetch-api-data-action@1.1.0
+        with:
+          url: 'https://api.spacexdata.com/v4/rockets'
+          file: '_data/rockets.json'
       - name: Fetch and save payloads
         uses: gautemo/fetch-api-data-action@1.1.0
         with:
