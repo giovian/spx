@@ -1,0 +1,3 @@
+{%- assign exp = "include.payloads contains item.id" -%}
+{%- assign array = site.data.payloads | where_exp: "item", exp -%}
+{{ array | map: "manufacturers" | join: "-" }} / {{ array | map: "customers" | join: "-"}} / {{ array | map: "nationalities" | join: "-"}}

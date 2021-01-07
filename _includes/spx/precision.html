@@ -1,0 +1,29 @@
+{%- assign launch = include.launch -%}
+{%- case launch.date_precision -%}
+  {%- when 'hour' -%}
+    {%- assign precision_class = '' -%}
+    {%- capture datetime -%}{% include widgets/datetime.html datetime=launch.date_unix replace=true %}{%- endcapture -%}
+  {%- when 'day' -%}
+    {%- assign precision_class = 'color-green' -%}
+    {%- assign datetime = launch.date_unix | date: '%B %e' -%}
+  {%- when 'month' -%}
+    {%- assign precision_class = 'color-blue' -%}
+    {%- assign datetime = launch.date_unix | date: '%B' -%}
+  {%- when 'quarter' -%}
+    {%- assign precision_class = 'color-orange' -%}
+    {%- assign month = launch.date_unix | date: '%m' | plus: 0 -%}
+    {%- if month < 4  -%}{%- assign datetime = 'Q1' -%}
+    {%- elsif month < 7 -%}{%- assign datetime = 'Q2' -%}
+    {%- elsif month < 10 -%}{%- assign datetime = 'Q3' -%}
+    {%- else -%}{%- assign datetime = 'Q4' -%}
+    {%- endif -%}
+  {%- when 'half' -%}
+    {%- assign precision_class = 'color-red' -%}
+    {%- assign month = launch.date_unix | date: '%m' | plus: 0 -%}
+    {%- if month < 7  -%}{%- assign datetime = 'H1' -%}
+    {%- else -%}{%- assign datetime = 'H2' -%}
+    {%- endif -%}
+  {%- else -%}
+    {%- assign precision_class = '' -%}
+    {%- assign datetime = launch.date_unix -%}
+{%- endcase -%}
