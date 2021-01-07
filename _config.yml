@@ -1,4 +1,4 @@
 timezone: Europe/Rome
 baseurl: /spx
 permalink: pretty
-remote_theme: giovian/ui@v1.2
+remote_theme: giovian/ui@v1.21
