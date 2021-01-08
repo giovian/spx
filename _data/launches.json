@@ -8041,7 +8041,7 @@
     "net": false,
     "window": 17820,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "details": "SpaceX will launch the first of two next generation satellites on contract for Türksat. Türksat 5A is a Ku-band broadcast satellite built by Airbus Defense and Space and based on the Electric Orbit Raising version of the Eurostar E3000 platform. This spacecraft will be delivered into a transfer orbit and will then raise itself to its operational 31° East geostationary orbit to serve Turkey, the Middle East, Europe, North Africa and South Africa. The booster for this mission will be recovered downrange via ASDS.",
     "crew": [],
     "ships": [

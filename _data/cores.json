@@ -1023,11 +1023,11 @@
   },
   {
     "block": 5,
-    "reuse_count": 2,
+    "reuse_count": 3,
     "rtls_attempts": 0,
     "rtls_landings": 0,
-    "asds_attempts": 3,
-    "asds_landings": 3,
+    "asds_attempts": 4,
+    "asds_landings": 4,
     "last_update": "At SLC-40",
     "launches": [
       "5eb87d4affd86e000604b38b",
