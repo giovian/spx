@@ -8021,7 +8021,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/kawyb4/t%C3%BCrksat_5a_launch_campaign_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/ksagr9/rspacex_t%C3%BCrksat_5a_official_launch_discussion/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -8030,10 +8030,10 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/9I0UYXVqIn8",
+      "youtube_id": "9I0UYXVqIn8",
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/T%C3%BCrksat_5A"
     },
     "static_fire_date_utc": null,
     "static_fire_date_unix": null,
@@ -8042,7 +8042,7 @@
     "window": 17820,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
-    "details": "SpaceX will launch the first of two next generation satellites for Türksat A.S. from SLC-40, Cape Canaveral Space Force Station. The spacecraft will be delivered into a geostationary transfer orbit and will operate in geostationary orbit at 31° East. The booster for this mission is expected to land on an ASDS.",
+    "details": "SpaceX will launch the first of two next generation satellites on contract for Türksat. Türksat 5A is a Ku-band broadcast satellite built by Airbus Defense and Space and based on the Electric Orbit Raising version of the Eurostar E3000 platform. This spacecraft will be delivered into a transfer orbit and will then raise itself to its operational 31° East geostationary orbit to serve Turkey, the Middle East, Europe, North Africa and South Africa. The booster for this mission will be recovered downrange via ASDS.",
     "crew": [],
     "ships": [
       "5ea6ed2f080df4000697c90d",
@@ -8059,11 +8059,11 @@
     "failures": [],
     "flight_number": 113,
     "name": "Turksat 5A",
-    "date_utc": "2021-01-08T01:28:00.000Z",
-    "date_unix": 1610069280,
-    "date_local": "2021-01-07T20:28:00-05:00",
+    "date_utc": "2021-01-08T02:15:00.000Z",
+    "date_unix": 1610072100,
+    "date_local": "2021-01-07T21:15:00-05:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
         "core": "5ef670f10059c33cee4a826c",
@@ -8072,7 +8072,7 @@
         "legs": true,
         "reused": true,
         "landing_attempt": true,
-        "landing_success": null,
+        "landing_success": true,
         "landing_type": "ASDS",
         "landpad": "5e9e3033383ecbb9e534e7cc"
       }
