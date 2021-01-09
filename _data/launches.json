@@ -8006,7 +8006,7 @@
   },
   {
     "fairings": {
-      "reused": null,
+      "reused": true,
       "recovery_attempt": true,
       "recovered": null,
       "ships": [
@@ -8027,12 +8027,17 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/50814482042_476d87b020_o.jpg",
+          "https://live.staticflickr.com/65535/50813630408_d98c2215f8_o.jpg",
+          "https://live.staticflickr.com/65535/50814379121_8834b5362d_o.jpg",
+          "https://live.staticflickr.com/65535/50814379056_f032a23955_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/9I0UYXVqIn8",
       "youtube_id": "9I0UYXVqIn8",
-      "article": null,
+      "article": "https://spaceflightnow.com/2021/01/08/spacex-deploys-turkish-satellite-in-first-launch-of-2021/",
       "wikipedia": "https://en.wikipedia.org/wiki/T%C3%BCrksat_5A"
     },
     "static_fire_date_utc": null,
