@@ -14,11 +14,11 @@
       <th></th>
       <th></th>
       <th style="min-width: 9.75em">Name</th>
-      <th>Launch</th>
+      <th style="min-width: 8em">Launch</th>
       <th>Datetime</th>
       <th style="min-width: 8em">From</th>
-      <th>To</th>
-      <th>Flight</th>
+      <th style="min-width: 5em">To</th>
+      <th style="min-width: 5em">Flight</th>
     </tr>
   </thead>
   <tbody>
@@ -47,18 +47,18 @@
       <th></th>
       <th></th>
       <th style="min-width: 9.75em">Name</th>
-      <th>T - minus</th>
+      <th style="min-width: 8em">T - minus</th>
       <th>Datetime</th>
       <th style="min-width: 8em">From</th>
-      <th>To</th>
-      <th>Flight</th>
+      <th style="min-width: 5em">To</th>
+      <th style="min-width: 5em">Flight</th>
     </tr>
   </thead>
   <tbody>
 {%- for launch in upcoming -%}
 {%- assign launchpad = site.data.launchpads | where: "id", launch.launchpad | first -%}
 {% include spx/precision.html launch=launch %}
-<tr class="{{ precision_class }}" mode-opposite-on-past="{{ launch.date_unix }}">
+<tr class="{{ precision_class }}" apply-if-children="mode-opposite:.past">
   <td>{{ launch.flight_number }}</td>
   <td>{% include spx/rocket.html id=last_launch.rocket %}</td>
   <td title="{% include spx/payloads.html payloads=launch.payloads %}">{{ launch.name }}</td>
