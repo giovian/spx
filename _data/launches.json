@@ -8908,15 +8908,15 @@
     "payloads": [
       "5fbfedba54ceb10a5664c813"
     ],
-    "launchpad": "5e9e4501f509094ba4566f84",
+    "launchpad": "5e9e4502f509094188566f88",
     "auto_update": true,
     "failures": [],
-    "flight_number": 115,
+    "flight_number": 114,
     "name": "Starlink-16 (v1.0)",
-    "date_utc": "2021-01-17T00:00:00.000Z",
-    "date_unix": 1610841600,
-    "date_local": "2021-01-16T19:00:00-05:00",
-    "date_precision": "day",
+    "date_utc": "2021-01-17T18:23:00.000Z",
+    "date_unix": 1610907780,
+    "date_local": "2021-01-17T13:23:00-05:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
@@ -9045,11 +9045,11 @@
     "launchpad": "5e9e4501f509094ba4566f84",
     "auto_update": true,
     "failures": [],
-    "flight_number": 114,
+    "flight_number": 115,
     "name": "Transporter-1",
-    "date_utc": "2021-01-14T16:00:00.000Z",
-    "date_unix": 1610640000,
-    "date_local": "2021-01-14T11:00:00-05:00",
+    "date_utc": "2021-01-21T14:19:00.000Z",
+    "date_unix": 1611238740,
+    "date_local": "2021-01-21T09:19:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
