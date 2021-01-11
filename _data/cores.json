@@ -890,7 +890,7 @@
     "rtls_landings": 1,
     "asds_attempts": 6,
     "asds_landings": 6,
-    "last_update": "At SLC-40 prep facility",
+    "last_update": "At SLC-40",
     "launches": [
       "5eb87d2bffd86e000604b375",
       "5eb87d31ffd86e000604b379",
@@ -1010,7 +1010,7 @@
     "rtls_landings": 0,
     "asds_attempts": 4,
     "asds_landings": 4,
-    "last_update": "Landed on OCISLY as of Dec 6, 2020 ",
+    "last_update": "At LC-39A",
     "launches": [
       "5eb87d46ffd86e000604b388",
       "5eb87d50ffd86e000604b394",
@@ -1018,7 +1018,7 @@
       "5eb87d4effd86e000604b391"
     ],
     "serial": "B1058",
-    "status": "unknown",
+    "status": "active",
     "id": "5e9e28a7f3591817f23b2663"
   },
   {

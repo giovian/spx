@@ -8016,8 +8016,8 @@
     },
     "links": {
       "patch": {
-        "small": null,
-        "large": null
+        "small": "https://imgur.com/xdKmm6T.png",
+        "large": "https://imgur.com/cqGBC29.png"
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/kawyb4/t%C3%BCrksat_5a_launch_campaign_thread/",
@@ -8920,14 +8920,14 @@
     "upcoming": true,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
+        "core": "5e9e28a7f3591817f23b2663",
+        "flight": 5,
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
         "landing_success": null,
-        "landing_type": null,
+        "landing_type": "ASDS",
         "landpad": null
       }
     ],
@@ -9047,9 +9047,9 @@
     "failures": [],
     "flight_number": 115,
     "name": "Transporter-1",
-    "date_utc": "2021-01-21T14:19:00.000Z",
-    "date_unix": 1611238740,
-    "date_local": "2021-01-21T09:19:00-05:00",
+    "date_utc": "2021-01-21T14:23:00.000Z",
+    "date_unix": 1611238980,
+    "date_local": "2021-01-21T09:23:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
