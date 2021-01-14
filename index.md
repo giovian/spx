@@ -8,73 +8,11 @@
 ## Last
 
 {% assign launchpad = site.data.launchpads | where: "id", last_launch.launchpad | first %}
-<table>
-  <thead>
-    <tr style="text-align:left;">
-      <th></th>
-      <th></th>
-      <th style="min-width: 9.75em">Name</th>
-      <th style="min-width: 8em">Launch</th>
-      <th>Datetime</th>
-      <th style="min-width: 8em">From</th>
-      <th style="min-width: 5em">To</th>
-      <th style="min-width: 5em">Flight</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>{{ last_launch.flight_number }}</td>
-      <td>{% include spx/rocket.html id=last_launch.rocket %}</td>
-      <td title="{% include spx/payloads.html payloads=last_launch.payloads %}">{{ last_launch.name }}</td>
-      <td>{% include widgets/datetime.html datetime=last_launch.date_unix replace=true %}</td>
-      <td><code title="{{ last_launch.date_local | date: "%a %d %b %T" }}">{{ last_launch.date_unix | date: "%a %d %b %T" }}</code></td>
-      <td title="{{ launchpad.launch_successes }}-{{ launchpad.launch_attempts | minus: launchpad.launch_successes }} launches">{{ launchpad.name }}</td>
-      <td>{%- for core in last_launch.cores -%}
-        {%- assign exp = "item.id == '" | append: core.landpad | append: "'" -%}
-        {%- assign landpad = site.data.landpads | where_exp: "item", exp | first -%}
-        <span title="{{ landpad.landing_successes }}-{{ landpad.landing_attempts | minus: landpad.landing_successes }} landings">{{ landpad.name }}{%- unless forloop.last -%} {%- endunless -%}</span>
-      {%- endfor -%}</td>
-      <td style="text-align:center;">{%- for core in last_launch.cores -%}{{ core.flight }}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{%- endfor -%}</td>
-    </tr>
-  </tbody>
-</table>
+{% include spx/last_launch.html %}
 
 ## Upcoming
 
-<table>
-  <thead>
-    <tr style="text-align:left;">
-      <th></th>
-      <th></th>
-      <th style="min-width: 9.75em">Name</th>
-      <th style="min-width: 8em">T - minus</th>
-      <th>Datetime</th>
-      <th style="min-width: 8em">From</th>
-      <th style="min-width: 5em">To</th>
-      <th style="min-width: 5em">Flight</th>
-    </tr>
-  </thead>
-  <tbody>
-{%- for launch in upcoming -%}
-{%- assign launchpad = site.data.launchpads | where: "id", launch.launchpad | first -%}
-{% include spx/precision.html launch=launch %}
-<tr class="{{ precision_class }}" apply-if-children="mode-opposite:.past">
-  <td>{{ launch.flight_number }}</td>
-  <td>{% include spx/rocket.html id=last_launch.rocket %}</td>
-  <td title="{% include spx/payloads.html payloads=launch.payloads %}">{{ launch.name }}</td>
-  <td>{{ datetime }}</td>
-  <td><code title="{{ launch.date_local | date: "%a %d %b %T" }}">{{ launch.date_unix | date: "%a %d %b %T" }}</code></td>
-  <td title="{{ launchpad.launch_successes }}-{{ launchpad.launch_attempts | minus: launchpad.launch_successes }} launches">{{ launchpad.name }}</td>
-  <td>{%- for core in launch.cores -%}
-    {%- assign exp = "item.id == '" | append: core.landpad | append: "'" -%}
-    {%- assign landpad = site.data.landpads | where_exp: "item", exp | first -%}
-    <span title="{{ landpad.landing_successes }}-{{ landpad.landing_attempts | minus: landpad.landing_successes }} landings">{{ landpad.name }}{%- unless forloop.last -%} {%- endunless -%}</span>
-  {%- endfor -%}</td>
-  <td style="text-align:center;">{%- for core in launch.cores -%}{{ core.flight }}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{%- endfor -%}</td>
-</tr>
-{%- endfor -%}
-  </tbody>
-</table>
+{% include spx/upcoming_launches.html %}
 
 ## Data
 
