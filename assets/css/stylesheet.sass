@@ -1,0 +1,23 @@
+---
+---
+// Override default variabiles here
+@import ui
+// Override CSS rules here
+table
+  &.upcoming, &.last
+    thead tr
+      text-align: left
+    td, th
+      &:nth-child(3)
+        min-width: 9.75em
+      &:nth-child(4),
+      &:nth-child(6)
+        min-width: 8em
+      &:nth-child(7)
+        max-width: 8em
+        min-width: 8em
+        overflow: hidden
+        text-overflow: clip
+      &:nth-child(8)
+        min-width: 5em
+        text-align: center
