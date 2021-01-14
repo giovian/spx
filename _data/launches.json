@@ -8903,7 +8903,10 @@
     "success": null,
     "details": "This mission launches the sixteenth batch of operational Starlink satellites, which are version 1.0, from SLC-40 or LC-39A. It is the seventeenth Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
-    "ships": [],
+    "ships": [
+      "5ea6ed2f080df4000697c910",
+      "5ea6ed2f080df4000697c90d"
+    ],
     "capsules": [],
     "payloads": [
       "5fbfedba54ceb10a5664c813"
