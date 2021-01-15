@@ -8916,9 +8916,9 @@
     "failures": [],
     "flight_number": 114,
     "name": "Starlink-16 (v1.0)",
-    "date_utc": "2021-01-17T18:23:00.000Z",
-    "date_unix": 1610907780,
-    "date_local": "2021-01-17T13:23:00-05:00",
+    "date_utc": "2021-01-18T13:45:00.000Z",
+    "date_unix": 1610977500,
+    "date_local": "2021-01-18T08:45:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
