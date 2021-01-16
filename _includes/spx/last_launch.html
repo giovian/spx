@@ -20,8 +20,7 @@
       <td><code title="{{ last_launch.date_local | date: "%a %d %b %T" }}">{{ last_launch.date_unix | date: "%a %d %b %T" }}</code></td>
       <td title="{{ launchpad.launch_successes }}-{{ launchpad.launch_attempts | minus: launchpad.launch_successes }} launches">{{ launchpad.name }}</td>
       <td>{%- for core in last_launch.cores -%}
-        {%- assign exp = "item.id == '" | append: core.landpad | append: "'" -%}
-        {%- assign landpad = site.data.landpads | where_exp: "item", exp | first -%}
+        {%- assign landpad = site.data.landpads | where: "id", core.landpad | first -%}
         <span title="{{ landpad.landing_successes }}-{{ landpad.landing_attempts | minus: landpad.landing_successes }} landings">{{ landpad.name }}{%- unless forloop.last -%} {%- endunless -%}</span>
       {%- endfor -%}</td>
       <td>{%- for core in last_launch.cores -%}{{ core.flight }}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{%- endfor -%}</td>

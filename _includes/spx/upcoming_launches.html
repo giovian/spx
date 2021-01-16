@@ -23,9 +23,22 @@
   <td><code title="{{ launch.date_local | date: "%a %d %b %T" }}">{{ launch.date_unix | date: "%a %d %b %T" }}</code></td>
   <td title="{{ launchpad.launch_successes }}-{{ launchpad.launch_attempts | minus: launchpad.launch_successes }} launches">{{ launchpad.name }}</td>
   <td>{%- for core in launch.cores -%}
-    {%- assign exp = "item.id == '" | append: core.landpad | append: "'" -%}
-    {%- assign landpad = site.data.landpads | where_exp: "item", exp | first -%}
-    <span title="{{ landpad.landing_successes }}-{{ landpad.landing_attempts | minus: landpad.landing_successes }} landings">{{ landpad.name | default: core.landing_type }}{%- unless forloop.last -%}&nbsp;{%- endunless -%}</span>
+    {%- if core.landpad -%}
+      {%- assign landpad = site.data.landpads | where: "id", core.landpad | first -%}
+      {%- assign landpad_name = landpad.name -%}
+      {%- assign landing_successes = landpad.landing_successes -%}
+      {%- assign landing_attempts = landpad.landing_attempts -%}
+    {%- else -%}
+      {%- assign landpad_name = core.landing_type -%}
+      {%- assign landing_successes = 0 -%}
+      {%- assign landing_attempts = 0 -%}
+      {%- assign landpads = site.data.landpads | where: 'type', landpad_name -%}
+      {% for land in landpads %}
+        {%- assign landing_attempts = landing_attempts | plus: land.landing_attempts -%}
+        {%- assign landing_successes = landing_successes | plus: land.landing_successes -%}
+      {% endfor %}
+    {%- endif -%}
+    <span title="{{ landing_successes }}-{{ landing_attempts | minus: landing_successes }} landings">{{ landpad_name }}{%- unless forloop.last -%}&nbsp;{%- endunless -%}</span>
   {%- endfor -%}</td>
   <td>{%- for core in launch.cores -%}{{ core.flight }}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{%- endfor -%}</td>
 </tr>
