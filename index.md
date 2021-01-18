@@ -1,7 +1,7 @@
 ---
 ---
 
-{% assign past_launches = site.data.launches | where: "upcoming", "false" %}
+{% assign past_launches = site.data.launches | where: "upcoming", "false" | sort: "date_unix" %}
 {% assign upcoming = site.data.launches | where: "upcoming", "true" | sort: 'flight_number' %}
 {% assign last_launch = past_launches | sort: "flight_number" | last %}
 

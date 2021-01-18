@@ -1,0 +1,1 @@
+{{ include.successes }}👍&#13;{% assign failures = include.attempts | minus: include.successes | prepend: "  " | slice: -3, 3 %}{{ failures }}👎

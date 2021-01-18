@@ -21,15 +21,17 @@
   <td title="{% include spx/payloads.html payloads=launch.payloads %}">{{ launch.name }}</td>
   <td>{{ datetime }}</td>
   <td><code title="{{ launch.date_local | date: "%a %d %b %T" }}">{{ launch.date_unix | date: "%a %d %b %T" }}</code></td>
-  <td title="{{ launchpad.launch_successes }}-{{ launchpad.launch_attempts | minus: launchpad.launch_successes }} launches">{{ launchpad.name }}</td>
+  <td title="{% include spx/thumbs.html successes=launchpad.launch_successes attempts=launchpad.launch_attempts %}">{{ launchpad.name }}</td>
   <td>{%- for core in launch.cores -%}
     {%- if core.landpad -%}
       {%- assign landpad = site.data.landpads | where: "id", core.landpad | first -%}
       {%- assign landpad_name = landpad.name -%}
+      {%- assign landpad_style = "" -%}
       {%- assign landing_successes = landpad.landing_successes -%}
       {%- assign landing_attempts = landpad.landing_attempts -%}
     {%- else -%}
       {%- assign landpad_name = core.landing_type -%}
+      {%- assign landpad_style = "font-variant: all-small-caps;" -%}
       {%- assign landing_successes = 0 -%}
       {%- assign landing_attempts = 0 -%}
       {%- assign landpads = site.data.landpads | where: 'type', landpad_name -%}
@@ -38,9 +40,9 @@
         {%- assign landing_successes = landing_successes | plus: land.landing_successes -%}
       {% endfor %}
     {%- endif -%}
-    <span title="{{ landing_successes }}-{{ landing_attempts | minus: landing_successes }} landings">{{ landpad_name }}{%- unless forloop.last -%}&nbsp;{%- endunless -%}</span>
+    <span title="{% include spx/thumbs.html successes=landing_successes attempts=landing_attempts %}" style="{{ landpad_style }}">{{ landpad_name }}{%- unless forloop.last -%}&nbsp;{%- endunless -%}</span>
   {%- endfor -%}</td>
-  <td>{%- for core in launch.cores -%}{{ core.flight }}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{%- endfor -%}</td>
+  <td>{%- for core in launch.cores -%}{% include spx/core_past_flights.html core=core %}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{%- endfor -%}</td>
 </tr>
 {%- endfor -%}
   </tbody>
