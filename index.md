@@ -7,7 +7,6 @@
 
 ## Last
 
-{% assign launchpad = site.data.launchpads | where: "id", last_launch.launchpad | first %}
 {% include spx/last_launch.html %}
 
 ## Upcoming
