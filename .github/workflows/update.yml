@@ -1,8 +1,8 @@
 name: Fetch Save and Autocommit
 on:
   schedule:
-    # Run at 01 and 13 UTC every day
-    - cron: '0 1/12 * * *'
+    # Run at 00:01 and 12:01 UTC every day
+    - cron: '1 0/12 * * *'
 
 jobs:
   update:
