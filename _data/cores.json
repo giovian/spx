@@ -885,11 +885,11 @@
   },
   {
     "block": 5,
-    "reuse_count": 6,
+    "reuse_count": 7,
     "rtls_attempts": 1,
     "rtls_landings": 1,
-    "asds_attempts": 6,
-    "asds_landings": 6,
+    "asds_attempts": 7,
+    "asds_landings": 7,
     "last_update": "At SLC-40",
     "launches": [
       "5eb87d2bffd86e000604b375",
@@ -898,7 +898,8 @@
       "5eb87d44ffd86e000604b386",
       "5ed9819a1f30554030d45c29",
       "5ef6a2bf0059c33cee4a828c",
-      "5eb87d4bffd86e000604b38c"
+      "5eb87d4bffd86e000604b38c",
+      "5fbfecce54ceb10a5664c80a"
     ],
     "serial": "B1051",
     "status": "active",
