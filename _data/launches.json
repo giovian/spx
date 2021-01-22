@@ -8883,18 +8883,23 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
-        "media": null,
-        "recovery": null
+        "launch": "https://www.reddit.com/r/spacex/comments/kz969o/rspacex_starlink16_official_launch_discussion/",
+        "media": "https://www.reddit.com/r/spacex/comments/l1b5q8/starlink16_media_thread_photographer_contest/",
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/50855737853_4d290519b4_o.jpg",
+          "https://live.staticflickr.com/65535/50856457401_5fd05cddd1_o.jpg",
+          "https://live.staticflickr.com/65535/50855737933_bcc65bdf8b_o.jpg",
+          "https://live.staticflickr.com/65535/50856551642_5190c59ec1_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/84Nct_Q9Lqw",
       "youtube_id": "84Nct_Q9Lqw",
-      "article": null,
+      "article": "https://spaceflightnow.com/2021/01/20/spacex-sets-new-rocket-reuse-records-with-successful-starlink-launch/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
@@ -8903,7 +8908,7 @@
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "details": "This mission launches the sixteenth batch of operational Starlink satellites, which are version 1.0, from SLC-40 or LC-39A. It is the seventeenth Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
     "ships": [
@@ -9012,9 +9017,12 @@
   {
     "fairings": {
       "reused": null,
-      "recovery_attempt": null,
+      "recovery_attempt": true,
       "recovered": null,
-      "ships": []
+      "ships": [
+        "5ea6ed2e080df4000697c908",
+        "5ea6ed2e080df4000697c907"
+      ]
     },
     "links": {
       "patch": {
@@ -9022,10 +9030,10 @@
         "large": null
       },
       "reddit": {
-        "campaign": null,
+        "campaign": "https://www.reddit.com/r/spacex/comments/kt5gds/transporter1_launch_campaign_thread/",
         "launch": null,
         "media": null,
-        "recovery": null
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
       "flickr": {
         "small": [],
@@ -9048,7 +9056,9 @@
     "crew": [],
     "ships": [
       "5ea6ed30080df4000697c913",
-      "5ea6ed2f080df4000697c90c"
+      "5ea6ed2f080df4000697c90c",
+      "5ea6ed2e080df4000697c908",
+      "5ea6ed2e080df4000697c907"
     ],
     "capsules": [],
     "payloads": [
@@ -9059,9 +9069,9 @@
     "failures": [],
     "flight_number": 115,
     "name": "Transporter-1",
-    "date_utc": "2021-01-22T14:24:00.000Z",
-    "date_unix": 1611325440,
-    "date_local": "2021-01-22T09:24:00-05:00",
+    "date_utc": "2021-01-23T14:24:00.000Z",
+    "date_unix": 1611411840,
+    "date_local": "2021-01-23T09:24:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -9124,7 +9134,7 @@
     "launchpad": "5e9e4502f509092b78566f87",
     "auto_update": true,
     "failures": [],
-    "flight_number": 119,
+    "flight_number": 120,
     "name": "SARah 1",
     "date_utc": "2021-02-01T00:00:00.000Z",
     "date_unix": 1612137600,

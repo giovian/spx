@@ -183,7 +183,7 @@
     "latitude": 28.6080585,
     "longitude": -80.6039558,
     "launch_attempts": 30,
-    "launch_successes": 29,
+    "launch_successes": 30,
     "rockets": [
       "5e9d0d95eda69973a809d1ec",
       "5e9d0d95eda69974db09d1ed"
