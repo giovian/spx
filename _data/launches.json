@@ -9031,7 +9031,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/kt5gds/transporter1_launch_campaign_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/l210i3/rspacex_transporter1_official_launch_discussion/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -9069,9 +9069,9 @@
     "failures": [],
     "flight_number": 115,
     "name": "Transporter-1",
-    "date_utc": "2021-01-23T14:24:00.000Z",
-    "date_unix": 1611411840,
-    "date_local": "2021-01-23T09:24:00-05:00",
+    "date_utc": "2021-01-23T14:40:00.000Z",
+    "date_unix": 1611412800,
+    "date_local": "2021-01-23T09:40:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
