@@ -9026,8 +9026,8 @@
     },
     "links": {
       "patch": {
-        "small": null,
-        "large": null
+        "small": "https://imgur.com/IJWn9pK.png",
+        "large": "https://imgur.com/u49XVx4.png"
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/kt5gds/transporter1_launch_campaign_thread/",
@@ -9040,8 +9040,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/PSIcspDHbu0",
+      "youtube_id": "PSIcspDHbu0",
       "article": null,
       "wikipedia": null
     },
@@ -9049,7 +9049,7 @@
     "static_fire_date_unix": null,
     "tbd": false,
     "net": false,
-    "window": null,
+    "window": 2520,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
     "details": "SpaceX will launch a dedicated rideshare mission from SLC-40 or LC-39A. The spacecraft will be delivered into a sun-synchronous orbit. The booster for this mission is expected to land on an ASDS.",
