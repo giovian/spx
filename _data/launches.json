@@ -9134,7 +9134,7 @@
     "fairings": {
       "reused": false,
       "recovery_attempt": true,
-      "recovered": null,
+      "recovered": true,
       "ships": [
         "5ea6ed2e080df4000697c908",
         "5ea6ed2e080df4000697c907"
@@ -9153,12 +9153,18 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/50870343533_e815eb30c4_o.jpg",
+          "https://live.staticflickr.com/65535/50871151292_af114a3f9e_o.jpg",
+          "https://live.staticflickr.com/65535/50871053741_59a1dbb6cc_o.jpg",
+          "https://live.staticflickr.com/65535/50871053696_cd01a7e092_o.jpg",
+          "https://live.staticflickr.com/65535/50870343763_1b1ac55eae_o.jpg"
+        ]
       },
       "presskit": null,
-      "webcast": "https://youtu.be/PSIcspDHbu0",
-      "youtube_id": "PSIcspDHbu0",
-      "article": null,
+      "webcast": "https://youtu.be/ScHI1cbkUv4",
+      "youtube_id": "ScHI1cbkUv4",
+      "article": "https://spaceflightnow.com/2021/01/24/spacex-launches-record-setting-rideshare-mission-with-143-small-satellites/",
       "wikipedia": null
     },
     "static_fire_date_utc": null,
@@ -9167,7 +9173,7 @@
     "net": false,
     "window": 2520,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "details": "SpaceX will launch a dedicated rideshare mission from SLC-40 or LC-39A. The spacecraft will be delivered into a sun-synchronous orbit. The booster for this mission is expected to land on an ASDS.",
     "crew": [],
     "ships": [
@@ -9190,7 +9196,7 @@
     "date_unix": 1611500400,
     "date_local": "2021-01-24T10:00:00-05:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
         "core": "5e9e28a7f3591817f23b2663",
@@ -9199,7 +9205,7 @@
         "legs": true,
         "reused": true,
         "landing_attempt": true,
-        "landing_success": null,
+        "landing_success": true,
         "landing_type": "ASDS",
         "landpad": "5e9e3032383ecb6bb234e7ca"
       }
@@ -9915,7 +9921,7 @@
     ],
     "launchpad": "5e9e4502f509094188566f88",
     "auto_update": true,
-    "launch_library_id": null,
+    "launch_library_id": "32dcb5ad-7609-4fc0-8094-768ee5c2ebe0",
     "failures": [],
     "flight_number": 132,
     "name": "Crew-3",
