@@ -8008,7 +8008,7 @@
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
     "auto_update": true,
-    "launch_library_id": "572dbb78-06f5-47dd-be8c-593967333d81",
+    "launch_library_id": null,
     "failures": [],
     "flight_number": 129,
     "name": "GPS III SV05",
@@ -9097,7 +9097,7 @@
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
-    "details": null,
+    "details": "This mission launches the sixteenth batch of operational Starlink satellites, which are version 1.0, from LC-39A. It is the eighteenth Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
     "ships": [],
     "capsules": [],
@@ -9110,9 +9110,9 @@
     "failures": [],
     "flight_number": 116,
     "name": "Starlink-17 (v1.0)",
-    "date_utc": "2021-01-29T13:00:00.000Z",
-    "date_unix": 1611925200,
-    "date_local": "2021-01-29T08:00:00-05:00",
+    "date_utc": "2021-01-29T12:45:00.000Z",
+    "date_unix": 1611924300,
+    "date_local": "2021-01-29T07:45:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -9188,7 +9188,7 @@
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
     "auto_update": true,
-    "launch_library_id": "f213a5df-579a-4682-8143-df228e463049",
+    "launch_library_id": null,
     "failures": [],
     "flight_number": 115,
     "name": "Transporter-1",
@@ -9256,7 +9256,7 @@
     ],
     "launchpad": "5e9e4502f509092b78566f87",
     "auto_update": true,
-    "launch_library_id": "dfd4f0e0-0ab4-494d-bd88-1b93b934b269",
+    "launch_library_id": null,
     "failures": [],
     "flight_number": 120,
     "name": "SARah 1",
@@ -9331,7 +9331,7 @@
     ],
     "launchpad": "5e9e4502f509094188566f88",
     "auto_update": true,
-    "launch_library_id": "32dcb5ad-7609-4fc0-8094-768ee5c2ebe0",
+    "launch_library_id": null,
     "failures": [],
     "flight_number": 122,
     "name": "Crew-2",
@@ -9399,7 +9399,7 @@
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
     "auto_update": true,
-    "launch_library_id": "edaf9a8d-d67c-4e0e-8452-a37b111581d5",
+    "launch_library_id": null,
     "failures": [],
     "flight_number": 123,
     "name": "SXM-8",
@@ -9467,7 +9467,7 @@
     ],
     "launchpad": "5e9e4502f509094188566f88",
     "auto_update": true,
-    "launch_library_id": "89a150ea-6e4b-489f-853c-3603ae684611",
+    "launch_library_id": null,
     "failures": [],
     "flight_number": 124,
     "name": "CRS-22",
@@ -9535,7 +9535,7 @@
     ],
     "launchpad": "5e9e4502f509094188566f88",
     "auto_update": true,
-    "launch_library_id": "aa88b853-9e04-4a28-9433-d87799331b1b",
+    "launch_library_id": null,
     "failures": [],
     "flight_number": 125,
     "name": "USSF-44",
@@ -9625,7 +9625,7 @@
     ],
     "launchpad": "5e9e4502f509094188566f88",
     "auto_update": true,
-    "launch_library_id": "0098c032-73de-4c6f-8d73-5d68b9a12fdf",
+    "launch_library_id": null,
     "failures": [],
     "flight_number": 126,
     "name": "USSF-52",
@@ -9715,7 +9715,7 @@
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
     "auto_update": true,
-    "launch_library_id": "0098c032-73de-4c6f-8d73-5d68b9a12fdf",
+    "launch_library_id": null,
     "failures": [],
     "flight_number": 128,
     "name": "Turksat 5B",
@@ -9781,7 +9781,7 @@
     "payloads": [],
     "launchpad": "5e9e4502f509092b78566f87",
     "auto_update": true,
-    "launch_library_id": "dfd4f0e0-0ab4-494d-bd88-1b93b934b269",
+    "launch_library_id": null,
     "failures": [],
     "flight_number": 130,
     "name": "DART",
@@ -9849,7 +9849,7 @@
     ],
     "launchpad": "5e9e4502f509094188566f88",
     "auto_update": true,
-    "launch_library_id": "0098c032-73de-4c6f-8d73-5d68b9a12fdf",
+    "launch_library_id": null,
     "failures": [],
     "flight_number": 131,
     "name": "CRS-23",
@@ -9921,7 +9921,7 @@
     ],
     "launchpad": "5e9e4502f509094188566f88",
     "auto_update": true,
-    "launch_library_id": "32dcb5ad-7609-4fc0-8094-768ee5c2ebe0",
+    "launch_library_id": null,
     "failures": [],
     "flight_number": 132,
     "name": "Crew-3",
@@ -9989,7 +9989,7 @@
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
     "auto_update": true,
-    "launch_library_id": "dfd4f0e0-0ab4-494d-bd88-1b93b934b269",
+    "launch_library_id": null,
     "failures": [],
     "flight_number": 117,
     "name": "Starlink-18 (v1.0)",
@@ -10012,5 +10012,275 @@
       }
     ],
     "id": "5ff6554f9257f579ee3a6c5f"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": "https://imgur.com/BrW201S.png",
+        "large": "https://imgur.com/573IfGk.png"
+      },
+      "reddit": {
+        "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
+        "launch": null,
+        "media": null,
+        "recovery": null
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "tbd": false,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "600f9bc08f798e2a4d5f97a4"
+    ],
+    "launchpad": "5e9e4501f509094ba4566f84",
+    "auto_update": true,
+    "launch_library_id": null,
+    "failures": [],
+    "flight_number": 118,
+    "name": "Starlink-19 (v1.0)",
+    "date_utc": "2021-02-01T00:00:00.000Z",
+    "date_unix": 1612137600,
+    "date_local": "2021-01-31T19:00:00-05:00",
+    "date_precision": "month",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "id": "600f9a5e8f798e2a4d5f979c"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": "https://imgur.com/BrW201S.png",
+        "large": "https://imgur.com/573IfGk.png"
+      },
+      "reddit": {
+        "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
+        "launch": null,
+        "media": null,
+        "recovery": null
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "tbd": false,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "600f9bcb8f798e2a4d5f97a5"
+    ],
+    "launchpad": "5e9e4501f509094ba4566f84",
+    "auto_update": true,
+    "launch_library_id": null,
+    "failures": [],
+    "flight_number": 119,
+    "name": "Starlink-20 (v1.0)",
+    "date_utc": "2021-02-01T00:00:00.000Z",
+    "date_unix": 1612137600,
+    "date_local": "2021-01-31T19:00:00-05:00",
+    "date_precision": "month",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "id": "600f9a718f798e2a4d5f979d"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": "https://imgur.com/BrW201S.png",
+        "large": "https://imgur.com/573IfGk.png"
+      },
+      "reddit": {
+        "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
+        "launch": null,
+        "media": null,
+        "recovery": null
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "tbd": false,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "600f9bd88f798e2a4d5f97a6"
+    ],
+    "launchpad": "5e9e4501f509094ba4566f84",
+    "auto_update": true,
+    "launch_library_id": null,
+    "failures": [],
+    "flight_number": 121,
+    "name": "Starlink-21 (v1.0)",
+    "date_utc": "2021-03-01T00:00:00.000Z",
+    "date_unix": 1614556800,
+    "date_local": "2021-02-28T19:00:00-05:00",
+    "date_precision": "month",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "id": "600f9a8d8f798e2a4d5f979e"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": null,
+        "large": null
+      },
+      "reddit": {
+        "campaign": null,
+        "launch": null,
+        "media": null,
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "tbd": false,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [],
+    "launchpad": "5e9e4501f509094ba4566f84",
+    "auto_update": true,
+    "launch_library_id": null,
+    "failures": [],
+    "flight_number": 127,
+    "name": "Transporter-2",
+    "date_utc": "2021-06-01T00:00:00.000Z",
+    "date_unix": 1622505600,
+    "date_local": "2021-05-31T20:00:00-04:00",
+    "date_precision": "month",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "id": "600f9b6d8f798e2a4d5f979f"
   }
 ]
