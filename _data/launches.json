@@ -9110,9 +9110,9 @@
     "failures": [],
     "flight_number": 116,
     "name": "Starlink-17 (v1.0)",
-    "date_utc": "2021-01-29T12:45:00.000Z",
-    "date_unix": 1611924300,
-    "date_local": "2021-01-29T07:45:00-05:00",
+    "date_utc": "2021-01-30T12:25:00.000Z",
+    "date_unix": 1612009500,
+    "date_local": "2021-01-30T07:25:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -9993,10 +9993,10 @@
     "failures": [],
     "flight_number": 117,
     "name": "Starlink-18 (v1.0)",
-    "date_utc": "2021-02-01T00:00:00.000Z",
-    "date_unix": 1612137600,
-    "date_local": "2021-01-31T19:00:00-05:00",
-    "date_precision": "day",
+    "date_utc": "2021-02-04T06:19:00.000Z",
+    "date_unix": 1612419540,
+    "date_local": "2021-02-04T01:19:00-05:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
@@ -10007,7 +10007,7 @@
         "reused": true,
         "landing_attempt": true,
         "landing_success": null,
-        "landing_type": "true",
+        "landing_type": "ASDS",
         "landpad": null
       }
     ],
