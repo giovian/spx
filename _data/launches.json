@@ -9078,7 +9078,7 @@
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
         "launch": null,
         "media": null,
-        "recovery": null
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
       "flickr": {
         "small": [],
@@ -9088,7 +9088,7 @@
       "webcast": null,
       "youtube_id": null,
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
     "static_fire_date_unix": null,
@@ -9099,7 +9099,9 @@
     "success": null,
     "details": "This mission launches the sixteenth batch of operational Starlink satellites, which are version 1.0, from LC-39A. It is the eighteenth Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
-    "ships": [],
+    "ships": [
+      "5ea6ed2f080df4000697c910"
+    ],
     "capsules": [],
     "payloads": [
       "5fbfedc654ceb10a5664c814"
@@ -9110,10 +9112,10 @@
     "failures": [],
     "flight_number": 116,
     "name": "Starlink-17 (v1.0)",
-    "date_utc": "2021-02-01T11:41:00.000Z",
-    "date_unix": 1612179660,
-    "date_local": "2021-02-01T06:41:00-05:00",
-    "date_precision": "hour",
+    "date_utc": "2021-02-01T00:00:00.000Z",
+    "date_unix": 1612137600,
+    "date_local": "2021-01-31T19:00:00-05:00",
+    "date_precision": "month",
     "upcoming": true,
     "cores": [
       {
@@ -9125,7 +9127,7 @@
         "landing_attempt": true,
         "landing_success": null,
         "landing_type": "ASDS",
-        "landpad": null
+        "landpad": "5e9e3033383ecbb9e534e7cc"
       }
     ],
     "id": "5fbfecfe54ceb10a5664c80b"
@@ -9228,7 +9230,7 @@
         "campaign": null,
         "launch": null,
         "media": null,
-        "recovery": null
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
       "flickr": {
         "small": [],
@@ -9335,10 +9337,10 @@
     "failures": [],
     "flight_number": 122,
     "name": "Crew-2",
-    "date_utc": "2021-04-20T00:00:00.000Z",
-    "date_unix": 1618876800,
-    "date_local": "2021-04-19T20:00:00-04:00",
-    "date_precision": "day",
+    "date_utc": "2021-04-20T10:00:00.000Z",
+    "date_unix": 1618912800,
+    "date_local": "2021-04-20T06:00:00-04:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
@@ -9439,7 +9441,7 @@
         "campaign": null,
         "launch": null,
         "media": null,
-        "recovery": null
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
       "flickr": {
         "small": [],
@@ -9961,7 +9963,7 @@
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
         "launch": null,
         "media": null,
-        "recovery": null
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
       "flickr": {
         "small": [],
@@ -9971,7 +9973,7 @@
       "webcast": null,
       "youtube_id": null,
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
     "static_fire_date_unix": null,
@@ -10029,7 +10031,7 @@
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
         "launch": null,
         "media": null,
-        "recovery": null
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
       "flickr": {
         "small": [],
@@ -10039,7 +10041,7 @@
       "webcast": null,
       "youtube_id": null,
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
     "static_fire_date_unix": null,
@@ -10097,7 +10099,7 @@
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
         "launch": null,
         "media": null,
-        "recovery": null
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
       "flickr": {
         "small": [],
@@ -10107,7 +10109,7 @@
       "webcast": null,
       "youtube_id": null,
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
     "static_fire_date_unix": null,
@@ -10165,7 +10167,7 @@
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
         "launch": null,
         "media": null,
-        "recovery": null
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
       "flickr": {
         "small": [],
@@ -10175,7 +10177,7 @@
       "webcast": null,
       "youtube_id": null,
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
     "static_fire_date_unix": null,
