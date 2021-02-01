@@ -839,7 +839,7 @@
     "rtls_landings": 0,
     "asds_attempts": 7,
     "asds_landings": 7,
-    "last_update": "B1061",
+    "last_update": "At LC-39A",
     "launches": [
       "5eb87d22ffd86e000604b36d",
       "5eb87d28ffd86e000604b373",
@@ -992,7 +992,7 @@
     "rtls_landings": 3,
     "asds_attempts": 2,
     "asds_landings": 2,
-    "last_update": "Landed at LZ-1 as of Dec 19, 2020 ",
+    "last_update": "At SLC-40",
     "launches": [
       "5eb87d39ffd86e000604b37e",
       "5eb87d42ffd86e000604b384",
@@ -1001,7 +1001,7 @@
       "5f8399fb818d8b59f5740d43"
     ],
     "serial": "B1059",
-    "status": "unknown",
+    "status": "active",
     "id": "5e9e28a7f359187afd3b2662"
   },
   {

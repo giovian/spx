@@ -9100,7 +9100,8 @@
     "details": "This mission launches the sixteenth batch of operational Starlink satellites, which are version 1.0, from LC-39A. It is the eighteenth Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
     "ships": [
-      "5ea6ed2f080df4000697c910"
+      "5ea6ed2f080df4000697c910",
+      "5ee68c683c228f36bd5809b5"
     ],
     "capsules": [],
     "payloads": [
@@ -9112,10 +9113,10 @@
     "failures": [],
     "flight_number": 116,
     "name": "Starlink-17 (v1.0)",
-    "date_utc": "2021-02-01T00:00:00.000Z",
-    "date_unix": 1612137600,
-    "date_local": "2021-01-31T19:00:00-05:00",
-    "date_precision": "month",
+    "date_utc": "2021-02-02T11:19:00.000Z",
+    "date_unix": 1612264740,
+    "date_local": "2021-02-02T06:19:00-05:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
@@ -9982,9 +9983,12 @@
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
-    "details": null,
+    "details": "This mission launches the eighteenth batch of operational Starlink satellites, which are version 1.0, from SLC-40. It is the nineteenth Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
-    "ships": [],
+    "ships": [
+      "5ea6ed30080df4000697c913",
+      "601742b20c87b90be7bb7e86"
+    ],
     "capsules": [],
     "payloads": [
       "5ff655769257f579ee3a6c64"
@@ -10010,7 +10014,7 @@
         "landing_attempt": true,
         "landing_success": null,
         "landing_type": "ASDS",
-        "landpad": null
+        "landpad": "5e9e3032383ecb6bb234e7ca"
       }
     ],
     "id": "5ff6554f9257f579ee3a6c5f"
