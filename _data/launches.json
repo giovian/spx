@@ -9065,9 +9065,12 @@
   {
     "fairings": {
       "reused": null,
-      "recovery_attempt": null,
+      "recovery_attempt": true,
       "recovered": null,
-      "ships": []
+      "ships": [
+        "5ea6ed2e080df4000697c908",
+        "5ea6ed2e080df4000697c907"
+      ]
     },
     "links": {
       "patch": {
@@ -9076,7 +9079,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/l8qsz3/rspacex_starlink17_official_launch_discussion/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -9101,7 +9104,9 @@
     "crew": [],
     "ships": [
       "5ea6ed2f080df4000697c910",
-      "5ee68c683c228f36bd5809b5"
+      "5ee68c683c228f36bd5809b5",
+      "5ea6ed2e080df4000697c908",
+      "5ea6ed2e080df4000697c907"
     ],
     "capsules": [],
     "payloads": [
@@ -9111,11 +9116,11 @@
     "auto_update": true,
     "launch_library_id": "dfd4f0e0-0ab4-494d-bd88-1b93b934b269",
     "failures": [],
-    "flight_number": 116,
+    "flight_number": 117,
     "name": "Starlink-17 (v1.0)",
-    "date_utc": "2021-02-03T10:57:00.000Z",
-    "date_unix": 1612349820,
-    "date_local": "2021-02-03T05:57:00-05:00",
+    "date_utc": "2021-02-04T10:36:00.000Z",
+    "date_unix": 1612434960,
+    "date_local": "2021-02-04T05:36:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -9995,9 +10000,9 @@
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
     "auto_update": true,
-    "launch_library_id": null,
+    "launch_library_id": "f31702e8-6353-4c9a-932c-5bd104717500",
     "failures": [],
-    "flight_number": 117,
+    "flight_number": 116,
     "name": "Starlink-18 (v1.0)",
     "date_utc": "2021-02-04T06:19:00.000Z",
     "date_unix": 1612419540,
