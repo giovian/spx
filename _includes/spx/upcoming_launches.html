@@ -14,7 +14,7 @@
 {%- for launch in upcoming -%}
 {%- assign launchpad = site.data.launchpads | where: "id", launch.launchpad | first -%}
 {% include spx/precision.html launch=launch %}
-<tr class="{{ precision_class }}" apply-if-children="hidden:.past">
+<tr class="{{ precision_class }}" apply-if-children="hidden|.past">
   <td>{{ launch.flight_number }}</td>
   <td title="{% include spx/payloads.html payloads=launch.payloads %}">{{ launch.name }}</td>
   <td>{{ datetime }}</td>

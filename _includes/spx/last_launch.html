@@ -11,6 +11,16 @@
     </tr>
   </thead>
   <tbody>
+    <tr apply-if-children="hidden|.future">
+      <td>{{ upcoming.first.flight_number }}</td>
+      <td title="{% include spx/payloads.html payloads=upcoming.first.payloads %}">{{ upcoming.first.name }}</td>
+      <td>{% include widgets/datetime.html datetime=upcoming.first.date_unix replace=true %}</td>
+      <td><code title="{{ upcoming.first.date_local | date: "%a %d %b %T" }}">{{ upcoming.first.date_unix | date: "%a %d %b %T" }}</code></td>
+      {%- assign launchpad = site.data.launchpads | where: "id", upcoming.first.launchpad | first -%}
+      <td title="{% include spx/thumbs.html successes=launchpad.launch_successes attempts=launchpad.launch_attempts %}">{{ launchpad.name }}</td>
+      <td>{% include spx/landpad.html launch=upcoming.first %}</td>
+      <td>{%- for core in upcoming.first.cores -%}{% include spx/core_past_flights.html core=core %}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{%- endfor -%}</td>
+    </tr>
     <tr>
       <td>{{ last_launch.flight_number }}</td>
       <td title="{% include spx/payloads.html payloads=last_launch.payloads %}">{{ last_launch.name }}</td>
