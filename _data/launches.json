@@ -9118,9 +9118,9 @@
     "failures": [],
     "flight_number": 117,
     "name": "Starlink-17 (v1.0)",
-    "date_utc": "2021-02-05T10:14:00.000Z",
-    "date_unix": 1612520040,
-    "date_local": "2021-02-05T05:14:00-05:00",
+    "date_utc": "2021-02-07T10:31:00.000Z",
+    "date_unix": 1612693860,
+    "date_local": "2021-02-07T05:31:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -9976,7 +9976,13 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/50908787351_5733229c09_o.jpg",
+          "https://live.staticflickr.com/65535/50908092893_d254477be0_o.jpg",
+          "https://live.staticflickr.com/65535/50908092833_4cb5833fb9_o.jpg",
+          "https://live.staticflickr.com/65535/50908787221_9cf383a2b4_o.jpg",
+          "https://live.staticflickr.com/65535/50908787166_8dde2e29bd_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/fe6HBw1y6bA",
@@ -9990,7 +9996,7 @@
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "details": "This mission launches the eighteenth batch of operational Starlink satellites, which are version 1.0, from SLC-40. It is the nineteenth Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
     "ships": [
@@ -10078,9 +10084,9 @@
     "failures": [],
     "flight_number": 118,
     "name": "Starlink-19 (v1.0)",
-    "date_utc": "2021-02-11T05:30:00.000Z",
-    "date_unix": 1613021400,
-    "date_local": "2021-02-11T00:30:00-05:00",
+    "date_utc": "2021-02-11T05:47:00.000Z",
+    "date_unix": 1613022420,
+    "date_local": "2021-02-11T00:47:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
