@@ -10086,9 +10086,9 @@
     "failures": [],
     "flight_number": 117,
     "name": "Starlink-19 (v1.0)",
-    "date_utc": "2021-02-15T04:21:00.000Z",
-    "date_unix": 1613362860,
-    "date_local": "2021-02-14T23:21:00-05:00",
+    "date_utc": "2021-02-16T03:59:00.000Z",
+    "date_unix": 1613447940,
+    "date_local": "2021-02-15T22:59:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
