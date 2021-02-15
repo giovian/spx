@@ -10050,7 +10050,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/ljkh7l/rspacex_starlink19_official_launch_discussion/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -10059,21 +10059,23 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/L0dkyV09Zso",
+      "youtube_id": "L0dkyV09Zso",
       "article": null,
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
+    "static_fire_date_utc": "2021-02-13T18:17:00.000Z",
+    "static_fire_date_unix": 1613240220,
     "tbd": false,
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
-    "details": null,
+    "details": "This mission launches the eighteenth batch of operational Starlink satellites, which are version 1.0, from SLC-40. It is the nineteenth Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
-    "ships": [],
+    "ships": [
+      "5ea6ed30080df4000697c913"
+    ],
     "capsules": [],
     "payloads": [
       "600f9bc08f798e2a4d5f97a4"
@@ -10091,15 +10093,15 @@
     "upcoming": true,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
+        "core": "5e9e28a7f359187afd3b2662",
+        "flight": 6,
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
         "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "landing_type": "ASDS",
+        "landpad": "5e9e3032383ecb6bb234e7ca"
       }
     ],
     "id": "600f9a5e8f798e2a4d5f979c"
