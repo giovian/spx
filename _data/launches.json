@@ -8010,7 +8010,7 @@
     "auto_update": true,
     "launch_library_id": null,
     "failures": [],
-    "flight_number": 129,
+    "flight_number": 128,
     "name": "GPS III SV05",
     "date_utc": "2021-07-01T00:00:00.000Z",
     "date_unix": 1625097600,
@@ -9545,7 +9545,7 @@
     "auto_update": true,
     "launch_library_id": null,
     "failures": [],
-    "flight_number": 128,
+    "flight_number": 127,
     "name": "USSF-44",
     "date_utc": "2021-07-01T00:00:00.000Z",
     "date_unix": 1625097600,
@@ -9635,7 +9635,7 @@
     "auto_update": true,
     "launch_library_id": null,
     "failures": [],
-    "flight_number": 133,
+    "flight_number": 132,
     "name": "USSF-52",
     "date_utc": "2021-10-01T00:00:00.000Z",
     "date_unix": 1633046400,
@@ -9791,11 +9791,11 @@
     "auto_update": true,
     "launch_library_id": null,
     "failures": [],
-    "flight_number": 127,
+    "flight_number": 137,
     "name": "DART",
-    "date_utc": "2021-07-21T00:00:00.000Z",
-    "date_unix": 1626825600,
-    "date_local": "2021-07-20T17:00:00-07:00",
+    "date_utc": "2021-11-24T00:00:00.000Z",
+    "date_unix": 1637712000,
+    "date_local": "2021-11-23T16:00:00-08:00",
     "date_precision": "day",
     "upcoming": true,
     "cores": [
@@ -9859,7 +9859,7 @@
     "auto_update": true,
     "launch_library_id": null,
     "failures": [],
-    "flight_number": 130,
+    "flight_number": 129,
     "name": "CRS-23",
     "date_utc": "2021-08-18T00:00:00.000Z",
     "date_unix": 1629244800,
@@ -9931,7 +9931,7 @@
     "auto_update": true,
     "launch_library_id": null,
     "failures": [],
-    "flight_number": 131,
+    "flight_number": 130,
     "name": "Crew-3",
     "date_utc": "2021-09-13T00:00:00.000Z",
     "date_unix": 1631491200,
@@ -10039,9 +10039,12 @@
   {
     "fairings": {
       "reused": null,
-      "recovery_attempt": null,
-      "recovered": null,
-      "ships": []
+      "recovery_attempt": true,
+      "recovered": true,
+      "ships": [
+        "5ea6ed2e080df4000697c908",
+        "5ea6ed2e080df4000697c907"
+      ]
     },
     "links": {
       "patch": {
@@ -10051,17 +10054,19 @@
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
         "launch": "https://www.reddit.com/r/spacex/comments/ljkh7l/rspacex_starlink19_official_launch_discussion/",
-        "media": null,
+        "media": "https://www.reddit.com/r/spacex/comments/lkwllg/starlink19_media_thread_photographer_contest/",
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/50949943433_87e3002307_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/L0dkyV09Zso",
       "youtube_id": "L0dkyV09Zso",
-      "article": null,
+      "article": "https://spaceflightnow.com/2021/02/16/spacex-successfully-deploys-60-more-starlink-satellites-but-loses-booster-on-descent/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": "2021-02-13T18:17:00.000Z",
