@@ -9113,9 +9113,9 @@
     "failures": [],
     "flight_number": 118,
     "name": "Starlink-17 (v1.0)",
-    "date_utc": "2021-03-03T00:53:00.000Z",
-    "date_unix": 1614732780,
-    "date_local": "2021-03-02T19:53:00-05:00",
+    "date_utc": "2021-03-04T08:24:00.000Z",
+    "date_unix": 1614846240,
+    "date_local": "2021-03-04T03:24:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -10216,16 +10216,16 @@
     "payloads": [
       "600f9bd88f798e2a4d5f97a6"
     ],
-    "launchpad": "5e9e4501f509094ba4566f84",
+    "launchpad": "5e9e4502f509094188566f88",
     "auto_update": true,
     "launch_library_id": null,
     "failures": [],
     "flight_number": 120,
     "name": "Starlink-21 (v1.0)",
-    "date_utc": "2021-03-01T00:00:00.000Z",
-    "date_unix": 1614556800,
-    "date_local": "2021-02-28T19:00:00-05:00",
-    "date_precision": "month",
+    "date_utc": "2021-03-13T10:06:00.000Z",
+    "date_unix": 1615629960,
+    "date_local": "2021-03-13T05:06:00-05:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
