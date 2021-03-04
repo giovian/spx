@@ -839,7 +839,7 @@
     "rtls_landings": 0,
     "asds_attempts": 7,
     "asds_landings": 7,
-    "last_update": "At LC-39A",
+    "last_update": "Landed on OCISLY as of Mar 4, 2021 ",
     "launches": [
       "5eb87d22ffd86e000604b36d",
       "5eb87d28ffd86e000604b373",
@@ -850,7 +850,7 @@
       "5fb95b3f3a88ae63c954603c"
     ],
     "serial": "B1049",
-    "status": "active",
+    "status": "unknown",
     "id": "5e9e28a5f3591833b13b2659"
   },
   {
@@ -1012,7 +1012,7 @@
     "rtls_landings": 0,
     "asds_attempts": 5,
     "asds_landings": 5,
-    "last_update": "Landed on OCISLY as of Jan 24, 2021 ",
+    "last_update": "At SLC-40",
     "launches": [
       "5eb87d46ffd86e000604b388",
       "5eb87d50ffd86e000604b394",
@@ -1021,7 +1021,7 @@
       "5fd386aa7faea57d297c86c1"
     ],
     "serial": "B1058",
-    "status": "unknown",
+    "status": "active",
     "id": "5e9e28a7f3591817f23b2663"
   },
   {
