@@ -9082,12 +9082,15 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/51004598206_9779f08338_o.jpg",
+          "https://live.staticflickr.com/65535/51004598196_b2059799f4_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/d5DzoKuhdNk",
       "youtube_id": "d5DzoKuhdNk",
-      "article": null,
+      "article": "https://spaceflightnow.com/2021/03/04/spacex-sticks-75th-falcon-rocket-landing-after-launching-60-more-starlink-satellites/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": "2021-02-24T12:25:00.000Z",
@@ -9338,9 +9341,9 @@
     "failures": [],
     "flight_number": 123,
     "name": "Crew-2",
-    "date_utc": "2021-04-20T10:00:00.000Z",
-    "date_unix": 1618912800,
-    "date_local": "2021-04-20T06:00:00-04:00",
+    "date_utc": "2021-04-22T11:11:00.000Z",
+    "date_unix": 1619089860,
+    "date_local": "2021-04-22T07:11:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -10141,7 +10144,7 @@
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
-    "details": null,
+    "details": "This mission launches the 20th batch of operational Starlink satellites, which are version 1.0, from LC-39A or SLC-40. It is the 21st Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
     "ships": [],
     "capsules": [],
@@ -10154,21 +10157,21 @@
     "failures": [],
     "flight_number": 119,
     "name": "Starlink-20 (v1.0)",
-    "date_utc": "2021-03-09T03:20:00.000Z",
-    "date_unix": 1615260000,
-    "date_local": "2021-03-08T22:20:00-05:00",
+    "date_utc": "2021-03-09T02:58:00.000Z",
+    "date_unix": 1615258680,
+    "date_local": "2021-03-08T21:58:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
+        "core": "5e9e28a7f3591817f23b2663",
+        "flight": 6,
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
         "landing_success": null,
-        "landing_type": null,
+        "landing_type": "ASDS",
         "landpad": null
       }
     ],
@@ -10209,7 +10212,7 @@
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
-    "details": null,
+    "details": "This mission launches the 21st batch of operational Starlink satellites, which are version 1.0, from LC-39A or SLC-40. It is the 22nd Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
     "ships": [],
     "capsules": [],
@@ -10307,5 +10310,141 @@
       }
     ],
     "id": "600f9b6d8f798e2a4d5f979f"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": "https://imgur.com/BrW201S.png",
+        "large": "https://imgur.com/573IfGk.png"
+      },
+      "reddit": {
+        "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
+        "launch": null,
+        "media": null,
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "tbd": false,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "60428afbc041c16716f73cdd"
+    ],
+    "launchpad": "5e9e4501f509094ba4566f84",
+    "auto_update": true,
+    "launch_library_id": null,
+    "failures": [],
+    "flight_number": 121,
+    "name": "Starlink-22 (v1.0)",
+    "date_utc": "2021-03-01T00:00:00.000Z",
+    "date_unix": 1614556800,
+    "date_local": "2021-02-28T19:00:00-05:00",
+    "date_precision": "month",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "id": "60428aafc041c16716f73cd7"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": "https://imgur.com/BrW201S.png",
+        "large": "https://imgur.com/573IfGk.png"
+      },
+      "reddit": {
+        "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
+        "launch": null,
+        "media": null,
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "tbd": false,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "60428b02c041c16716f73cde"
+    ],
+    "launchpad": "5e9e4501f509094ba4566f84",
+    "auto_update": true,
+    "launch_library_id": null,
+    "failures": [],
+    "flight_number": 122,
+    "name": "Starlink-23 (v1.0)",
+    "date_utc": "2021-03-01T00:00:00.000Z",
+    "date_unix": 1614556800,
+    "date_local": "2021-02-28T19:00:00-05:00",
+    "date_precision": "month",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "id": "60428ac4c041c16716f73cd8"
   }
 ]
