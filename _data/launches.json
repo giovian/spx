@@ -10123,7 +10123,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/m0yww5/rspacex_starlink20_official_launch_discussion/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -10132,8 +10132,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/U4sWbTfrzj8",
+      "youtube_id": "U4sWbTfrzj8",
       "article": null,
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
@@ -10146,7 +10146,10 @@
     "success": null,
     "details": "This mission launches the 20th batch of operational Starlink satellites, which are version 1.0, from LC-39A or SLC-40. It is the 21st Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
-    "ships": [],
+    "ships": [
+      "5ea6ed2f080df4000697c910",
+      "5ee68c683c228f36bd5809b5"
+    ],
     "capsules": [],
     "payloads": [
       "600f9bcb8f798e2a4d5f97a5"
@@ -10172,7 +10175,7 @@
         "landing_attempt": true,
         "landing_success": null,
         "landing_type": "ASDS",
-        "landpad": null
+        "landpad": "5e9e3033383ecbb9e534e7cc"
       }
     ],
     "id": "600f9a718f798e2a4d5f979d"
