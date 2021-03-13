@@ -10111,10 +10111,13 @@
   },
   {
     "fairings": {
-      "reused": null,
-      "recovery_attempt": null,
-      "recovered": null,
-      "ships": []
+      "reused": true,
+      "recovery_attempt": true,
+      "recovered": true,
+      "ships": [
+        "5ea6ed2e080df4000697c909",
+        "5ea6ed2f080df4000697c90c"
+      ]
     },
     "links": {
       "patch": {
@@ -10129,12 +10132,16 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/51027544097_799f5baccc_o.jpg",
+          "https://live.staticflickr.com/65535/51027443336_3e7486be6f_o.jpg",
+          "https://live.staticflickr.com/65535/51027443321_9a59458d39_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/U4sWbTfrzj8",
       "youtube_id": "U4sWbTfrzj8",
-      "article": null,
+      "article": "https://spaceflightnow.com/2021/03/11/spacex-adds-more-satellites-to-starlink-internet-fleet/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
@@ -10148,7 +10155,9 @@
     "crew": [],
     "ships": [
       "5ea6ed2f080df4000697c910",
-      "5ee68c683c228f36bd5809b5"
+      "5ee68c683c228f36bd5809b5",
+      "5ea6ed2e080df4000697c909",
+      "5ea6ed2f080df4000697c90c"
     ],
     "capsules": [],
     "payloads": [
@@ -10362,9 +10371,9 @@
     "failures": [],
     "flight_number": 121,
     "name": "Starlink-22 (v1.0)",
-    "date_utc": "2021-03-22T05:37:00.000Z",
-    "date_unix": 1616391420,
-    "date_local": "2021-03-22T01:37:00-04:00",
+    "date_utc": "2021-03-21T05:37:00.000Z",
+    "date_unix": 1616305020,
+    "date_local": "2021-03-21T01:37:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
