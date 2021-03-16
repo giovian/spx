@@ -10376,9 +10376,9 @@
     "failures": [],
     "flight_number": 121,
     "name": "Starlink-22 (v1.0)",
-    "date_utc": "2021-03-21T04:37:00.000Z",
-    "date_unix": 1616301420,
-    "date_local": "2021-03-21T00:37:00-04:00",
+    "date_utc": "2021-03-22T22:19:00.000Z",
+    "date_unix": 1616451540,
+    "date_local": "2021-03-22T18:19:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
