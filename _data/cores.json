@@ -1034,7 +1034,7 @@
     "rtls_landings": 0,
     "asds_attempts": 6,
     "asds_landings": 6,
-    "last_update": "At SLC-40",
+    "last_update": "Landed on OCISLY as of Mar 24, 2021. ",
     "launches": [
       "5eb87d4affd86e000604b38b",
       "5ef6a1e90059c33cee4a828a",
@@ -1044,7 +1044,7 @@
       "60428aafc041c16716f73cd7"
     ],
     "serial": "B1060",
-    "status": "active",
+    "status": "unknown",
     "id": "5ef670f10059c33cee4a826c"
   },
   {
