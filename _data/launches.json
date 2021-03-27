@@ -10336,7 +10336,7 @@
     "fairings": {
       "reused": null,
       "recovery_attempt": true,
-      "recovered": null,
+      "recovered": true,
       "ships": [
         "6059166413f40e27e8af34b6",
         "5ea6ed2f080df4000697c90b"
@@ -10456,10 +10456,10 @@
     "failures": [],
     "flight_number": 122,
     "name": "Starlink-23 (v1.0)",
-    "date_utc": "2021-04-01T00:00:00.000Z",
-    "date_unix": 1617235200,
-    "date_local": "2021-03-31T20:00:00-04:00",
-    "date_precision": "month",
+    "date_utc": "2021-04-07T16:34:00.000Z",
+    "date_unix": 1617813240,
+    "date_local": "2021-04-07T12:34:00-04:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
