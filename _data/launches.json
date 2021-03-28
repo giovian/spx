@@ -10144,8 +10144,8 @@
       "article": "https://spaceflightnow.com/2021/03/11/spacex-adds-more-satellites-to-starlink-internet-fleet/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
+    "static_fire_date_utc": "2021-03-09T23:00:00.000Z",
+    "static_fire_date_unix": 1615330800,
     "tbd": false,
     "net": false,
     "window": null,
@@ -10191,10 +10191,13 @@
   },
   {
     "fairings": {
-      "reused": null,
-      "recovery_attempt": null,
-      "recovered": null,
-      "ships": []
+      "reused": true,
+      "recovery_attempt": true,
+      "recovered": true,
+      "ships": [
+        "5ea6ed2e080df4000697c909",
+        "5ea6ed2f080df4000697c90c"
+      ]
     },
     "links": {
       "patch": {
