@@ -10443,12 +10443,16 @@
     "static_fire_date_unix": null,
     "tbd": false,
     "net": false,
-    "window": null,
+    "window": 0,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
     "details": "This mission launches the 23rd batch of operational Starlink satellites, which are version 1.0, from or SLC-40 or LC-39A. It is the 24th Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
-    "ships": [],
+    "ships": [
+      "5ea6ed30080df4000697c913",
+      "5ee68c683c228f36bd5809b5",
+      "5ea6ed2f080df4000697c90b"
+    ],
     "capsules": [],
     "payloads": [
       "60428b02c041c16716f73cde"
@@ -10466,15 +10470,15 @@
     "upcoming": true,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
+        "core": "5ef670f10059c33cee4a826c",
+        "flight": 7,
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
         "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "landing_type": "ASDS",
+        "landpad": "5e9e3032383ecb6bb234e7ca"
       }
     ],
     "id": "60428ac4c041c16716f73cd8"
