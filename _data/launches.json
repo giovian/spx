@@ -10414,9 +10414,12 @@
   {
     "fairings": {
       "reused": null,
-      "recovery_attempt": null,
+      "recovery_attempt": true,
       "recovered": null,
-      "ships": []
+      "ships": [
+        "6059166413f40e27e8af34b6",
+        "5ea6ed2f080df4000697c90b"
+      ]
     },
     "links": {
       "patch": {
