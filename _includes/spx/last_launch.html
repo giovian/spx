@@ -11,7 +11,8 @@
     </tr>
   </thead>
   <tbody>
-    <tr apply-if-children="hidden|.future">
+    {% include spx/precision.html launch=upcoming.first %}
+    <tr apply-if-children="hidden|.future" {% if precision_class contains 'color-' %}hidden{% endif %}>
       <td>{{ upcoming.first.flight_number }}</td>
       <td title="{% include spx/payloads.html payloads=upcoming.first.payloads %}">{{ upcoming.first.name }}</td>
       <td>{% include widgets/datetime.html datetime=upcoming.first.date_unix replace=true %}</td>
