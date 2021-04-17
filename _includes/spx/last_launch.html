@@ -14,7 +14,7 @@
     {% include spx/precision.html launch=upcoming.first %}
     <tr apply-if-children="hidden|.future" {% if precision_class contains 'color-' %}hidden{% endif %}>
       <td>{{ upcoming.first.flight_number }}</td>
-      <td title="{% include spx/payloads.html payloads=upcoming.first.payloads %}">{{ upcoming.first.name }}</td>
+      <td title="{{ upcoming.first.name }}&#13;{% include spx/payloads.html payloads=upcoming.first.payloads %}">{{ upcoming.first.name }}</td>
       <td>{% include widgets/datetime.html datetime=upcoming.first.date_unix replace=true %}</td>
       <td><code title="{{ upcoming.first.date_local | date: "%a %d %b %T" }}">{{ upcoming.first.date_unix | date: "%a %d %b %T" }}</code></td>
       {%- assign launchpad = site.data.launchpads | where: "id", upcoming.first.launchpad | first -%}
@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td>{{ last_launch.flight_number }}</td>
-      <td title="{% include spx/payloads.html payloads=last_launch.payloads %}">{{ last_launch.name }}</td>
+      <td title="{{ last_launch.name }}&#13;{% include spx/payloads.html payloads=last_launch.payloads %}">{{ last_launch.name }}</td>
       <td>{% include widgets/datetime.html datetime=last_launch.date_unix replace=true %}</td>
       <td><code title="{{ last_launch.date_local | date: "%a %d %b %T" }}">{{ last_launch.date_unix | date: "%a %d %b %T" }}</code></td>
       {%- assign launchpad = site.data.launchpads | where: "id", last_launch.launchpad | first -%}
