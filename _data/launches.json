@@ -9295,7 +9295,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/lrx7ez/crew2_launch_campaign_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/mvcst9/rspacex_crew2_launch_discussion_updates_thread/",
         "media": null,
         "recovery": null
       },
@@ -10508,7 +10508,7 @@
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
-    "details": null,
+    "details": "This mission launches the 24th batch of operational Starlink satellites, which are version 1.0, from LC-39A or SLC-40. It is the 25th Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
     "ships": [],
     "capsules": [],
