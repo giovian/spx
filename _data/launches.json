@@ -9315,7 +9315,7 @@
     "net": false,
     "window": 0,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "details": "SpaceX launches the second operational mission of its Crew Dragon vehicle as part of NASA's Commercial Crew Program, carrying NASA astronauts Shane Kimbrough, Megan McArthur, Thomas Pesquet, and Akihiko Hoshide to the International Space Station. The Falcon 9 and Crew Dragon lift off from LC-39A, Kennedy Space Center. Both the booster and the capsule have flown previously, each a first for a commercial crew flight. The booster for this mission is expected to land on an ASDS. The mission will be complete with the safe return of the astronauts to Earth.",
     "crew": [
       "5fe3ba5fb3467846b3242188",
@@ -9343,7 +9343,7 @@
     "date_unix": 1619171340,
     "date_local": "2021-04-23T05:49:00-04:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
         "core": "5f57c53d0622a6330279009f",
@@ -9352,7 +9352,7 @@
         "legs": true,
         "reused": true,
         "landing_attempt": true,
-        "landing_success": null,
+        "landing_success": true,
         "landing_type": "ASDS",
         "landpad": "5e9e3032383ecb6bb234e7ca"
       }
@@ -10517,7 +10517,7 @@
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
     "auto_update": true,
-    "launch_library_id": "edaf9a8d-d67c-4e0e-8452-a37b111581d5",
+    "launch_library_id": "fbd23c86-89d0-4d3f-b5fb-5d7165d05cca",
     "failures": [],
     "flight_number": 124,
     "name": "Starlink-24 (v1.0)",
