@@ -9290,8 +9290,8 @@
     "fairings": null,
     "links": {
       "patch": {
-        "small": "https://imgur.com/NPFaJDF.png",
-        "large": "https://imgur.com/65vp2PE.png"
+        "small": "https://imgur.com/SS92zpG.png",
+        "large": "https://imgur.com/OvSAk3K.png"
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/lrx7ez/crew2_launch_campaign_thread/",
@@ -9304,8 +9304,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/lW07SN3YoLI",
+      "youtube_id": "lW07SN3YoLI",
       "article": null,
       "wikipedia": "https://en.wikipedia.org/wiki/SpaceX_Crew-2"
     },
