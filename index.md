@@ -40,6 +40,13 @@
 |----
 | Total | {{ site.data.payloads.size | plus: site.data.launches.size | plus: site.data.cores.size | plus: site.data.capsules.size | plus: site.data.landpads.size | plus: site.data.launchpads.size | plus: site.data.rockets.size | plus: site.data.dragons.size }}
 {: style="min-width:12em;margin-right:1em"}
+{% comment %} -------------------- CREWS -------------------- {% endcomment %}
+{% assign crewed_launches = past_launches | where_exp: "item", "item.crew.size > 0" %}
+| Crews | |
+|:---|---:|
+| Crewed launches | {{ crewed_launches | size }} |
+| Astronauts | {% for l in crewed_launches %}{% assign crews = crews | plus: l.crew.size %}{% endfor %}{{ crews }} |
+{: style="min-width:12em;margin-right:1em"}
 </div>
 <div markdown=1>
 {% comment %} -------------------- SUCCESSES -------------------- {% endcomment %}
