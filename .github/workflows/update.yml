@@ -50,5 +50,10 @@ jobs:
         with:
           url: 'https://api.spacexdata.com/v4/landpads'
           file: '_data/landpads.json'
+      - name: Fetch and save crews
+        uses: gautemo/fetch-api-data-action@1.1.0
+        with:
+          url: 'https://api.spacexdata.com/v4/crew'
+          file: '_data/crew.json'
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4.8.0
