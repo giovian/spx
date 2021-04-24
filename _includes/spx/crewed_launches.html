@@ -1,0 +1,2 @@
+{%- assign titles = "" | split: "" -%}
+{% for cl in include.crewed_launches %}{% assign cl_landpad = site.data.landpads | where: "id", cl.cores.first.landpad | map: "name" | first %}{% assign title = cl.date_utc | date_to_string | append: " &uarr; " | append: cl.name | append: " &rarr; " | append: cl_landpad %}{% assign titles = titles | push: title %}{% endfor %}<span title="{{ titles | join: "&#13;" }}">{{ include.crewed_launches | size }}</span>

@@ -1,0 +1,2 @@
+{%- assign names = "" | split: "" -%}
+{% for l in crewed_launches %}{% assign crews = crews | plus: l.crew.size %}{% for cr in l.crew %}{% assign member = site.data.crew | where: "id", cr %}{% assign name = member.first.agency | append: " &rarr; " | append: member.first.name %}{% assign names = names | push: name %}{% endfor %}{% endfor %}<span title="{{ names | join: '&#13;' }}">{{ crews }}</span>

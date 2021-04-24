@@ -44,8 +44,8 @@
 {% assign crewed_launches = past_launches | where_exp: "item", "item.crew.size > 0" %}
 | Crews | |
 |:---|---:|
-| Crewed launches | {{ crewed_launches | size }} |
-| Astronauts | {% for l in crewed_launches %}{% assign crews = crews | plus: l.crew.size %}{% endfor %}{{ crews }} |
+| Crewed launches | {% include spx/crewed_launches.html crewed_launches=crewed_launches %} |
+| Astronauts | {% include spx/astronauts.html %} |
 {: style="min-width:12em;margin-right:1em"}
 </div>
 <div markdown=1>
