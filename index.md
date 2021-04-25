@@ -17,16 +17,14 @@
 
 <div markdown=1 style="display:flex;">
 <div markdown=1>
-{% comment %} -------------------- LAUNCHES -------------------- {% endcomment %}
+{% comment %} -------------------- MISSIONS -------------------- {% endcomment %}
 {% assign difference = site.data.launches.size | minus: past_launches.size %}
-| Launches | |
+| Missions | |
 |:---|---:|
 | Past | {{ past_launches.size }} |
 | Upcoming | {{ upcoming.size }}{% if upcoming.size != difference %}*{% endif %} |
 {: style="min-width:12em;margin-right:1em"}
-</div>
 {% comment %} -------------------- DATA -------------------- {% endcomment %}
-<div markdown=1>
 | Data | |
 |:---|---:|
 | Payloads | {{ site.data.payloads.size }} |
@@ -40,6 +38,15 @@
 |----
 | Total | {{ site.data.payloads.size | plus: site.data.launches.size | plus: site.data.cores.size | plus: site.data.capsules.size | plus: site.data.landpads.size | plus: site.data.launchpads.size | plus: site.data.rockets.size | plus: site.data.dragons.size }}
 {: style="min-width:12em;margin-right:1em"}
+</div>
+<div markdown=1>
+{% assign cores_reuse = site.data.cores | group_by: "reuse_count" | sort: "name" %}
+| Cores reuse | |
+|:---|---:|{% for cr in cores_reuse %}
+| Reused {{ cr.name }} times | {{ cr.items.size }} |{% endfor %}
+|----
+| Cores reused | {{ site.data.cores | where_exp: "item", "item.reuse_count > 0" | size }} |
+{: style="min-width:12em;margin-right:1em"}
 {% comment %} -------------------- CREWS -------------------- {% endcomment %}
 {% assign crewed_launches = past_launches | where_exp: "item", "item.crew.size > 0" %}
 | Crews | |
@@ -49,10 +56,10 @@
 {: style="min-width:12em;margin-right:1em"}
 </div>
 <div markdown=1>
-{% comment %} -------------------- SUCCESSES -------------------- {% endcomment %}
+{% comment %} -------------------- LAUNCHES -------------------- {% endcomment %}
 {% assign failures = site.data.launches | where: "success", "false" %}
 {% assign rockets = site.data.rockets | sort: "success_rate_pct" %}
-| Successes | | % |
+| Launches | | % |
 |:---|---:|---:|{% for r in rockets reversed %}{% assign past_launches_rocket = past_launches | where: "rocket", r.id %}{% if past_launches_rocket.size == 0 %}{% assign past_launches_rocket = "" | split: "" | push: "1" %}{% endif %}
 | {{ r.name }} | {{ past_launches | where: "rocket", r.id | group_by: "success" | where: "name", "true" | map: "items" | first | size }}-{{ past_launches | where: "rocket", r.id | group_by: "success" | where: "name", "false" | map: "items" | first | size }} | {{ past_launches_rocket | group_by: "success" | where: "name", "true" | map: "items" | first | size | times: 100 | divided_by: past_launches_rocket.size }} |{% endfor %}
 |----
