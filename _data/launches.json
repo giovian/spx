@@ -9301,7 +9301,25 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/51136761295_edb4d3ba1d_o.jpg",
+          "https://live.staticflickr.com/65535/51135652706_3e8448193d_o.jpg",
+          "https://live.staticflickr.com/65535/51135865043_3ee9818a56_o.jpg",
+          "https://live.staticflickr.com/65535/51136428854_4723547f5a_o.jpg",
+          "https://live.staticflickr.com/65535/51134975562_ca678d7e2f_o.jpg",
+          "https://live.staticflickr.com/65535/51135650561_0bd04e5a56_o.jpg",
+          "https://live.staticflickr.com/65535/51135650711_f65e45739d_o.jpg",
+          "https://live.staticflickr.com/65535/51136428874_30a1912bc6_o.jpg",
+          "https://live.staticflickr.com/65535/51135650696_80bb4d0047_o.jpg",
+          "https://live.staticflickr.com/65535/51135650641_f8c77b5420_o.jpg",
+          "https://live.staticflickr.com/65535/51136428829_2b995a79bc_o.jpg",
+          "https://live.staticflickr.com/65535/51135650621_187bc9fa5b_o.jpg",
+          "https://live.staticflickr.com/65535/51135324597_816d0bc217_o.jpg",
+          "https://live.staticflickr.com/65535/51135997286_1b5a4452f0_o.jpg",
+          "https://live.staticflickr.com/65535/51136428899_eb329865d1_o.jpg",
+          "https://live.staticflickr.com/65535/51136428909_d4d6cf76ae_o.jpg",
+          "https://live.staticflickr.com/65535/51136761220_9a2e6dbaf6_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/lW07SN3YoLI",
@@ -10476,9 +10494,11 @@
   {
     "fairings": {
       "reused": null,
-      "recovery_attempt": null,
+      "recovery_attempt": true,
       "recovered": null,
-      "ships": []
+      "ships": [
+        "6059166413f40e27e8af34b6"
+      ]
     },
     "links": {
       "patch": {
@@ -10512,7 +10532,9 @@
     "crew": [],
     "ships": [
       "5ea6ed2f080df4000697c910",
-      "5ea6ed2f080df4000697c90d"
+      "5ea6ed2f080df4000697c90d",
+      "5ee68c683c228f36bd5809b5",
+      "6059166413f40e27e8af34b6"
     ],
     "capsules": [],
     "payloads": [
