@@ -10507,7 +10507,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/mzol0k/rspacex_starlink24_launch_discussion_updates/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -10546,9 +10546,9 @@
     "failures": [],
     "flight_number": 124,
     "name": "Starlink-24 (v1.0)",
-    "date_utc": "2021-04-28T04:05:00.000Z",
-    "date_unix": 1619582700,
-    "date_local": "2021-04-28T00:05:00-04:00",
+    "date_utc": "2021-04-29T03:44:00.000Z",
+    "date_unix": 1619667840,
+    "date_local": "2021-04-28T23:44:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
