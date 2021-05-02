@@ -30,13 +30,14 @@
 | Payloads | {{ site.data.payloads.size }} |
 | Launches | {{ site.data.launches.size }} |
 | Cores | {{ site.data.cores.size }} |
+| Crew | {{ site.data.crew.size }} |
 | Capsules | {{ site.data.capsules.size }} |
 | Landpads | {{ site.data.landpads.size }} |
 | Launchpads | {{ site.data.launchpads.size }} |
 | Rockets | {{ site.data.rockets.size }} |
 | Dragons | {{ site.data.dragons.size }} |
 |----
-| Total | {{ site.data.payloads.size | plus: site.data.launches.size | plus: site.data.cores.size | plus: site.data.capsules.size | plus: site.data.landpads.size | plus: site.data.launchpads.size | plus: site.data.rockets.size | plus: site.data.dragons.size }}
+| Total | {{ site.data.payloads.size | plus: site.data.launches.size | plus: site.data.cores.size | plus: site.data.crew.size | plus: site.data.capsules.size | plus: site.data.landpads.size | plus: site.data.launchpads.size | plus: site.data.rockets.size | plus: site.data.dragons.size }}
 {: style="min-width:12em;margin-right:1em"}
 </div>
 <div markdown=1>
