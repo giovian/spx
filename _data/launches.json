@@ -10693,10 +10693,10 @@
     "failures": [],
     "flight_number": 126,
     "name": "Starlink-26 (v1.0)",
-    "date_utc": "2021-05-01T00:00:00.000Z",
-    "date_unix": 1619827200,
-    "date_local": "2021-04-30T20:00:00-04:00",
-    "date_precision": "month",
+    "date_utc": "2021-05-13T00:00:00.000Z",
+    "date_unix": 1620864000,
+    "date_local": "2021-05-12T20:00:00-04:00",
+    "date_precision": "day",
     "upcoming": true,
     "cores": [
       {
