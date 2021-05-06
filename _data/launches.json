@@ -7902,7 +7902,9 @@
           "https://live.staticflickr.com/65535/50618470472_fb8e6507d7_o.jpg",
           "https://live.staticflickr.com/65535/50617626838_c0c71de1f7_o.jpg",
           "https://live.staticflickr.com/65535/50617626738_aa3997aaea_o.jpg",
-          "https://live.staticflickr.com/65535/50617626408_fb0bba0f89_o.jpg"
+          "https://live.staticflickr.com/65535/50617626408_fb0bba0f89_o.jpg",
+          "https://live.staticflickr.com/65535/51158778650_9b8d555c1e_o.jpg",
+          "https://live.staticflickr.com/65535/51158458619_9b74f6a3d0_o.jpg"
         ]
       },
       "presskit": null,
@@ -9804,9 +9806,9 @@
     "failures": [],
     "flight_number": 144,
     "name": "DART",
-    "date_utc": "2021-11-24T00:00:00.000Z",
-    "date_unix": 1637712000,
-    "date_local": "2021-11-23T16:00:00-08:00",
+    "date_utc": "2021-11-23T00:00:00.000Z",
+    "date_unix": 1637625600,
+    "date_local": "2021-11-22T16:00:00-08:00",
     "date_precision": "day",
     "upcoming": true,
     "cores": [
@@ -10577,8 +10579,8 @@
   {
     "fairings": {
       "reused": true,
-      "recovery_attempt": null,
-      "recovered": null,
+      "recovery_attempt": true,
+      "recovered": true,
       "ships": [
         "6059166413f40e27e8af34b6"
       ]
@@ -10753,7 +10755,10 @@
     "success": null,
     "details": null,
     "crew": [],
-    "ships": [],
+    "ships": [
+      "5ea6ed30080df4000697c913",
+      "5ee68c683c228f36bd5809b5"
+    ],
     "capsules": [],
     "payloads": [
       "6079bd5e9a06446e8c61bf7c"
@@ -10771,15 +10776,15 @@
     "upcoming": true,
     "cores": [
       {
-        "core": null,
-        "flight": null,
+        "core": "5e9e28a6f35918c0803b265c",
+        "flight": 10,
         "gridfins": true,
         "legs": true,
         "reused": true,
         "landing_attempt": true,
         "landing_success": null,
         "landing_type": "ASDS",
-        "landpad": null
+        "landpad": "5e9e3032383ecb6bb234e7ca"
       }
     ],
     "id": "6079bd1c9a06446e8c61bf76"
