@@ -10685,7 +10685,7 @@
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
-    "details": "This mission launches the 26th batch of operational Starlink satellites, which are version 1.0, from LC-39A or SLC-40. It is the 27th Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
+    "details": "This mission launches the 27th batch of operational Starlink satellites, which are version 1.0, from LC-39A or SLC-40. It is the 28th Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
     "ships": [],
     "capsules": [],
@@ -10720,7 +10720,7 @@
   },
   {
     "fairings": {
-      "reused": null,
+      "reused": true,
       "recovery_attempt": null,
       "recovered": null,
       "ships": []
@@ -10732,7 +10732,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/n7ju15/rspacex_starlink27_launch_discussion_updates/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -10741,8 +10741,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/J71s2KmkSrc",
+      "youtube_id": "J71s2KmkSrc",
       "article": null,
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
@@ -10752,8 +10752,8 @@
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
-    "details": null,
+    "success": true,
+    "details": "This mission launches the 26th batch of operational Starlink satellites, which are version 1.0, from SLC-40. It is the 27th Starlink launch overall. The satellites will be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on an ASDS.",
     "crew": [],
     "ships": [
       "5ea6ed30080df4000697c913",
@@ -10773,7 +10773,7 @@
     "date_unix": 1620542520,
     "date_local": "2021-05-09T02:42:00-04:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
         "core": "5e9e28a6f35918c0803b265c",
@@ -10782,7 +10782,7 @@
         "legs": true,
         "reused": true,
         "landing_attempt": true,
-        "landing_success": null,
+        "landing_success": true,
         "landing_type": "ASDS",
         "landpad": "5e9e3032383ecb6bb234e7ca"
       }
