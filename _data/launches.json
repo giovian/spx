@@ -10721,9 +10721,11 @@
   {
     "fairings": {
       "reused": true,
-      "recovery_attempt": null,
-      "recovered": null,
-      "ships": []
+      "recovery_attempt": true,
+      "recovered": true,
+      "ships": [
+        "6059166413f40e27e8af34b6"
+      ]
     },
     "links": {
       "patch": {
@@ -10757,7 +10759,8 @@
     "crew": [],
     "ships": [
       "5ea6ed30080df4000697c913",
-      "5ee68c683c228f36bd5809b5"
+      "5ee68c683c228f36bd5809b5",
+      "6059166413f40e27e8af34b6"
     ],
     "capsules": [],
     "payloads": [
