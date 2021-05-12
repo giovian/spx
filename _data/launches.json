@@ -10697,11 +10697,11 @@
     "launch_library_id": "c32d1f5e-2dd9-4b55-ac8b-3eb8c4a4e955",
     "failures": [],
     "flight_number": 127,
-    "name": "Starlink-26 (v1.0)",
-    "date_utc": "2021-05-13T00:00:00.000Z",
-    "date_unix": 1620864000,
-    "date_local": "2021-05-12T20:00:00-04:00",
-    "date_precision": "day",
+    "name": "Starlink-26 (v1.0) (possible Capella rideshare)",
+    "date_utc": "2021-05-15T22:58:00.000Z",
+    "date_unix": 1621119480,
+    "date_local": "2021-05-15T18:58:00-04:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
