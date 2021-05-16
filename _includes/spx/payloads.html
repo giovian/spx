@@ -1,3 +1,3 @@
 {%- assign exp = "include.payloads contains item.id" -%}
 {%- assign array = site.data.payloads | where_exp: "item", exp -%}
-Manufacturers &mdash; {{ array | map: "manufacturers" | join: "-" }}&#13;Customers &mdash; {{ array | map: "customers" | join: "-" }}&#13;Nationalities &mdash; {{ array | map: "nationalities" | join: "-" }}
+Manufacturers &mdash; {{ array | map: "manufacturers" | join: " + " }}&#13;Customers &mdash; {{ array | map: "customers" | join: " + " }}&#13;Nationalities &mdash; {{ array | map: "nationalities" | join: " + " }}
