@@ -21,7 +21,7 @@
   <td><code title="{{ launch.date_local | date: "%a %d %b %T" }}">{{ launch.date_unix | date: "%a %d %b %T" }}</code></td>
   <td title="{% include spx/thumbs.html successes=launchpad.launch_successes attempts=launchpad.launch_attempts %}">{{ launchpad.name }}</td>
   <td>{% include spx/landpad.html launch=launch %}</td>
-  <td>{%- for core in launch.cores -%}{% include spx/core_past_flights.html core=core %}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{%- endfor -%}</td>
+  <td>{%- for core in launch.cores -%}{% if core.core %}{% include spx/core_past_flights.html core=core %}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{% endif %}{%- endfor -%}</td>
 </tr>
 {%- endfor -%}
   </tbody>

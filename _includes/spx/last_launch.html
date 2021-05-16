@@ -20,7 +20,7 @@
       {%- assign launchpad = site.data.launchpads | where: "id", upcoming.first.launchpad | first -%}
       <td title="{% include spx/thumbs.html successes=launchpad.launch_successes attempts=launchpad.launch_attempts %}">{{ launchpad.name }}</td>
       <td>{% include spx/landpad.html launch=upcoming.first %}</td>
-      <td>{%- for core in upcoming.first.cores -%}{% include spx/core_past_flights.html core=core %}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{%- endfor -%}</td>
+      <td>{%- for core in upcoming.first.cores -%}{% if core.core %}{% include spx/core_past_flights.html core=core %}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{% endif %}{%- endfor -%}</td>
     </tr>
     <tr>
       <td>{{ last_launch.flight_number }}</td>
@@ -30,7 +30,7 @@
       {%- assign launchpad = site.data.launchpads | where: "id", last_launch.launchpad | first -%}
       <td title="{% include spx/thumbs.html successes=launchpad.launch_successes attempts=launchpad.launch_attempts %}">{{ launchpad.name }}</td>
       <td>{% include spx/landpad.html launch=last_launch %}</td>
-      <td>{%- for core in last_launch.cores -%}{% include spx/core_past_flights.html core=core %}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{%- endfor -%}</td>
+      <td>{%- for core in last_launch.cores -%}{% if core.core %}{% include spx/core_past_flights.html core=core %}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{% endif %}{%- endfor -%}</td>
     </tr>
   </tbody>
 </table>
