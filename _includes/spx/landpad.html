@@ -2,12 +2,20 @@
   {%- if core.landpad -%}
     {%- assign landpad = site.data.landpads | where: "id", core.landpad | first -%}
     {%- assign landpad_name = landpad.name -%}
+    {%- assign landpad_full_name = landpad.full_name -%}
     {%- assign landpad_style = "" -%}
     {%- assign landing_successes = landpad.landing_successes -%}
     {%- assign landing_attempts = landpad.landing_attempts -%}
   {%- else -%}
     {%- assign landpad_name = core.landing_type -%}
     {%- assign landpad_style = "font-variant: all-small-caps;" -%}
+    {%- if core.landing_type == "ASDS" -%}
+      {%- assign landpad_full_name = "Autonomous spaceport drone ship" -%}
+    {%- elsif core.landing_type == "RTLS" -%}
+      {%- assign landpad_full_name = "Return to launch site" -%}
+    {%- else -%}
+      {%- assign landpad_full_name = "Any landing" -%}
+    {%- endif -%}
     {%- assign landing_successes = 0 -%}
     {%- assign landing_attempts = 0 -%}
     {%- assign landpads = site.data.landpads | where: 'type', landpad_name -%}
@@ -16,5 +24,5 @@
       {%- assign landing_successes = landing_successes | plus: land.landing_successes -%}
     {% endfor %}
   {%- endif -%}
-  <span title="{% include spx/thumbs.html successes=landing_successes attempts=landing_attempts %}" style="{{ landpad_style }}">{{ landpad_name | default: "&mdash;" }}{%- unless forloop.last -%}&nbsp;{%- endunless -%}</span>
+  <span title="{{ landpad_full_name }}&#13;{% include spx/thumbs.html successes=landing_successes attempts=landing_attempts %}" style="{{ landpad_style }}">{{ landpad_name | default: "&mdash;" }}{%- unless forloop.last -%}&nbsp;{%- endunless -%}</span>
 {%- endfor -%}
