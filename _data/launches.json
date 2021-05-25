@@ -9455,7 +9455,7 @@
         "large": null
       },
       "reddit": {
-        "campaign": null,
+        "campaign": "https://www.reddit.com/r/spacex/comments/nhztq5/crs22_launch_campaign_thread/",
         "launch": null,
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
@@ -10672,7 +10672,13 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/51171344450_6a3f0e08b9_o.jpg",
+          "https://live.staticflickr.com/65535/51170251791_9b36fba5b7_o.jpg",
+          "https://live.staticflickr.com/65535/51185653708_86840b1672_o.jpg",
+          "https://live.staticflickr.com/65535/51185653723_7bd9ecab87_o.jpg",
+          "https://live.staticflickr.com/65535/51186506630_1a47a43787_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/tdgg_qwj-hI",
@@ -10838,7 +10844,11 @@
     "success": null,
     "details": null,
     "crew": [],
-    "ships": [],
+    "ships": [
+      "608c1a06cf7f3d6152666ad4",
+      "5ea6ed30080df4000697c913",
+      "5ea6ed2f080df4000697c90c"
+    ],
     "capsules": [],
     "payloads": [
       "6079bd679a06446e8c61bf7d"
@@ -10856,15 +10866,15 @@
     "upcoming": true,
     "cores": [
       {
-        "core": null,
-        "flight": null,
+        "core": "5f57c54a0622a633027900a1",
+        "flight": 2,
         "gridfins": true,
         "legs": true,
         "reused": true,
         "landing_attempt": true,
         "landing_success": null,
         "landing_type": "ASDS",
-        "landpad": null
+        "landpad": "5e9e3032383ecb6bb234e7ca"
       }
     ],
     "id": "6079bd399a06446e8c61bf77"
