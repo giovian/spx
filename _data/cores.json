@@ -1085,17 +1085,18 @@
   },
   {
     "block": 5,
-    "reuse_count": 0,
+    "reuse_count": 1,
     "rtls_attempts": 1,
     "rtls_landings": 1,
-    "asds_attempts": 0,
-    "asds_landings": 0,
-    "last_update": "At SLC-4E",
+    "asds_attempts": 1,
+    "asds_landings": 1,
+    "last_update": "Landed on JRTI* as of May 26, 2021 ",
     "launches": [
-      "5ed983aa1f30554030d45c31"
+      "5ed983aa1f30554030d45c31",
+      "6079bd399a06446e8c61bf77"
     ],
     "serial": "B1063",
-    "status": "active",
+    "status": "unknown",
     "id": "5f57c54a0622a633027900a1"
   },
   {
