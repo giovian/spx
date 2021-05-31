@@ -1,8 +1,8 @@
 [
   {
     "name": "VAFB SLC 3W",
-    "full_name": "Vandenberg Air Force Base Space Launch Complex 3W",
-    "locality": "Vandenberg Air Force Base",
+    "full_name": "Vandenberg Space Force Base Space Launch Complex 3W",
+    "locality": "Vandenberg Space Force Base",
     "region": "California",
     "timezone": "America/Los_Angeles",
     "latitude": 34.6440904,
@@ -150,8 +150,8 @@
   },
   {
     "name": "VAFB SLC 4E",
-    "full_name": "Vandenberg Air Force Base Space Launch Complex 4E",
-    "locality": "Vandenberg Air Force Base",
+    "full_name": "Vandenberg Space Force Base Space Launch Complex 4E",
+    "locality": "Vandenberg Space Force Base",
     "region": "California",
     "timezone": "America/Los_Angeles",
     "latitude": 34.632093,
