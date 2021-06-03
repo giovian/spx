@@ -1137,5 +1137,18 @@
     "serial": "B1066",
     "status": "active",
     "id": "5fe3b906b3467846b3242183"
+  },
+  {
+    "block": 5,
+    "reuse_count": 0,
+    "rtls_attempts": 0,
+    "rtls_landings": 0,
+    "asds_attempts": 0,
+    "asds_landings": 0,
+    "last_update": null,
+    "launches": [],
+    "serial": "B1067",
+    "status": "active",
+    "id": "60b800111f83cc1e59f16438"
   }
 ]

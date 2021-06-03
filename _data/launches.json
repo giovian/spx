@@ -9451,12 +9451,12 @@
     "fairings": null,
     "links": {
       "patch": {
-        "small": null,
-        "large": null
+        "small": "https://imgur.com/o6zaoex.png",
+        "large": "https://imgur.com/klt5qq2.png"
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/nhztq5/crs22_launch_campaign_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/nqqojc/rspacex_crs22_launch_docking_discussion_updates/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -9465,10 +9465,10 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/QXf9mRWbXDM",
+      "youtube_id": "QXf9mRWbXDM",
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/SpaceX_CRS-22"
     },
     "static_fire_date_utc": null,
     "static_fire_date_unix": null,
@@ -9479,8 +9479,14 @@
     "success": null,
     "details": "SpaceX's 22nd ISS resupply mission on behalf of NASA, this mission sends essential supplies to the International Space Station using the cargo variant of SpaceX's Dragon 2 spacecraft. The external payload for this mission is the first pair of ISS Roll Out Solar Arrays. Falcon 9 and Dragon launch from LC-39A, Kennedy Space Center and the booster is expected to land on an ASDS. The mission will be complete with splashdown and recovery of the capsule and down cargo.",
     "crew": [],
-    "ships": [],
-    "capsules": [],
+    "ships": [
+      "5ea6ed2f080df4000697c90b",
+      "608c1a06cf7f3d6152666ad4",
+      "5ea6ed30080df4000697c913"
+    ],
+    "capsules": [
+      "60b803421f83cc1e59f1644d"
+    ],
     "payloads": [
       "5fe3b642b3467846b324217b"
     ],
@@ -9489,7 +9495,7 @@
     "launch_library_id": "89a150ea-6e4b-489f-853c-3603ae684611",
     "failures": [],
     "flight_number": 129,
-    "name": "CRS-22",
+    "name": "CRS-22 & IROSA",
     "date_utc": "2021-06-03T17:29:00.000Z",
     "date_unix": 1622741340,
     "date_local": "2021-06-03T13:29:00-04:00",
@@ -9497,15 +9503,15 @@
     "upcoming": true,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
+        "core": "60b800111f83cc1e59f16438",
+        "flight": 1,
+        "gridfins": true,
+        "legs": true,
+        "reused": false,
+        "landing_attempt": true,
         "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "landing_type": "ASDS",
+        "landpad": "5e9e3032383ecb6bb234e7ca"
       }
     ],
     "id": "5fe3af84b3467846b3242161"
