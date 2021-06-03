@@ -1,14 +1,16 @@
 {%- for core in include.launch.cores -%}
+  {%- assign landpad_style = "" -%}
   {%- if core.landpad -%}
     {%- assign landpad = site.data.landpads | where: "id", core.landpad | first -%}
     {%- assign landpad_name = landpad.name -%}
     {%- assign landpad_full_name = landpad.full_name -%}
-    {%- assign landpad_style = "" -%}
     {%- assign landing_successes = landpad.landing_successes -%}
     {%- assign landing_attempts = landpad.landing_attempts -%}
   {%- else -%}
     {%- assign landpad_name = core.landing_type -%}
-    {%- assign landpad_style = "font-variant: all-small-caps;" -%}
+    {%- if include.launch.cores.size > 1 -%}
+      {%- assign landpad_style = "font-variant: all-small-caps;" -%}
+    {%- endif -%}
     {%- if core.landing_type == "ASDS" -%}
       {%- assign landpad_full_name = "Autonomous spaceport drone ship" -%}
     {%- elsif core.landing_type == "RTLS" -%}
