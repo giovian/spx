@@ -9416,7 +9416,10 @@
     "success": null,
     "details": "SpaceX launches the second of two next generation satellites for SiriusXM from SLC-40, Cape Canaveral Space Force Station. The spacecraft will be delivered into a sub-synchronous geostationary transfer orbit and will replace XM-4 in geostationary orbit. The booster for this mission will land on an ASDS.",
     "crew": [],
-    "ships": [],
+    "ships": [
+      "5ee68c683c228f36bd5809b5",
+      "5ea6ed2f080df4000697c910"
+    ],
     "capsules": [],
     "payloads": [
       "5fe3b57db3467846b324217a"
@@ -9442,7 +9445,7 @@
         "landing_attempt": true,
         "landing_success": null,
         "landing_type": "ASDS",
-        "landpad": null
+        "landpad": "5e9e3033383ecbb9e534e7cc"
       }
     ],
     "id": "5fe3af6db3467846b3242160"
@@ -9476,7 +9479,7 @@
     "net": false,
     "window": 0,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "details": "SpaceX's 22nd ISS resupply mission on behalf of NASA, this mission sends essential supplies to the International Space Station using the cargo variant of SpaceX's Dragon 2 spacecraft. The external payload for this mission is the first pair of ISS Roll Out Solar Arrays. Falcon 9 and Dragon launch from LC-39A, Kennedy Space Center and the booster is expected to land on an ASDS. The mission will be complete with splashdown and recovery of the capsule and down cargo.",
     "crew": [],
     "ships": [
@@ -9500,7 +9503,7 @@
     "date_unix": 1622741340,
     "date_local": "2021-06-03T13:29:00-04:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
         "core": "60b800111f83cc1e59f16438",
@@ -9509,7 +9512,7 @@
         "legs": true,
         "reused": false,
         "landing_attempt": true,
-        "landing_success": null,
+        "landing_success": true,
         "landing_type": "ASDS",
         "landpad": "5e9e3032383ecb6bb234e7ca"
       }
