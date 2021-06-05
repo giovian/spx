@@ -9382,9 +9382,12 @@
   {
     "fairings": {
       "reused": null,
-      "recovery_attempt": null,
+      "recovery_attempt": true,
       "recovered": null,
-      "ships": []
+      "ships": [
+        "5ea6ed2f080df4000697c90b",
+        "5ea6ed2e080df4000697c909"
+      ]
     },
     "links": {
       "patch": {
@@ -9407,18 +9410,20 @@
       "article": null,
       "wikipedia": null
     },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
+    "static_fire_date_utc": "2021-06-03 06:32Z",
+    "static_fire_date_unix": 1622701920,
     "tbd": false,
     "net": false,
-    "window": null,
+    "window": 5940,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
     "details": "SpaceX launches the second of two next generation satellites for SiriusXM from SLC-40, Cape Canaveral Space Force Station. The spacecraft will be delivered into a sub-synchronous geostationary transfer orbit and will replace XM-4 in geostationary orbit. The booster for this mission will land on an ASDS.",
     "crew": [],
     "ships": [
       "5ee68c683c228f36bd5809b5",
-      "5ea6ed2f080df4000697c910"
+      "5ea6ed2f080df4000697c910",
+      "5ea6ed2f080df4000697c90b",
+      "5ea6ed2e080df4000697c909"
     ],
     "capsules": [],
     "payloads": [
