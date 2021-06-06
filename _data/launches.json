@@ -9381,7 +9381,7 @@
   },
   {
     "fairings": {
-      "reused": null,
+      "reused": false,
       "recovery_attempt": true,
       "recovered": null,
       "ships": [
@@ -9391,12 +9391,12 @@
     },
     "links": {
       "patch": {
-        "small": null,
-        "large": null
+        "small": "https://i.imgur.com/Iphd7Aj.png",
+        "large": "https://i.imgur.com/X9q44xx.png"
       },
       "reddit": {
-        "campaign": null,
-        "launch": null,
+        "campaign": "https://www.reddit.com/r/spacex/comments/n9llxw/sxm8_launch_campaign_thread/",
+        "launch": "https://www.reddit.com/r/spacex/comments/nss9br/rspacex_sxm8_launch_discussion_and_updates_thread/",
         "media": null,
         "recovery": null
       },
@@ -9405,12 +9405,12 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/bgtDRR2F2wA",
+      "youtube_id": "bgtDRR2F2wA",
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/Sirius_XM#Satellites"
     },
-    "static_fire_date_utc": "2021-06-03 06:32Z",
+    "static_fire_date_utc": "2021-06-03T06:32:00.000Z",
     "static_fire_date_unix": 1622701920,
     "tbd": false,
     "net": false,
@@ -9470,12 +9470,22 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/51225482033_086576f2cd_o.jpg",
+          "https://live.staticflickr.com/65535/51226340205_9c3ac87b8e_o.jpg",
+          "https://live.staticflickr.com/65535/51224563112_61d493b775_o.jpg",
+          "https://live.staticflickr.com/65535/51224563062_95bf029b80_o.jpg",
+          "https://live.staticflickr.com/65535/51225271661_49315dc688_o.jpg",
+          "https://live.staticflickr.com/65535/51226340225_27df994080_o.jpg",
+          "https://live.staticflickr.com/65535/51224563102_d07c630ef5_o.jpg",
+          "https://live.staticflickr.com/65535/51225482053_1fe7157f74_o.jpg",
+          "https://live.staticflickr.com/65535/51226038164_304c347347_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/QXf9mRWbXDM",
       "youtube_id": "QXf9mRWbXDM",
-      "article": null,
+      "article": "https://spaceflightnow.com/2021/06/03/spacex-supply-ship-launches-on-mission-to-begin-upgrading-space-station-electrical-grid/",
       "wikipedia": "https://en.wikipedia.org/wiki/SpaceX_CRS-22"
     },
     "static_fire_date_utc": null,
@@ -10754,19 +10764,23 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/51225270061_42bc3abb43_o.jpg",
+          "https://live.staticflickr.com/65535/51226036719_584d141279_o.jpg",
+          "https://live.staticflickr.com/65535/51225480623_5ef7d3957a_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/xRu-ekesDyY",
       "youtube_id": "xRu-ekesDyY",
-      "article": null,
+      "article": "https://spaceflightnow.com/2021/05/26/first-phase-of-spacexs-starlink-network-nears-completion-with-falcon-9-launch/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
     "static_fire_date_unix": null,
     "tbd": false,
     "net": false,
-    "window": null,
+    "window": 0,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": true,
     "details": "This mission launches the 28th batch of operational Starlink satellites, which were version 1.0, from SLC-40. It was the 29th Starlink launch overall. The satellites plan to be delivered to low Earth orbit and will spend a few weeks maneuvering to their operational altitude. The booster is expected to land on ASDS JRTI.",
