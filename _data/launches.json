@@ -10256,9 +10256,9 @@
     "failures": [],
     "flight_number": 132,
     "name": "Transporter-2",
-    "date_utc": "2021-06-24T14:00:00.000Z",
-    "date_unix": 1624543200,
-    "date_local": "2021-06-24T10:00:00-04:00",
+    "date_utc": "2021-06-24T19:00:00.000Z",
+    "date_unix": 1624561200,
+    "date_local": "2021-06-24T15:00:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
