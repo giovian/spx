@@ -171,5 +171,14 @@
     "launches": [],
     "status": "active",
     "id": "607b48da5a906a44023e08b9"
+  },
+  {
+    "name": "Kayla Barron",
+    "agency": "NASA",
+    "image": "https://i.imgur.com/2rXxSFw.png",
+    "wikipedia": "https://en.wikipedia.org/wiki/Kayla_Barron",
+    "launches": [],
+    "status": "active",
+    "id": "60c4b5ad4e041c0b356db393"
   }
 ]

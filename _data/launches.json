@@ -9827,8 +9827,8 @@
     "fairings": null,
     "links": {
       "patch": {
-        "small": null,
-        "large": null
+        "small": "https://i.imgur.com/KhQ11oo.png",
+        "large": "https://i.imgur.com/M6GvRVe.png"
       },
       "reddit": {
         "campaign": null,
@@ -9857,7 +9857,8 @@
     "crew": [
       "5fe3c587b3467846b3242198",
       "5fe3c5beb3467846b3242199",
-      "5fe3c5f6b3467846b324219a"
+      "5fe3c5f6b3467846b324219a",
+      "60c4b5ad4e041c0b356db393"
     ],
     "ships": [],
     "capsules": [],
@@ -11015,12 +11016,12 @@
     "upcoming": true,
     "cores": [
       {
-        "core": null,
+        "core": "60b800111f83cc1e59f16438",
         "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
         "landing_success": null,
         "landing_type": null,
         "landpad": null
