@@ -7969,9 +7969,11 @@
   {
     "fairings": {
       "reused": null,
-      "recovery_attempt": null,
+      "recovery_attempt": true,
       "recovered": null,
-      "ships": []
+      "ships": [
+        "60c8c7a45d4819007ea69871"
+      ]
     },
     "links": {
       "patch": {
@@ -8004,6 +8006,7 @@
     "details": "SpaceX's fourth GPS III launch will use the first stage from the previous GPS mission. This will be the first time a National Security Space Launch has flown on a flight proven booster. Falcon 9 will launch from SLC-40, Cape Canaveral and the booster will land downrange on a drone ship. GPS III is the third generation of the U.S. Space Force's NAVSTAR Global Positioning System satellites, developed by Lockheed Martin. The GPS III constellation will feature a cross-linked command and control architecture, allowing the entire GPS constellation to be updated simultaneously from a single ground station. A new spot beam capability for enhanced military coverage and increased resistance to hostile jamming will be incorporated.",
     "crew": [],
     "ships": [
+      "60c8c7a45d4819007ea69871",
       "5ee68c683c228f36bd5809b5",
       "5ea6ed2f080df4000697c910"
     ],
@@ -9269,7 +9272,7 @@
     "auto_update": true,
     "launch_library_id": null,
     "failures": [],
-    "flight_number": 142,
+    "flight_number": 141,
     "name": "SARah 1",
     "date_utc": "2021-10-01T00:00:00.000Z",
     "date_unix": 1633046400,
@@ -9583,7 +9586,7 @@
     "auto_update": true,
     "launch_library_id": null,
     "failures": [],
-    "flight_number": 141,
+    "flight_number": 140,
     "name": "USSF-44",
     "date_utc": "2021-10-01T00:00:00.000Z",
     "date_unix": 1633046400,
@@ -9673,7 +9676,7 @@
     "auto_update": true,
     "launch_library_id": null,
     "failures": [],
-    "flight_number": 148,
+    "flight_number": 147,
     "name": "Turksat 5B",
     "date_utc": "2021-10-01T00:00:00.000Z",
     "date_unix": 1633046400,
@@ -9741,7 +9744,7 @@
     "auto_update": true,
     "launch_library_id": null,
     "failures": [],
-    "flight_number": 144,
+    "flight_number": 143,
     "name": "DART",
     "date_utc": "2021-11-24T00:00:00.000Z",
     "date_unix": 1637712000,
@@ -10872,11 +10875,11 @@
     "auto_update": true,
     "launch_library_id": null,
     "failures": [],
-    "flight_number": 152,
+    "flight_number": 151,
     "name": "NROL-87",
-    "date_utc": "2022-01-01T00:00:00.000Z",
-    "date_unix": 1640995200,
-    "date_local": "2021-12-31T16:00:00-08:00",
+    "date_utc": "2022-02-01T00:00:00.000Z",
+    "date_unix": 1643673600,
+    "date_local": "2022-01-31T16:00:00-08:00",
     "date_precision": "month",
     "upcoming": true,
     "cores": [
