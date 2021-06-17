@@ -7981,8 +7981,8 @@
         "large": null
       },
       "reddit": {
-        "campaign": null,
-        "launch": null,
+        "campaign": "https://www.reddit.com/r/spacex/comments/nuud0l/gps_iii_sv05_launch_campaign_thread/",
+        "launch": "https://www.reddit.com/r/spacex/comments/o0gcnq/rspacex_gps_iii_sv05_launch_discussion_and/",
         "media": null,
         "recovery": null
       },
@@ -7991,10 +7991,10 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/QJXxVtp3KqI",
+      "youtube_id": "QJXxVtp3KqI",
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/GPS_Block_III"
     },
     "static_fire_date_utc": "2021-06-13T19:30:00.000Z",
     "static_fire_date_unix": 1623612600,
