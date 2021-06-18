@@ -7968,7 +7968,7 @@
   },
   {
     "fairings": {
-      "reused": null,
+      "reused": false,
       "recovery_attempt": true,
       "recovered": null,
       "ships": [
@@ -7977,8 +7977,8 @@
     },
     "links": {
       "patch": {
-        "small": null,
-        "large": null
+        "small": "https://i.imgur.com/sZIYIsl.png",
+        "large": "https://i.imgur.com/n4PN2ko.png"
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/nuud0l/gps_iii_sv05_launch_campaign_thread/",
@@ -8002,7 +8002,7 @@
     "net": false,
     "window": 900,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "details": "SpaceX's fourth GPS III launch will use the first stage from the previous GPS mission. This will be the first time a National Security Space Launch has flown on a flight proven booster. Falcon 9 will launch from SLC-40, Cape Canaveral and the booster will land downrange on a drone ship. GPS III is the third generation of the U.S. Space Force's NAVSTAR Global Positioning System satellites, developed by Lockheed Martin. The GPS III constellation will feature a cross-linked command and control architecture, allowing the entire GPS constellation to be updated simultaneously from a single ground station. A new spot beam capability for enhanced military coverage and increased resistance to hostile jamming will be incorporated.",
     "crew": [],
     "ships": [
@@ -8024,7 +8024,7 @@
     "date_unix": 1623946140,
     "date_local": "2021-06-17T12:09:00-04:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
         "core": "5f57c5440622a633027900a0",
@@ -8033,7 +8033,7 @@
         "legs": true,
         "reused": true,
         "landing_attempt": true,
-        "landing_success": null,
+        "landing_success": true,
         "landing_type": "ASDS",
         "landpad": "5e9e3033383ecbb9e534e7cc"
       }
@@ -10259,7 +10259,7 @@
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
     "auto_update": true,
-    "launch_library_id": null,
+    "launch_library_id": "5d248abe-17ef-43ce-9c04-aef33af40520",
     "failures": [],
     "flight_number": 132,
     "name": "Transporter-2",
