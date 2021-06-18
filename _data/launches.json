@@ -9809,10 +9809,10 @@
     "failures": [],
     "flight_number": 136,
     "name": "CRS-23",
-    "date_utc": "2021-08-18T00:00:00.000Z",
-    "date_unix": 1629244800,
-    "date_local": "2021-08-17T20:00:00-04:00",
-    "date_precision": "day",
+    "date_utc": "2021-08-18T10:00:00.000Z",
+    "date_unix": 1629280800,
+    "date_local": "2021-08-18T06:00:00-04:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
@@ -10263,9 +10263,9 @@
     "failures": [],
     "flight_number": 132,
     "name": "Transporter-2",
-    "date_utc": "2021-06-24T19:00:00.000Z",
-    "date_unix": 1624561200,
-    "date_local": "2021-06-24T15:00:00-04:00",
+    "date_utc": "2021-06-25T18:56:00.000Z",
+    "date_unix": 1624647360,
+    "date_local": "2021-06-25T14:56:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
