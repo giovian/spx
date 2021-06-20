@@ -1,5 +1,10 @@
 [
   {
+    "images": {
+      "large": [
+        "https://i.imgur.com/KHBk6jO.png"
+      ]
+    },
     "name": "LZ-1",
     "full_name": "Landing Zone 1",
     "type": "RTLS",
@@ -34,6 +39,11 @@
     "id": "5e9e3032383ecb267a34e7c7"
   },
   {
+    "images": {
+      "large": [
+        "https://i.imgur.com/YE8PMYX.png"
+      ]
+    },
     "name": "LZ-2",
     "full_name": "Landing Zone 2",
     "type": "RTLS",
@@ -54,6 +64,11 @@
     "id": "5e9e3032383ecb90a834e7c8"
   },
   {
+    "images": {
+      "large": [
+        "https://i.imgur.com/647XbH6.png"
+      ]
+    },
     "name": "LZ-4",
     "full_name": "Landing Zone 4",
     "type": "RTLS",
@@ -74,6 +89,11 @@
     "id": "5e9e3032383ecb554034e7c9"
   },
   {
+    "images": {
+      "large": [
+        "https://i.imgur.com/rbpkg01.png"
+      ]
+    },
     "name": "OCISLY",
     "full_name": "Of Course I Still Love You",
     "type": "ASDS",
@@ -146,6 +166,11 @@
     "id": "5e9e3032383ecb6bb234e7ca"
   },
   {
+    "images": {
+      "large": [
+        "https://i.imgur.com/gZUJ04V.png"
+      ]
+    },
     "name": "JRTI-1",
     "full_name": "Just Read The Instructions V1",
     "type": "ASDS",
@@ -165,6 +190,11 @@
     "id": "5e9e3032383ecb761634e7cb"
   },
   {
+    "images": {
+      "large": [
+        "https://i.imgur.com/46y4O15.png"
+      ]
+    },
     "name": "JRTI",
     "full_name": "Just Read The Instructions",
     "type": "ASDS",
@@ -203,6 +233,11 @@
     "id": "5e9e3033383ecbb9e534e7cc"
   },
   {
+    "images": {
+      "large": [
+        "https://i.imgur.com/PkrS8vQ.png"
+      ]
+    },
     "name": "ASOG",
     "full_name": "A Shortfall of Gravitas",
     "type": "ASDS",
