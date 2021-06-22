@@ -7970,7 +7970,7 @@
     "fairings": {
       "reused": false,
       "recovery_attempt": true,
-      "recovered": null,
+      "recovered": true,
       "ships": [
         "60c8c7a45d4819007ea69871"
       ]
