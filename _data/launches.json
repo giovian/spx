@@ -11155,10 +11155,10 @@
     "failures": [],
     "flight_number": 133,
     "name": "Starlink-29 (v1.0)",
-    "date_utc": "2021-07-12T00:00:00.000Z",
-    "date_unix": 1626048000,
-    "date_local": "2021-07-11T20:00:00-04:00",
-    "date_precision": "day",
+    "date_utc": "2021-07-01T00:00:00.000Z",
+    "date_unix": 1625097600,
+    "date_local": "2021-06-30T20:00:00-04:00",
+    "date_precision": "month",
     "upcoming": true,
     "cores": [
       {
