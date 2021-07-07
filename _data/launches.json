@@ -7988,7 +7988,18 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/51254829184_e6e1d0d79c_o.jpg",
+          "https://live.staticflickr.com/65535/51253353892_de82b01e23_o.jpg",
+          "https://live.staticflickr.com/65535/51254285968_288383ce6e_o.jpg",
+          "https://live.staticflickr.com/65535/51254829154_3c5980c086_o.jpg",
+          "https://live.staticflickr.com/65535/51253353882_e59ea4df4f_o.jpg",
+          "https://live.staticflickr.com/65535/51254829139_ca68c19689_o.jpg",
+          "https://live.staticflickr.com/65535/51262926489_9fbce20e9c_o.jpg",
+          "https://live.staticflickr.com/65535/51262926469_974292477d_o.jpg",
+          "https://live.staticflickr.com/65535/51262179176_e4302db116_o.jpg",
+          "https://live.staticflickr.com/65535/51263224735_3210fb7499_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/QJXxVtp3KqI",
@@ -10219,7 +10230,7 @@
     "fairings": {
       "reused": true,
       "recovery_attempt": true,
-      "recovered": null,
+      "recovered": true,
       "ships": [
         "60c8c7a45d4819007ea69871"
       ]
@@ -10237,7 +10248,16 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/51283430951_a9e5a41141_o.jpg",
+          "https://live.staticflickr.com/65535/51283430936_3852120bbe_o.jpg",
+          "https://live.staticflickr.com/65535/51283604493_d1a088b7c9_o.jpg",
+          "https://live.staticflickr.com/65535/51284454795_591717faee_o.jpg",
+          "https://live.staticflickr.com/65535/51284454810_9fdd0e8db4_o.jpg",
+          "https://live.staticflickr.com/65535/51283604443_6d92fe1231_o.jpg",
+          "https://live.staticflickr.com/65535/51283604428_b24ebf1b5f_o.jpg",
+          "https://live.staticflickr.com/65535/51283604438_7202e2a388_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/sSiuW1HcGjA",
