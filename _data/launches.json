@@ -9820,10 +9820,10 @@
     "crew": [],
     "flight_number": 134,
     "name": "CRS-23",
-    "date_utc": "2021-08-18T00:00:00.000Z",
-    "date_unix": 1629244800,
-    "date_local": "2021-08-17T20:00:00-04:00",
-    "date_precision": "day",
+    "date_utc": "2021-08-01T00:00:00.000Z",
+    "date_unix": 1627776000,
+    "date_local": "2021-07-31T20:00:00-04:00",
+    "date_precision": "month",
     "upcoming": true,
     "cores": [
       {
