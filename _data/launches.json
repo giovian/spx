@@ -10609,9 +10609,9 @@
     "crew": [],
     "flight_number": 135,
     "name": "CRS-23",
-    "date_utc": "2021-08-29T07:00:00.000Z",
-    "date_unix": 1630220400,
-    "date_local": "2021-08-29T03:00:00-04:00",
+    "date_utc": "2021-08-28T07:30:00.000Z",
+    "date_unix": 1630135800,
+    "date_local": "2021-08-28T03:30:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -10883,10 +10883,10 @@
     ],
     "flight_number": 139,
     "name": "Crew-3",
-    "date_utc": "2021-10-31T00:00:00.000Z",
-    "date_unix": 1635638400,
-    "date_local": "2021-10-30T20:00:00-04:00",
-    "date_precision": "day",
+    "date_utc": "2021-10-31T05:30:00.000Z",
+    "date_unix": 1635658200,
+    "date_local": "2021-10-31T01:30:00-04:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
