@@ -5,17 +5,17 @@
 {% assign upcoming = site.data.launches | where: "upcoming", "true" | sort: 'flight_number' %}
 {% assign last_launch = past_launches | sort: "flight_number" | last %}
 
-## Last
+**Last**
 
 {% include spx/last_launch.html %}
 
-## Upcoming
+**Upcoming**
 
 {% include spx/upcoming_launches.html %}
 
-## Data
+**Data**
 
-<div markdown=1 style="display:flex;">
+<div markdown=1 style="display:flex;justify-content: right;">
 <div markdown=1>
 {% comment %} -------------------- MISSIONS -------------------- {% endcomment %}
 {% assign difference = site.data.launches.size | minus: past_launches.size %}
@@ -77,10 +77,12 @@
 | Total | {{ landing_successes }}-{{ landing_attempts | minus: landing_successes }} | {{ landing_successes | times: 100 | divided_by: landing_attempts }} |
 {: style="min-width:15em;margin-right:1em"}
 </div>
+<div markdown=1>
 {% comment %} -------------------- YEARS -------------------- {% endcomment %}
 {% assign years = past_launches | group_by_exp: "item", "item.date_local | truncate: 4, ''" %}
 | Year | &uarr; | Tons |
 |:---|---:|---:|{% for y in years reversed %}{% assign kg = 0 %}{% for l in y.items %}{% for p in l.payloads %}{% assign payload = site.data.payloads | where: 'id', p %}{% assign kg = kg | plus: payload[0].mass_kg %}{% endfor %}{% endfor %}
 | {{ y.name }} | {{ y.items.size }} | {{ kg | divided_by: 907.18474 | round: 1 }} |{% endfor %}
 {: style="min-width:12em;margin-right:1em"}
+</div>
 </div>
