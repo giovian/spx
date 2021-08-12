@@ -10471,9 +10471,9 @@
     "crew": [],
     "flight_number": 133,
     "name": "CRS-23",
-    "date_utc": "2021-08-28T07:30:00.000Z",
-    "date_unix": 1630135800,
-    "date_local": "2021-08-28T03:30:00-04:00",
+    "date_utc": "2021-08-28T07:15:00.000Z",
+    "date_unix": 1630134900,
+    "date_local": "2021-08-28T03:15:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
