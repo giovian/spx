@@ -15,7 +15,7 @@
 
 **Data**
 
-<div markdown=1 style="display:flex;justify-content: right;">
+<div markdown=1 style="justify-content: right;" class="flex">
 <div markdown=1>
 {% comment %} -------------------- MISSIONS -------------------- {% endcomment %}
 {% assign difference = site.data.launches.size | minus: past_launches.size %}
