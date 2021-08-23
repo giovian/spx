@@ -2,7 +2,9 @@ table
   margin-right: auto
   margin-left: auto
   &.upcoming, &.last
-    thead tr
+    td:first-child
+      color: var(--fg-secondary)
+    thead
       text-align: left
     td, th
       &:nth-child(2)
@@ -21,6 +23,11 @@ table
       &:nth-child(7)
         min-width: 5em
         text-align: center
+  &.upcoming
+    tr[class*=color-] code
+      color: var(--fg)
+  &.last code
+    color: var(--fg)
 
 @media (max-width: $mobile-width)
   th
