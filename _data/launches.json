@@ -10437,7 +10437,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/p67i27/crs23_launch_campaign_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/pcj0ao/rspacex_crs23_launch_docking_discussion_updates/",
         "media": null,
         "recovery": null
       },
@@ -10446,8 +10446,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/_-r1naW0hOI",
+      "youtube_id": "_-r1naW0hOI",
       "article": null,
       "wikipedia": "https://en.wikipedia.org/wiki/SpaceX_CRS-23"
     },
@@ -10480,8 +10480,8 @@
     "upcoming": true,
     "cores": [
       {
-        "core": "5f57c54a0622a633027900a1",
-        "flight": 3,
+        "core": "5f57c53d0622a6330279009f",
+        "flight": 4,
         "gridfins": true,
         "legs": true,
         "reused": true,
