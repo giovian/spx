@@ -40,11 +40,12 @@
 | Total | {{ site.data.payloads.size | plus: site.data.launches.size | plus: site.data.cores.size | plus: site.data.crew.size | plus: site.data.capsules.size | plus: site.data.landpads.size | plus: site.data.launchpads.size | plus: site.data.rockets.size | plus: site.data.dragons.size }}
 {: style="min-width:12em;margin-right:1em"}
 </div>
+{% comment %} -------------------- CORE REUSE -------------------- {% endcomment %}
 <div markdown=1>
 {% assign cores_reuse = site.data.cores | group_by: "reuse_count" | sort: "name" %}
 | Cores reuse | |
 |:---|---:|{% for cr in cores_reuse %}
-| Reused {{ cr.name }} times | {{ cr.items.size }} |{% endfor %}
+| Reused {{ cr.name }} times | <span title="{% for reused in cr.items limit:20 %}{{ reused.serial }}&#13;{% endfor %}">{{ cr.items.size }}</span> |{% endfor %}
 |----
 | Cores reused | {{ site.data.cores | where_exp: "item", "item.reuse_count > 0" | size }} |
 {: style="min-width:12em;margin-right:1em"}
