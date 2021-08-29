@@ -7,6 +7,7 @@
     },
     "name": "LZ-1",
     "full_name": "Landing Zone 1",
+    "status": "active",
     "type": "RTLS",
     "locality": "Cape Canaveral",
     "region": "Florida",
@@ -36,7 +37,6 @@
       "5f8399fb818d8b59f5740d43",
       "600f9b6d8f798e2a4d5f979f"
     ],
-    "status": "active",
     "id": "5e9e3032383ecb267a34e7c7"
   },
   {
@@ -47,6 +47,7 @@
     },
     "name": "LZ-2",
     "full_name": "Landing Zone 2",
+    "status": "active",
     "type": "RTLS",
     "locality": "Cape Canaveral",
     "region": "Florida",
@@ -61,7 +62,6 @@
       "5eb87d2dffd86e000604b376",
       "5eb87d35ffd86e000604b37a"
     ],
-    "status": "active",
     "id": "5e9e3032383ecb90a834e7c8"
   },
   {
@@ -72,6 +72,7 @@
     },
     "name": "LZ-4",
     "full_name": "Landing Zone 4",
+    "status": "active",
     "type": "RTLS",
     "locality": "Vandenberg Air Force Base",
     "region": "California",
@@ -86,7 +87,6 @@
       "5eb87d31ffd86e000604b379",
       "5ed983aa1f30554030d45c31"
     ],
-    "status": "active",
     "id": "5e9e3032383ecb554034e7c9"
   },
   {
@@ -97,6 +97,7 @@
     },
     "name": "OCISLY",
     "full_name": "Of Course I Still Love You",
+    "status": "active",
     "type": "ASDS",
     "locality": "Port Canaveral",
     "region": "Florida",
@@ -163,7 +164,6 @@
       "605b4b95aa5433645e37d041",
       "5fe3af84b3467846b3242161"
     ],
-    "status": "active",
     "id": "5e9e3032383ecb6bb234e7ca"
   },
   {
@@ -174,6 +174,7 @@
     },
     "name": "JRTI-1",
     "full_name": "Just Read The Instructions V1",
+    "status": "retired",
     "type": "ASDS",
     "locality": "Port Canaveral",
     "region": "Florida",
@@ -187,7 +188,6 @@
       "5eb87ce8ffd86e000604b33c",
       "5eb87cecffd86e000604b33f"
     ],
-    "status": "retired",
     "id": "5e9e3032383ecb761634e7cb"
   },
   {
@@ -198,6 +198,7 @@
     },
     "name": "JRTI",
     "full_name": "Just Read The Instructions",
+    "status": "active",
     "type": "ASDS",
     "locality": "Port of Los Angeles",
     "region": "California",
@@ -230,7 +231,6 @@
       "5fe3af6db3467846b3242160",
       "5eb87d4effd86e000604b390"
     ],
-    "status": "active",
     "id": "5e9e3033383ecbb9e534e7cc"
   },
   {
@@ -241,6 +241,7 @@
     },
     "name": "ASOG",
     "full_name": "A Shortfall of Gravitas",
+    "status": "active",
     "type": "ASDS",
     "locality": "Port Canaveral",
     "region": "Florida",
@@ -251,7 +252,6 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship",
     "details": "The fourth ASDS barge was announced to be under construction in February 2018 and it will become the second active east coast-based ASDS. It will be homeported at Port Canaveral. This future simultaneously usable ASDS, along with OCISLY, is called A Shortfall of Gravitas (ASoG) and like the rest of the fleet, its naming is based on names used in the Culture series. The droneship is expected to be operational in mid-2019.",
     "launches": [],
-    "status": "active",
     "id": "5e9e3033383ecb075134e7cd"
   }
 ]
