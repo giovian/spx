@@ -18,7 +18,7 @@
   <td>{{ launch.flight_number }}</td>
   <td title="{{ launch.name }}&#13;{% include spx/payloads.html payloads=launch.payloads %}">{{ launch.name }}</td>
   <td>{{ datetime }}</td>
-  <td><code title="{{ launch.date_local | date: "%a %d %b %T" }}">{{ launch.date_unix | date: "%a %d %b %T" }}</code></td>
+  <td>{%- if precision_class == "" -%}<code title="{{ launch.date_local | date: "%a %d %b %T" }}">{{ launch.date_unix | date: "%a %d %b %T" }}</code>{%- endif -%}</td>
   <td title="{{ launchpad.full_name }}&#13;{% include spx/thumbs.html successes=launchpad.launch_successes attempts=launchpad.launch_attempts %}">{{ launchpad.name }}</td>
   <td>{% include spx/landpad.html launch=launch %}</td>
   <td>{%- for core in launch.cores -%}{% if core.core %}{% include spx/core_past_flights.html core=core %}{%- unless forloop.last -%}&nbsp;{%- endunless -%}{% endif %}{%- endfor -%}</td>
