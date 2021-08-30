@@ -1055,16 +1055,17 @@
   },
   {
     "block": 5,
-    "reuse_count": 2,
+    "reuse_count": 3,
     "rtls_attempts": 0,
     "rtls_landings": 0,
-    "asds_attempts": 3,
-    "asds_landings": 3,
-    "last_update": "Landed on JRTI as of Jun 6, 2021. ",
+    "asds_attempts": 4,
+    "asds_landings": 4,
+    "last_update": "Landed on ASOG as of Aug 29, 2021. ",
     "launches": [
       "5eb87d4dffd86e000604b38e",
       "5fe3af58b3467846b324215f",
-      "5fe3af6db3467846b3242160"
+      "5fe3af6db3467846b3242160",
+      "5fe3b11eb3467846b324216c"
     ],
     "serial": "B1061",
     "status": "unknown",
