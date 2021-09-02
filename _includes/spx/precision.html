@@ -2,7 +2,8 @@
 {%- case launch.date_precision -%}
   {%- when 'hour' -%}
     {%- assign precision_class = '' -%}
-    {%- capture datetime -%}{% include widgets/datetime.html datetime=launch.date_unix replace=true %}{%- endcapture -%}
+    {%- assign title_date = launch.date_local | date: "%a %d %b %T" -%}
+    {%- capture datetime -%}{% include widgets/datetime.html datetime=launch.date_unix title=title_date replace=true %}{%- endcapture -%}
   {%- when 'day' -%}
     {%- assign precision_class = 'color-green' -%}
     {%- assign datetime = launch.date_unix | date: '%B %e' -%}
