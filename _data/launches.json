@@ -10887,10 +10887,10 @@
     "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 139,
     "name": "USSF-44",
-    "date_utc": "2021-10-01T00:00:00.000Z",
-    "date_unix": 1633046400,
-    "date_local": "2021-09-30T20:00:00-04:00",
-    "date_precision": "month",
+    "date_utc": "2021-10-09T00:00:00.000Z",
+    "date_unix": 1633737600,
+    "date_local": "2021-10-08T20:00:00-04:00",
+    "date_precision": "day",
     "upcoming": true,
     "cores": [
       {
@@ -11181,10 +11181,10 @@
     "launchpad": "5e9e4502f509092b78566f87",
     "flight_number": 149,
     "name": "NROL-87",
-    "date_utc": "2022-02-01T00:00:00.000Z",
-    "date_unix": 1643673600,
-    "date_local": "2022-01-31T16:00:00-08:00",
-    "date_precision": "month",
+    "date_utc": "2022-02-02T00:00:00.000Z",
+    "date_unix": 1643760000,
+    "date_local": "2022-02-01T16:00:00-08:00",
+    "date_precision": "day",
     "upcoming": true,
     "cores": [
       {
