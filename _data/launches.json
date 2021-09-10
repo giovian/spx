@@ -10775,74 +10775,6 @@
     "id": "60b3b85a998a020e76e3284c"
   },
   {
-    "fairings": null,
-    "links": {
-      "patch": {
-        "small": "https://i.imgur.com/KhQ11oo.png",
-        "large": "https://i.imgur.com/M6GvRVe.png"
-      },
-      "reddit": {
-        "campaign": null,
-        "launch": null,
-        "media": null,
-        "recovery": null
-      },
-      "flickr": {
-        "small": [],
-        "original": []
-      },
-      "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
-      "article": null,
-      "wikipedia": null
-    },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
-    "net": false,
-    "window": 0,
-    "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
-    "failures": [],
-    "details": null,
-    "crew": [
-      "5fe3c587b3467846b3242198",
-      "5fe3c5beb3467846b3242199",
-      "5fe3c5f6b3467846b324219a",
-      "60c4b5ad4e041c0b356db393"
-    ],
-    "ships": [],
-    "capsules": [],
-    "payloads": [
-      "5fe3b3bab3467846b3242174"
-    ],
-    "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 138,
-    "name": "Crew-3",
-    "date_utc": "2021-10-31T06:00:00.000Z",
-    "date_unix": 1635660000,
-    "date_local": "2021-10-31T02:00:00-04:00",
-    "date_precision": "hour",
-    "upcoming": true,
-    "cores": [
-      {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
-      }
-    ],
-    "auto_update": true,
-    "tbd": false,
-    "launch_library_id": null,
-    "id": "5fe3b15eb3467846b324216d"
-  },
-  {
     "fairings": {
       "reused": null,
       "recovery_attempt": null,
@@ -10885,7 +10817,7 @@
       "5fe3b86eb3467846b324217c"
     ],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 139,
+    "flight_number": 138,
     "name": "USSF-44",
     "date_utc": "2021-10-09T00:00:00.000Z",
     "date_unix": 1633737600,
@@ -10931,6 +10863,74 @@
     "tbd": false,
     "launch_library_id": null,
     "id": "5fe3af99b3467846b3242162"
+  },
+  {
+    "fairings": null,
+    "links": {
+      "patch": {
+        "small": "https://i.imgur.com/KhQ11oo.png",
+        "large": "https://i.imgur.com/M6GvRVe.png"
+      },
+      "reddit": {
+        "campaign": null,
+        "launch": null,
+        "media": null,
+        "recovery": null
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "net": false,
+    "window": 0,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "failures": [],
+    "details": null,
+    "crew": [
+      "5fe3c587b3467846b3242198",
+      "5fe3c5beb3467846b3242199",
+      "5fe3c5f6b3467846b324219a",
+      "60c4b5ad4e041c0b356db393"
+    ],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "5fe3b3bab3467846b3242174"
+    ],
+    "launchpad": "5e9e4502f509094188566f88",
+    "flight_number": 139,
+    "name": "Crew-3",
+    "date_utc": "2021-10-31T06:00:00.000Z",
+    "date_unix": 1635660000,
+    "date_local": "2021-10-31T02:00:00-04:00",
+    "date_precision": "hour",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "auto_update": true,
+    "tbd": false,
+    "launch_library_id": null,
+    "id": "5fe3b15eb3467846b324216d"
   },
   {
     "fairings": {
