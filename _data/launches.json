@@ -10545,10 +10545,10 @@
     "launchpad": "5e9e4502f509092b78566f87",
     "flight_number": 134,
     "name": "Starlink-2.1",
-    "date_utc": "2021-09-13T00:00:00.000Z",
-    "date_unix": 1631491200,
-    "date_local": "2021-09-12T17:00:00-07:00",
-    "date_precision": "day",
+    "date_utc": "2021-09-14T03:55:00.000Z",
+    "date_unix": 1631591700,
+    "date_local": "2021-09-13T20:55:00-07:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
@@ -10615,9 +10615,9 @@
     "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 135,
     "name": "Inspiration4",
-    "date_utc": "2021-09-16T00:00:00.000Z",
-    "date_unix": 1631750400,
-    "date_local": "2021-09-15T20:00:00-04:00",
+    "date_utc": "2021-09-16T00:01:00.000Z",
+    "date_unix": 1631750460,
+    "date_local": "2021-09-15T20:01:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
