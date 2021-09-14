@@ -834,12 +834,12 @@
   },
   {
     "block": 5,
-    "reuse_count": 8,
+    "reuse_count": 9,
     "rtls_attempts": 0,
     "rtls_landings": 0,
-    "asds_attempts": 9,
-    "asds_landings": 9,
-    "last_update": "Landed on OCISLY as of May 4, 2021 ",
+    "asds_attempts": 10,
+    "asds_landings": 10,
+    "last_update": "Landed on OCISLY as of Sep 14, 2021 ",
     "launches": [
       "5eb87d22ffd86e000604b36d",
       "5eb87d28ffd86e000604b373",
@@ -849,7 +849,8 @@
       "5ed981d91f30554030d45c2a",
       "5fb95b3f3a88ae63c954603c",
       "5fbfecfe54ceb10a5664c80b",
-      "605b4b7daa5433645e37d040"
+      "605b4b7daa5433645e37d040",
+      "60e3bf0d73359e1e20335c37"
     ],
     "serial": "B1049",
     "status": "unknown",
