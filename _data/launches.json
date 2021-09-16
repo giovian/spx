@@ -10518,12 +10518,15 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/51474853666_be4615e186_o.jpg",
+          "https://live.staticflickr.com/65535/51475097383_dcf9002e9c_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/4372QYiPZB4",
       "youtube_id": "4372QYiPZB4",
-      "article": null,
+      "article": "https://spaceflightnow.com/2021/09/14/spacex-launches-first-full-batch-of-laser-equipped-starlink-satellites/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": "2021-09-02T17:29:00.000Z",
@@ -10572,12 +10575,12 @@
     "fairings": null,
     "links": {
       "patch": {
-        "small": "https://imgur.com/tmyY7W8.png",
-        "large": "https://imgur.com/cUlISOw.png"
+        "small": "https://i.imgur.com/J1uM5nz.png",
+        "large": "https://i.imgur.com/jYYTXwC.png"
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/pc1fq7/inspiration4_launch_campaign_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/po651k/rspacex_inspiration4_launch_discussion_updates/",
         "media": null,
         "recovery": null
       },
@@ -10586,8 +10589,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/3pv01sSq44w",
+      "youtube_id": "3pv01sSq44w",
       "article": null,
       "wikipedia": "https://en.wikipedia.org/wiki/Inspiration4"
     },
@@ -10596,7 +10599,7 @@
     "net": false,
     "window": 18000,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "failures": [],
     "details": "Inspiration4 is the world’s first all-civilian mission to space. The mission will be commanded by Jared Isaacman, the 37-year-old founder and Chief Executive Officer of Shift4 Payments and an accomplished pilot and adventurer. Inspiration4 will leave Earth from Kennedy Space Center’s historic Launch Complex 39A, the embarkation point for Apollo and Space Shuttle missions, and travel across a low earth orbit on a multi-day journey that will continually eclipse more than 90% of the earth’s population. Named in recognition of the four-person crew that will raise awareness and funds for St. Jude Children’s Research Hospital, this milestone represents a new era for human spaceflight and exploration.",
     "crew": [
@@ -10605,7 +10608,11 @@
       "607b48375a906a44023e08b8",
       "607b48da5a906a44023e08b9"
     ],
-    "ships": [],
+    "ships": [
+      "5ea6ed2f080df4000697c910",
+      "5ee68c683c228f36bd5809b5",
+      "614251b711a64135defb3654"
+    ],
     "capsules": [
       "5f6f99fddcfdf403df379709"
     ],
@@ -10619,7 +10626,7 @@
     "date_unix": 1631750520,
     "date_local": "2021-09-15T20:02:00-04:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
         "core": "5f57c5440622a633027900a0",
@@ -10628,9 +10635,9 @@
         "legs": true,
         "reused": true,
         "landing_attempt": true,
-        "landing_success": null,
+        "landing_success": true,
         "landing_type": "ASDS",
-        "landpad": null
+        "landpad": "5e9e3033383ecbb9e534e7cc"
       }
     ],
     "auto_update": true,
@@ -10703,7 +10710,7 @@
     ],
     "auto_update": true,
     "tbd": false,
-    "launch_library_id": "13386512-85bb-4c93-a9b0-f5eac05fbe4f",
+    "launch_library_id": "621d64e6-0513-45dc-8ffa-c9fd56518398",
     "id": "60b3b843998a020e76e3284b"
   },
   {
