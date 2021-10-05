@@ -10846,7 +10846,7 @@
       "60b3b89e998a020e76e32851"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 138,
+    "flight_number": 137,
     "name": "Starlink-29 (v1.0)",
     "date_utc": "2021-10-01T00:00:00.000Z",
     "date_unix": 1633046400,
@@ -10914,7 +10914,7 @@
       "60b3b8ab998a020e76e32852"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 139,
+    "flight_number": 138,
     "name": "Starlink-30 (v1.0)",
     "date_utc": "2021-10-01T00:00:00.000Z",
     "date_unix": 1633046400,
@@ -10982,7 +10982,7 @@
       "5fe3b2abb3467846b3242172"
     ],
     "launchpad": "5e9e4502f509092b78566f87",
-    "flight_number": 140,
+    "flight_number": 139,
     "name": "SARah 1",
     "date_utc": "2021-10-01T00:00:00.000Z",
     "date_unix": 1633046400,
@@ -11050,7 +11050,7 @@
       "5fe3c4a6b3467846b3242192"
     ],
     "launchpad": "5e9e4502f509092b78566f87",
-    "flight_number": 143,
+    "flight_number": 142,
     "name": "DART",
     "date_utc": "2021-11-24T06:58:00.000Z",
     "date_unix": 1637737080,
@@ -11186,7 +11186,7 @@
       "607a35435a906a44023e0863"
     ],
     "launchpad": "5e9e4502f509092b78566f87",
-    "flight_number": 150,
+    "flight_number": 149,
     "name": "NROL-87",
     "date_utc": "2022-02-02T00:00:00.000Z",
     "date_unix": 1643760000,
@@ -11254,7 +11254,7 @@
       "607a364e5a906a44023e0865"
     ],
     "launchpad": "5e9e4502f509092b78566f87",
-    "flight_number": 153,
+    "flight_number": 152,
     "name": "WorldView Legion 1-2",
     "date_utc": "2022-03-01T00:00:00.000Z",
     "date_unix": 1646092800,
