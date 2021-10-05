@@ -11052,9 +11052,9 @@
     "launchpad": "5e9e4502f509092b78566f87",
     "flight_number": 142,
     "name": "DART",
-    "date_utc": "2021-11-24T06:58:00.000Z",
-    "date_unix": 1637737080,
-    "date_local": "2021-11-23T22:58:00-08:00",
+    "date_utc": "2021-11-24T06:20:00.000Z",
+    "date_unix": 1637734800,
+    "date_local": "2021-11-23T22:20:00-08:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
