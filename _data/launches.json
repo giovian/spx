@@ -10753,10 +10753,10 @@
     "launchpad": "5e9e4502f509092b78566f87",
     "flight_number": 142,
     "name": "Starlink 2-2 (v1.5)",
-    "date_utc": "2021-10-01T00:00:00.000Z",
-    "date_unix": 1633046400,
-    "date_local": "2021-09-30T17:00:00-07:00",
-    "date_precision": "month",
+    "date_utc": "2021-10-17T17:34:00.000Z",
+    "date_unix": 1634492040,
+    "date_local": "2021-10-17T10:34:00-07:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
@@ -10773,7 +10773,7 @@
     ],
     "auto_update": true,
     "tbd": false,
-    "launch_library_id": "0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
+    "launch_library_id": "0d4b0c0f-3d72-4cb2-b596-dc526ad178a6",
     "id": "6161c7d26db1a92bfba85346"
   },
   {
