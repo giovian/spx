@@ -10753,9 +10753,9 @@
     "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 142,
     "name": "Crew-3",
-    "date_utc": "2021-10-30T06:43:00.000Z",
-    "date_unix": 1635576180,
-    "date_local": "2021-10-30T02:43:00-04:00",
+    "date_utc": "2021-10-31T06:21:00.000Z",
+    "date_unix": 1635661260,
+    "date_local": "2021-10-31T02:21:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
