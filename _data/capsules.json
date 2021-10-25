@@ -181,7 +181,7 @@
     "reuse_count": 0,
     "water_landings": 1,
     "land_landings": 0,
-    "last_update": "As of January 28, 2017: In Hawthorne, on display for Hyperloop competition. ",
+    "last_update": "Modified Dragon 1 pressure vessel --- Retired after successfully completing first round of DragonFly testing --- Used at public outreach events as a display piece",
     "launches": [
       "5eb87d2bffd86e000604b375"
     ],
@@ -252,7 +252,7 @@
   },
   {
     "reuse_count": 1,
-    "water_landings": 0,
+    "water_landings": 1,
     "land_landings": 0,
     "last_update": "Splashed down in the Gulf of Mexico on 2 May 2021 ",
     "launches": [
@@ -268,7 +268,7 @@
     "reuse_count": 0,
     "water_landings": 1,
     "land_landings": 0,
-    "last_update": "Splashed down off the coast of Florida on 14 Jan 2021",
+    "last_update": "Used for the first Cargo D2 flight.",
     "launches": [
       "5eb87d4effd86e000604b391"
     ],
