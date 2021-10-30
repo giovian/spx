@@ -289,5 +289,16 @@
     "status": "active",
     "type": "Dragon 2.0",
     "id": "60b803421f83cc1e59f1644d"
+  },
+  {
+    "reuse_count": 0,
+    "water_landings": 0,
+    "land_landings": 0,
+    "last_update": null,
+    "launches": [],
+    "serial": "C210",
+    "status": "active",
+    "type": "Dragon 2.0",
+    "id": "617c05591bad2c661a6e2909"
   }
 ]
