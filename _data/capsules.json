@@ -181,7 +181,7 @@
     "reuse_count": 0,
     "water_landings": 1,
     "land_landings": 0,
-    "last_update": "Modified Dragon 1 pressure vessel --- Retired after successfully completing first round of DragonFly testing --- Used at public outreach events as a display piece",
+    "last_update": "As of January 28, 2017: In Hawthorne, on display for Hyperloop competition. ",
     "launches": [
       "5eb87d2bffd86e000604b375"
     ],
@@ -240,7 +240,7 @@
     "reuse_count": 1,
     "water_landings": 2,
     "land_landings": 0,
-    "last_update": "Docked to pressurized mating adapter PMA-2 on the Harmony module of the ISS on 24 Apr 2021 ",
+    "last_update": "Docked to pressurized mating adapter PMA-3 on the Harmony module of the ISS on 2021 July 21",
     "launches": [
       "5eb87d46ffd86e000604b388",
       "5fe3af58b3467846b324215f"
@@ -254,7 +254,7 @@
     "reuse_count": 1,
     "water_landings": 2,
     "land_landings": 0,
-    "last_update": "Splashed down in the Gulf of Mexico on 2 May 2021 ",
+    "last_update": "Undergoing refurbishment in a Cape Canaveral Processing Facility",
     "launches": [
       "5eb87d4dffd86e000604b38e",
       "607a37565a906a44023e0866"
@@ -268,7 +268,7 @@
     "reuse_count": 0,
     "water_landings": 1,
     "land_landings": 0,
-    "last_update": "Used for the first Cargo D2 flight.",
+    "last_update": "Undergoing refurbishment in a Cape Canaveral Processing Facility",
     "launches": [
       "5eb87d4effd86e000604b391"
     ],
@@ -281,7 +281,7 @@
     "reuse_count": 0,
     "water_landings": 1,
     "land_landings": 0,
-    "last_update": null,
+    "last_update": "C210, Endurance",
     "launches": [
       "5fe3af84b3467846b3242161"
     ],
