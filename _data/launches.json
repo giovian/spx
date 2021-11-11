@@ -10673,7 +10673,7 @@
     "net": false,
     "window": 0,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "failures": [],
     "details": null,
     "crew": [
@@ -10702,7 +10702,7 @@
     "date_unix": 1636596180,
     "date_local": "2021-11-10T21:03:00-05:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
         "core": "60b800111f83cc1e59f16438",
@@ -10711,7 +10711,7 @@
         "legs": true,
         "reused": true,
         "landing_attempt": true,
-        "landing_success": null,
+        "landing_success": true,
         "landing_type": "ASDS",
         "landpad": "5e9e3033383ecbb9e534e7cc"
       }
@@ -10786,7 +10786,7 @@
     ],
     "auto_update": true,
     "tbd": false,
-    "launch_library_id": null,
+    "launch_library_id": "c4b2f90e-3385-4cbe-a89f-fc5f57da1bfb",
     "id": "5fe3b107b3467846b324216b"
   },
   {
