@@ -10649,12 +10649,12 @@
     "fairings": null,
     "links": {
       "patch": {
-        "small": "https://i.imgur.com/KhQ11oo.png",
-        "large": "https://i.imgur.com/M6GvRVe.png"
+        "small": "https://i.imgur.com/kIHwGnk.png",
+        "large": "https://i.imgur.com/iKMGChP.png"
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/q8r52a/crew3_launch_campaign_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/qij6f4/rspacex_crew3_launch_discussion_updates_thread/",
         "media": null,
         "recovery": null
       },
@@ -10663,8 +10663,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/WZvtrnFItNs",
+      "youtube_id": "WZvtrnFItNs",
       "article": null,
       "wikipedia": "https://en.wikipedia.org/wiki/SpaceX_Crew-3"
     },
