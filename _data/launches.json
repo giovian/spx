@@ -10907,10 +10907,10 @@
     "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 139,
     "name": "Starlink 2-2 (v1.5)",
-    "date_utc": "2021-11-01T00:00:00.000Z",
-    "date_unix": 1635724800,
-    "date_local": "2021-10-31T20:00:00-04:00",
-    "date_precision": "month",
+    "date_utc": "2021-12-01T06:36:00.000Z",
+    "date_unix": 1638340560,
+    "date_local": "2021-12-01T01:36:00-05:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
@@ -11106,14 +11106,14 @@
     "ships": [],
     "capsules": [],
     "payloads": [
-      "6161d3a06db1a92bfba8535a"
+      "5fe3c080b3467846b3242190"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 141,
-    "name": "CSG-2",
-    "date_utc": "2021-12-14T23:11:00.000Z",
-    "date_unix": 1639523460,
-    "date_local": "2021-12-14T18:11:00-05:00",
+    "name": "Türksat 5B",
+    "date_utc": "2021-12-19T03:58:00.000Z",
+    "date_unix": 1639886280,
+    "date_local": "2021-12-18T22:58:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -11132,7 +11132,7 @@
     "auto_update": true,
     "tbd": false,
     "launch_library_id": null,
-    "id": "6161d32d6db1a92bfba85359"
+    "id": "5fe3afc1b3467846b3242164"
   },
   {
     "fairings": null,
@@ -11213,74 +11213,6 @@
         "campaign": null,
         "launch": null,
         "media": null,
-        "recovery": null
-      },
-      "flickr": {
-        "small": [],
-        "original": []
-      },
-      "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
-      "article": null,
-      "wikipedia": null
-    },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
-    "net": false,
-    "window": null,
-    "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
-    "failures": [],
-    "details": null,
-    "crew": [],
-    "ships": [],
-    "capsules": [],
-    "payloads": [
-      "5fe3c080b3467846b3242190"
-    ],
-    "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 143,
-    "name": "Türksat 5B",
-    "date_utc": "2021-12-01T00:00:00.000Z",
-    "date_unix": 1638316800,
-    "date_local": "2021-11-30T19:00:00-05:00",
-    "date_precision": "month",
-    "upcoming": true,
-    "cores": [
-      {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
-      }
-    ],
-    "auto_update": true,
-    "tbd": false,
-    "launch_library_id": null,
-    "id": "5fe3afc1b3467846b3242164"
-  },
-  {
-    "fairings": {
-      "reused": null,
-      "recovery_attempt": null,
-      "recovered": null,
-      "ships": []
-    },
-    "links": {
-      "patch": {
-        "small": null,
-        "large": null
-      },
-      "reddit": {
-        "campaign": null,
-        "launch": null,
-        "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
       "flickr": {
@@ -11308,7 +11240,7 @@
       "5fe3b2abb3467846b3242172"
     ],
     "launchpad": "5e9e4502f509092b78566f87",
-    "flight_number": 148,
+    "flight_number": 147,
     "name": "SARah 1",
     "date_utc": "2022-01-01T00:00:00.000Z",
     "date_unix": 1640995200,
@@ -11376,7 +11308,7 @@
       "6175aaacefa4314085aa9c56"
     ],
     "launchpad": "5e9e4502f509092b78566f87",
-    "flight_number": 149,
+    "flight_number": 148,
     "name": "NROL-87",
     "date_utc": "2022-02-02T00:00:00.000Z",
     "date_unix": 1643760000,
@@ -11400,5 +11332,73 @@
     "tbd": false,
     "launch_library_id": null,
     "id": "607a34e35a906a44023e085e"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": null,
+        "large": null
+      },
+      "reddit": {
+        "campaign": null,
+        "launch": null,
+        "media": null,
+        "recovery": null
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "failures": [],
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "6161d3a06db1a92bfba8535a"
+    ],
+    "launchpad": "5e9e4501f509094ba4566f84",
+    "flight_number": 152,
+    "name": "CSG-2",
+    "date_utc": "2021-01-01T00:00:00.000Z",
+    "date_unix": 1609459200,
+    "date_local": "2020-12-31T19:00:00-05:00",
+    "date_precision": "quarter",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "auto_update": true,
+    "tbd": false,
+    "launch_library_id": null,
+    "id": "6161d32d6db1a92bfba85359"
   }
 ]
