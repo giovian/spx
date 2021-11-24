@@ -10660,12 +10660,21 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/51673353699_e3da266245_o.jpg",
+          "https://live.staticflickr.com/65535/51673548360_64354b760f_o.jpg",
+          "https://live.staticflickr.com/65535/51672676881_3b88410a96_o.jpg",
+          "https://live.staticflickr.com/65535/51673548330_7acc53d2fb_o.jpg",
+          "https://live.staticflickr.com/65535/51671874407_4f56a87855_o.jpg",
+          "https://live.staticflickr.com/65535/51672676961_36371a6a76_o.jpg",
+          "https://live.staticflickr.com/65535/51672915563_7f5b373701_o.jpg",
+          "https://live.staticflickr.com/65535/51672915633_947e35cabc_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/WZvtrnFItNs",
       "youtube_id": "WZvtrnFItNs",
-      "article": null,
+      "article": "https://spaceflightnow.com/2021/11/11/spacex-debuts-new-dragon-capsule-in-launch-to-the-international-space-station/",
       "wikipedia": "https://en.wikipedia.org/wiki/SpaceX_Crew-3"
     },
     "static_fire_date_utc": "2021-10-28T05:46:00.000Z",
@@ -10675,7 +10684,7 @@
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": true,
     "failures": [],
-    "details": null,
+    "details": "SpaceX will launch the third operational mission of its Crew Dragon vehicle as part of NASA's Commercial Crew Program, carrying four astronauts to the International Space Station, including 1 international partner This mission will fly on a new capsule and a once used booster. The booster will land downrange on a drone ship. The Crew-2 mission returns from the space station in November.",
     "crew": [
       "5fe3c587b3467846b3242198",
       "5fe3c5beb3467846b3242199",
@@ -10725,7 +10734,7 @@
     "fairings": {
       "reused": null,
       "recovery_attempt": true,
-      "recovered": null,
+      "recovered": true,
       "ships": [
         "618fad7e563d69573ed8caa9"
       ]
@@ -10743,12 +10752,19 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/51676939646_1a12780e54_o.jpg",
+          "https://live.staticflickr.com/65535/51677186188_e03e87ae8e_o.jpg",
+          "https://live.staticflickr.com/65535/51676136297_0bbb893f44_o.jpg",
+          "https://live.staticflickr.com/65535/51677822295_87c2ee94b1_o.jpg",
+          "https://live.staticflickr.com/65535/51677186098_12c8f54593_o.jpg",
+          "https://live.staticflickr.com/65535/51676136282_5118fa42ef_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/AtmtP4vouSY",
       "youtube_id": "AtmtP4vouSY",
-      "article": null,
+      "article": "https://spaceflightnow.com/2021/11/13/spacex-launch-starts-deployment-of-new-starlink-orbital-shell/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
@@ -10797,18 +10813,20 @@
   {
     "fairings": {
       "reused": null,
-      "recovery_attempt": null,
+      "recovery_attempt": true,
       "recovered": null,
-      "ships": []
+      "ships": [
+        "5ea6ed30080df4000697c912"
+      ]
     },
     "links": {
       "patch": {
-        "small": null,
-        "large": null
+        "small": "https://i.imgur.com/uACyyZV.png",
+        "large": "https://i.imgur.com/4wqXB9V.png"
       },
       "reddit": {
-        "campaign": null,
-        "launch": null,
+        "campaign": "https://www.reddit.com/r/spacex/comments/qu8s5a/dart_launch_campaign_thread/",
+        "launch": "https://www.reddit.com/r/spacex/comments/r0dn3a/rspacex_dart_launch_discussion_and_updates_thread/",
         "media": null,
         "recovery": null
       },
@@ -10817,21 +10835,25 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/XKRf6-NcMqI",
+      "youtube_id": "XKRf6-NcMqI",
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test"
     },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
+    "static_fire_date_utc": "2021-11-19T20:20:00.000Z",
+    "static_fire_date_unix": 1637353200,
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
     "failures": [],
-    "details": null,
+    "details": "NASA's Double Asteroid Redirect Test (DART) will demonstrate the use of a kinetic impactor to alter an asteroid's trajectory, an intervention that could be used in the future to prevent devastating Earth impacts. The target system consists of Didymos, 780 meters in diameter, and its moonlet Dimorphos, 160 meters. The DART spacecraft will intercept the double asteroid, using autonomous guidance to crash into the smaller one. Moving at about 6 km/s, the transferred momentum should alter Dimorphos's 12 hour orbital period around its companion by several minutes. The mission tests several technologies, including the Small-body Maneuvering Autonomous Real-Time Navigation (SMART Nav) used to differentiate and steer toward the target body and Roll-Out Solar Arrays (ROSA) with Transformational Solar Array concentrators. NASA’s Evolutionary Xenon Thruster — Commercial (NEXT–C) ion engine will also be demonstrated, although the spacecraft's primary propulsion is hydrazine thrusters. DART should arrive at Didymos in late September 2022, when it is about 11 million kilometers from Earth. Ten days before impact, the Italian Space Agency's cubesat LICIACube will be deployed to observe the collision and ejecta with its two cameras. Earth-based telescopes will be used to measure the altered orbit.",
     "crew": [],
-    "ships": [],
+    "ships": [
+      "5ea6ed30080df4000697c913",
+      "5ea6ed2f080df4000697c90b",
+      "5ea6ed30080df4000697c912"
+    ],
     "capsules": [],
     "payloads": [
       "5fe3c4a6b3467846b3242192"
@@ -10848,13 +10870,13 @@
       {
         "core": "5f57c54a0622a633027900a1",
         "flight": 2,
-        "gridfins": null,
-        "legs": null,
+        "gridfins": true,
+        "legs": true,
         "reused": true,
-        "landing_attempt": null,
+        "landing_attempt": true,
         "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "landing_type": "ASDS",
+        "landpad": "5e9e3032383ecb6bb234e7ca"
       }
     ],
     "auto_update": true,
@@ -11094,7 +11116,7 @@
     "net": false,
     "window": 0,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": true,
+    "success": null,
     "failures": [],
     "details": null,
     "crew": [],
