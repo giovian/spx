@@ -10887,9 +10887,11 @@
   {
     "fairings": {
       "reused": null,
-      "recovery_attempt": null,
+      "recovery_attempt": true,
       "recovered": null,
-      "ships": []
+      "ships": [
+        "618fad7e563d69573ed8caa9"
+      ]
     },
     "links": {
       "patch": {
@@ -10898,7 +10900,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/r79osa/spacex_starlink_43_launch_discussion_and_updates/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -10907,8 +10909,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/594TbXriaAk",
+      "youtube_id": "594TbXriaAk",
       "article": null,
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
@@ -10917,11 +10919,15 @@
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "failures": [],
     "details": null,
     "crew": [],
-    "ships": [],
+    "ships": [
+      "5ea6ed2d080df4000697c904",
+      "618fad7e563d69573ed8caa9",
+      "5ee68c683c228f36bd5809b5"
+    ],
     "capsules": [],
     "payloads": [
       "6161d0f26db1a92bfba85355"
@@ -10933,18 +10939,18 @@
     "date_unix": 1638400800,
     "date_local": "2021-12-01T18:20:00-05:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
-        "core": null,
-        "flight": null,
+        "core": "5ef670f10059c33cee4a826c",
+        "flight": 9,
         "gridfins": true,
         "legs": true,
         "reused": true,
         "landing_attempt": true,
-        "landing_success": null,
+        "landing_success": true,
         "landing_type": "ASDS",
-        "landpad": null
+        "landpad": "5e9e3033383ecb075134e7cd"
       }
     ],
     "auto_update": true,
@@ -11017,7 +11023,7 @@
     ],
     "auto_update": true,
     "tbd": false,
-    "launch_library_id": null,
+    "launch_library_id": "dfb2cc3b-8cd8-41b6-a83a-22b2a742ba4b",
     "id": "6161c88d6db1a92bfba85348"
   },
   {
