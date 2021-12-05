@@ -1012,11 +1012,11 @@
   },
   {
     "block": 5,
-    "reuse_count": 7,
+    "reuse_count": 8,
     "rtls_attempts": 0,
     "rtls_landings": 0,
-    "asds_attempts": 8,
-    "asds_landings": 8,
+    "asds_attempts": 9,
+    "asds_landings": 9,
     "last_update": "Landed on JRTI as of Nov 13, 2021 ",
     "launches": [
       "5eb87d46ffd86e000604b388",
@@ -1026,7 +1026,8 @@
       "5fd386aa7faea57d297c86c1",
       "600f9a718f798e2a4d5f979d",
       "60428ac4c041c16716f73cd8",
-      "605b4b95aa5433645e37d041"
+      "605b4b95aa5433645e37d041",
+      "618faad2563d69573ed8ca9d"
     ],
     "serial": "B1058",
     "status": "unknown",
@@ -1075,17 +1076,16 @@
   },
   {
     "block": 5,
-    "reuse_count": 3,
+    "reuse_count": 2,
     "rtls_attempts": 0,
     "rtls_landings": 0,
-    "asds_attempts": 4,
-    "asds_landings": 4,
+    "asds_attempts": 3,
+    "asds_landings": 3,
     "last_update": "landed on JRTI as of Sep 16, 2021. ",
     "launches": [
       "5eb87d4cffd86e000604b38d",
       "5eb87d4effd86e000604b390",
-      "607a37565a906a44023e0866",
-      "618faad2563d69573ed8ca9d"
+      "607a37565a906a44023e0866"
     ],
     "serial": "B1062",
     "status": "unknown",

@@ -10787,15 +10787,15 @@
     "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 137,
     "name": "Starlink 4-1 (v1.5)",
-    "date_utc": "2021-11-12T12:40:00.000Z",
-    "date_unix": 1636720800,
-    "date_local": "2021-11-12T07:40:00-05:00",
+    "date_utc": "2021-11-13T12:40:00.000Z",
+    "date_unix": 1636807200,
+    "date_local": "2021-11-13T07:40:00-05:00",
     "date_precision": "hour",
     "upcoming": false,
     "cores": [
       {
-        "core": "5f57c5440622a633027900a0",
-        "flight": 4,
+        "core": "5e9e28a7f3591817f23b2663",
+        "flight": 9,
         "gridfins": true,
         "legs": true,
         "reused": true,
@@ -10971,7 +10971,7 @@
         "large": null
       },
       "reddit": {
-        "campaign": null,
+        "campaign": "https://www.reddit.com/r/spacex/comments/r7chh2/ixpe_launch_campaign_thread/",
         "launch": null,
         "media": null,
         "recovery": null
@@ -11010,15 +11010,15 @@
     "upcoming": true,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
+        "core": "5f57c53d0622a6330279009f",
+        "flight": 5,
+        "gridfins": true,
+        "legs": true,
         "reused": true,
-        "landing_attempt": null,
+        "landing_attempt": true,
         "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "landing_type": "ASDS",
+        "landpad": "5e9e3033383ecbb9e534e7cc"
       }
     ],
     "auto_update": true,
