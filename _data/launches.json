@@ -10981,17 +10981,17 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/CpmHsN5GUn8",
+      "youtube_id": "CpmHsN5GUn8",
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/IXPE"
     },
     "static_fire_date_utc": null,
     "static_fire_date_unix": null,
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "failures": [],
     "details": null,
     "crew": [],
@@ -11007,7 +11007,7 @@
     "date_unix": 1639029600,
     "date_local": "2021-12-09T01:00:00-05:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
         "core": "5f57c53d0622a6330279009f",
@@ -11016,7 +11016,7 @@
         "legs": true,
         "reused": true,
         "landing_attempt": true,
-        "landing_success": null,
+        "landing_success": true,
         "landing_type": "ASDS",
         "landpad": "5e9e3033383ecbb9e534e7cc"
       }
@@ -11091,7 +11091,7 @@
     ],
     "auto_update": true,
     "tbd": false,
-    "launch_library_id": null,
+    "launch_library_id": "16d0c02e-0bb1-45d5-a3f5-7c4ff6cf6de1",
     "id": "5fe3afc1b3467846b3242164"
   },
   {
