@@ -11042,7 +11042,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/rhvacp/rspacex_starlink_44_launch_discussion_and_updates/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -11051,19 +11051,19 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/q4Ed3EBx90s",
+      "youtube_id": "q4Ed3EBx90s",
       "article": null,
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
+    "static_fire_date_utc": "2021-12-17T08:31:00.000Z",
+    "static_fire_date_unix": 1639729860,
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
     "failures": [],
-    "details": null,
+    "details": "The mission consists in launching 52 Starlink v1.5 satellites to Shell number 4 at 53.2°. This is unusual as the mission is launching from Vandenberg as these missions usually launch from the East Coast.",
     "crew": [],
     "ships": [
       "5ea6ed30080df4000697c913",
@@ -11077,9 +11077,9 @@
     "launchpad": "5e9e4502f509092b78566f87",
     "flight_number": 141,
     "name": "Starlink 4-4 (v1.5)",
-    "date_utc": "2021-12-17T09:46:20.000Z",
-    "date_unix": 1639734380,
-    "date_local": "2021-12-17T09:46:20-08:00",
+    "date_utc": "2021-12-18T09:24:40.000Z",
+    "date_unix": 1639819480,
+    "date_local": "2021-12-18T09:24:40-08:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -11135,7 +11135,7 @@
     "rocket": "5e9d0d95eda69973a809d1ec",
     "success": null,
     "failures": [],
-    "details": null,
+    "details": "The Türksat 5B communication satellite, which its construction work continues at Airbus Defense and Space's facilities in Toulouse, France, will soon be sent to the Cape Canaveral Space Launch Station located in Florida, United States. The satellite will be launched into space onboard the Falcon 9 rocket following pre-launch preparations. With an estimated in-orbit lifetime of 30 years and the aim of securing Turkey’s orbital and frequency rights, Türksat 5B will be launched into an orbital slot at 42 degrees East. With 12 kW power, Türksat 5B will provide TV broadcasting and data communication services over a wide coverage area that reaches the entire Middle East, the Persian Gulf, the Red Sea, the Mediterranean, North Africa, East Africa, South Africa and Nigeria. Apart from that, the satellite will also provide customized services for airlines and commercial ship operators around the world thanks to the fact that it operates in Ka-Band.",
     "crew": [],
     "ships": [],
     "capsules": [],
@@ -11167,69 +11167,6 @@
     "tbd": false,
     "launch_library_id": "16d0c02e-0bb1-45d5-a3f5-7c4ff6cf6de1",
     "id": "5fe3afc1b3467846b3242164"
-  },
-  {
-    "fairings": null,
-    "links": {
-      "patch": {
-        "small": null,
-        "large": null
-      },
-      "reddit": {
-        "campaign": null,
-        "launch": null,
-        "media": null,
-        "recovery": null
-      },
-      "flickr": {
-        "small": [],
-        "original": []
-      },
-      "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
-      "article": null,
-      "wikipedia": null
-    },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
-    "net": false,
-    "window": 0,
-    "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
-    "failures": [],
-    "details": null,
-    "crew": [],
-    "ships": [],
-    "capsules": [],
-    "payloads": [
-      "6161d22a6db1a92bfba85357"
-    ],
-    "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 142,
-    "name": "CRS-24",
-    "date_utc": "2021-12-21T10:06:00.000Z",
-    "date_unix": 1640081160,
-    "date_local": "2021-12-21T05:06:00-05:00",
-    "date_precision": "hour",
-    "upcoming": true,
-    "cores": [
-      {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
-      }
-    ],
-    "auto_update": true,
-    "tbd": false,
-    "launch_library_id": null,
-    "id": "6161d2006db1a92bfba85356"
   },
   {
     "fairings": {
@@ -11298,6 +11235,69 @@
     "tbd": false,
     "launch_library_id": "0d4b0c0f-3d72-4cb2-b596-dc526ad178a6",
     "id": "6161c7d26db1a92bfba85346"
+  },
+  {
+    "fairings": null,
+    "links": {
+      "patch": {
+        "small": null,
+        "large": null
+      },
+      "reddit": {
+        "campaign": null,
+        "launch": null,
+        "media": null,
+        "recovery": null
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "net": false,
+    "window": 0,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "failures": [],
+    "details": "SpaceX's 24th ISS resupply mission on behalf of NASA, this mission brings essential supplies to the International Space Station using the cargo variant of SpaceX's Dragon 2 spacecraft. Cargo includes several science experiments. The booster for this mission is expected to land on an ASDS. The mission will be complete with return and recovery of the Dragon capsule and down cargo.",
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "6161d22a6db1a92bfba85357"
+    ],
+    "launchpad": "5e9e4502f509094188566f88",
+    "flight_number": 143,
+    "name": "CRS-24",
+    "date_utc": "2021-12-21T10:06:00.000Z",
+    "date_unix": 1640081160,
+    "date_local": "2021-12-21T05:06:00-05:00",
+    "date_precision": "hour",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "auto_update": false,
+    "tbd": false,
+    "launch_library_id": null,
+    "id": "6161d2006db1a92bfba85356"
   },
   {
     "fairings": {
