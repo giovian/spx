@@ -11061,7 +11061,7 @@
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "failures": [],
     "details": "The mission consists in launching 52 Starlink v1.5 satellites to Shell number 4 at 53.2°. This is unusual as the mission is launching from Vandenberg as these missions usually launch from the East Coast.",
     "crew": [],
@@ -11081,7 +11081,7 @@
     "date_unix": 1639831300,
     "date_local": "2021-12-18T12:41:40-08:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
         "core": "5e9e28a6f35918c0803b265c",
@@ -11090,7 +11090,7 @@
         "legs": true,
         "reused": true,
         "landing_attempt": true,
-        "landing_success": null,
+        "landing_success": true,
         "landing_type": "ASDS",
         "landpad": "5e9e3032383ecb6bb234e7ca"
       }
@@ -11113,7 +11113,7 @@
         "large": null
       },
       "reddit": {
-        "campaign": null,
+        "campaign": "https://www.reddit.com/r/spacex/comments/rfim89/t%C3%BCrksat_5b_launch_campaign_thread/",
         "launch": null,
         "media": null,
         "recovery": null
@@ -11152,7 +11152,7 @@
     "upcoming": true,
     "cores": [
       {
-        "core": "5e9e28a6f359183c413b265d",
+        "core": "60b800111f83cc1e59f16438",
         "flight": 3,
         "gridfins": true,
         "legs": true,
@@ -11167,74 +11167,6 @@
     "tbd": false,
     "launch_library_id": "16d0c02e-0bb1-45d5-a3f5-7c4ff6cf6de1",
     "id": "5fe3afc1b3467846b3242164"
-  },
-  {
-    "fairings": {
-      "reused": null,
-      "recovery_attempt": null,
-      "recovered": null,
-      "ships": []
-    },
-    "links": {
-      "patch": {
-        "small": "https://imgur.com/BrW201S.png",
-        "large": "https://imgur.com/573IfGk.png"
-      },
-      "reddit": {
-        "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
-        "media": null,
-        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
-      },
-      "flickr": {
-        "small": [],
-        "original": []
-      },
-      "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
-      "article": null,
-      "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
-    },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
-    "net": false,
-    "window": null,
-    "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
-    "failures": [],
-    "details": null,
-    "crew": [],
-    "ships": [],
-    "capsules": [],
-    "payloads": [
-      "6161d0af6db1a92bfba85352"
-    ],
-    "launchpad": "5e9e4502f509092b78566f87",
-    "flight_number": 143,
-    "name": "Starlink 2-2 (v1.5)",
-    "date_utc": "2021-12-01T00:00:00.000Z",
-    "date_unix": 1638316800,
-    "date_local": "2021-11-30T16:00:00-08:00",
-    "date_precision": "month",
-    "upcoming": true,
-    "cores": [
-      {
-        "core": null,
-        "flight": null,
-        "gridfins": true,
-        "legs": true,
-        "reused": true,
-        "landing_attempt": true,
-        "landing_success": null,
-        "landing_type": "ASDS",
-        "landpad": null
-      }
-    ],
-    "auto_update": true,
-    "tbd": false,
-    "launch_library_id": "0d4b0c0f-3d72-4cb2-b596-dc526ad178a6",
-    "id": "6161c7d26db1a92bfba85346"
   },
   {
     "fairings": null,
@@ -11308,6 +11240,74 @@
     },
     "links": {
       "patch": {
+        "small": "https://imgur.com/BrW201S.png",
+        "large": "https://imgur.com/573IfGk.png"
+      },
+      "reddit": {
+        "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
+        "launch": null,
+        "media": null,
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "failures": [],
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "6161d0af6db1a92bfba85352"
+    ],
+    "launchpad": "5e9e4502f509092b78566f87",
+    "flight_number": 145,
+    "name": "Starlink 2-2 (v1.5)",
+    "date_utc": "2021-12-01T00:00:00.000Z",
+    "date_unix": 1638316800,
+    "date_local": "2021-11-30T16:00:00-08:00",
+    "date_precision": "month",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
+        "landing_success": null,
+        "landing_type": "ASDS",
+        "landpad": null
+      }
+    ],
+    "auto_update": true,
+    "tbd": false,
+    "launch_library_id": "0d4b0c0f-3d72-4cb2-b596-dc526ad178a6",
+    "id": "6161c7d26db1a92bfba85346"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
         "small": null,
         "large": null
       },
@@ -11342,7 +11342,7 @@
       "5fe3b2abb3467846b3242172"
     ],
     "launchpad": "5e9e4502f509092b78566f87",
-    "flight_number": 145,
+    "flight_number": 147,
     "name": "SARah 1",
     "date_utc": "2022-01-01T00:00:00.000Z",
     "date_unix": 1640995200,
@@ -11410,7 +11410,7 @@
       "61a6e74312689a7af4e22369"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 146,
+    "flight_number": 148,
     "name": "Starlink 4-2 (v1.5)",
     "date_utc": "2022-01-01T00:00:00.000Z",
     "date_unix": 1640995200,
@@ -11478,7 +11478,7 @@
       "6175aaacefa4314085aa9c56"
     ],
     "launchpad": "5e9e4502f509092b78566f87",
-    "flight_number": 147,
+    "flight_number": 149,
     "name": "NROL-87",
     "date_utc": "2022-02-02T00:00:00.000Z",
     "date_unix": 1643760000,
@@ -11546,7 +11546,7 @@
       "6161d3a06db1a92bfba8535a"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 151,
+    "flight_number": 153,
     "name": "CSG-2",
     "date_utc": "2021-01-01T00:00:00.000Z",
     "date_unix": 1609459200,
