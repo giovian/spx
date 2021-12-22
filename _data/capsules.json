@@ -278,12 +278,13 @@
     "id": "5fbb0f8fec55b34eb9f35c14"
   },
   {
-    "reuse_count": 0,
+    "reuse_count": 1,
     "water_landings": 1,
     "land_landings": 0,
     "last_update": "C210, Endurance",
     "launches": [
-      "5fe3af84b3467846b3242161"
+      "5fe3af84b3467846b3242161",
+      "6161d2006db1a92bfba85356"
     ],
     "serial": "C209",
     "status": "active",

@@ -1156,7 +1156,7 @@
     "rtls_landings": 0,
     "asds_attempts": 3,
     "asds_landings": 3,
-    "last_update": "Landed on ASOG* as of Nov 11, 2021 ",
+    "last_update": "Landed on ASOG* as of Dec 19, 2021 ",
     "launches": [
       "5fe3af84b3467846b3242161",
       "5fe3b15eb3467846b324216d",
@@ -1165,5 +1165,33 @@
     "serial": "B1067",
     "status": "unknown",
     "id": "60b800111f83cc1e59f16438"
+  },
+  {
+    "block": 5,
+    "reuse_count": 0,
+    "rtls_attempts": 0,
+    "rtls_landings": 0,
+    "asds_attempts": 1,
+    "asds_landings": 1,
+    "last_update": "Landed on JRTI* as of Dec 21, 2021 ",
+    "launches": [
+      "6161d2006db1a92bfba85356"
+    ],
+    "serial": "B1069",
+    "status": "unknown",
+    "id": "61c1ef45a4a2462678cbf45d"
+  },
+  {
+    "block": 5,
+    "reuse_count": 0,
+    "rtls_attempts": 0,
+    "rtls_landings": 0,
+    "asds_attempts": 0,
+    "asds_landings": 0,
+    "last_update": null,
+    "launches": [],
+    "serial": "B1068",
+    "status": "unknown",
+    "id": "61c1ef4fa4a2462678cbf45e"
   }
 ]
