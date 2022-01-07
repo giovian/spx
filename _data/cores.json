@@ -1078,16 +1078,17 @@
   },
   {
     "block": 5,
-    "reuse_count": 2,
+    "reuse_count": 3,
     "rtls_attempts": 0,
     "rtls_landings": 0,
-    "asds_attempts": 3,
-    "asds_landings": 3,
+    "asds_attempts": 4,
+    "asds_landings": 4,
     "last_update": "landed on JRTI as of Sep 16, 2021. ",
     "launches": [
       "5eb87d4cffd86e000604b38d",
       "5eb87d4effd86e000604b390",
-      "607a37565a906a44023e0866"
+      "607a37565a906a44023e0866",
+      "61d5eca1f88e4c5fc91f1eb7"
     ],
     "serial": "B1062",
     "status": "unknown",
