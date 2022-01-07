@@ -11445,10 +11445,10 @@
     "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 146,
     "name": "CSG-2",
-    "date_utc": "2021-01-01T00:00:00.000Z",
-    "date_unix": 1609459200,
-    "date_local": "2020-12-31T19:00:00-05:00",
-    "date_precision": "month",
+    "date_utc": "2021-01-24T23:11:00.000Z",
+    "date_unix": 1611529860,
+    "date_local": "2021-01-24T18:11:00-05:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
