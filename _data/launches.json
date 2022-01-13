@@ -11281,7 +11281,11 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/51804559341_730da65003_o.jpg",
+          "https://live.staticflickr.com/65535/51804671583_7a1137dd05_o.jpg",
+          "https://live.staticflickr.com/65535/51804914844_ee0cd2c3c0_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/4_ePBpwMhns",
@@ -11345,8 +11349,8 @@
         "large": null
       },
       "reddit": {
-        "campaign": null,
-        "launch": null,
+        "campaign": "https://www.reddit.com/r/spacex/comments/s04tw9/transporter3_launch_campaign_thread/",
+        "launch": "https://www.reddit.com/r/spacex/comments/s23yav/rspacex_transporter3_launch_discussion_and/",
         "media": null,
         "recovery": null
       },
@@ -11355,8 +11359,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/mFBeuSAvhUQ",
+      "youtube_id": "mFBeuSAvhUQ",
       "article": null,
       "wikipedia": null
     },
@@ -11384,15 +11388,15 @@
     "upcoming": true,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
+        "core": "5e9e28a7f3591817f23b2663",
+        "flight": 10,
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
         "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "landing_type": "RTLS",
+        "landpad": "5e9e3032383ecb267a34e7c7"
       }
     ],
     "auto_update": true,
