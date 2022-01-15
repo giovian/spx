@@ -11369,7 +11369,7 @@
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "failures": [],
     "details": null,
     "crew": [],
@@ -11519,7 +11519,7 @@
     "name": "CSG-2",
     "date_utc": "2021-01-27T23:11:00.000Z",
     "date_unix": 1611789060,
-    "date_local": "2021-01-27T18:11:00-05:00",
+    "date_local": "2022-01-27T18:11:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -11535,7 +11535,7 @@
         "landpad": null
       }
     ],
-    "auto_update": true,
+    "auto_update": false,
     "tbd": false,
     "launch_library_id": null,
     "id": "6161d32d6db1a92bfba85359"
