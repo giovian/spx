@@ -11582,13 +11582,13 @@
     "payloads": [
       "61e05520be8d8b66799018d5"
     ],
-    "launchpad": "5e9e4501f509094ba4566f84",
+    "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 148,
     "name": "Starlink 4-7 (v1.5)",
-    "date_utc": "2022-01-01T00:00:00.000Z",
-    "date_unix": 1640995200,
-    "date_local": "2021-12-31T19:00:00-05:00",
-    "date_precision": "month",
+    "date_utc": "2022-01-29T00:00:00.000Z",
+    "date_unix": 1643414400,
+    "date_local": "2022-01-28T19:00:00-05:00",
+    "date_precision": "day",
     "upcoming": true,
     "cores": [
       {
