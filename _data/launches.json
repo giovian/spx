@@ -11449,9 +11449,9 @@
     "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 146,
     "name": "Starlink 4-6 (v1.5)",
-    "date_utc": "2022-01-18T00:16:00.000Z",
-    "date_unix": 1642464960,
-    "date_local": "2022-01-17T19:16:00-05:00",
+    "date_utc": "2022-01-18T00:26:00.000Z",
+    "date_unix": 1642465560,
+    "date_local": "2022-01-17T19:26:00-05:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
