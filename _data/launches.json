@@ -11407,9 +11407,11 @@
   {
     "fairings": {
       "reused": null,
-      "recovery_attempt": null,
+      "recovery_attempt": true,
       "recovered": null,
-      "ships": []
+      "ships": [
+        "614251b711a64135defb3654"
+      ]
     },
     "links": {
       "patch": {
@@ -11427,8 +11429,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/Yov854ZT1lg",
+      "youtube_id": "Yov854ZT1lg",
       "article": null,
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
@@ -11441,7 +11443,10 @@
     "failures": [],
     "details": null,
     "crew": [],
-    "ships": [],
+    "ships": [
+      "5ea6ed2d080df4000697c904",
+      "614251b711a64135defb3654"
+    ],
     "capsules": [],
     "payloads": [
       "61e05516be8d8b66799018d4"
@@ -11453,18 +11458,18 @@
     "date_unix": 1642550640,
     "date_local": "2022-01-18T19:04:00-05:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
-        "core": null,
-        "flight": null,
+        "core": "5ef670f10059c33cee4a826c",
+        "flight": 10,
         "gridfins": true,
         "legs": true,
         "reused": true,
         "landing_attempt": true,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "landing_success": true,
+        "landing_type": "ASDS",
+        "landpad": "5e9e3033383ecb075134e7cd"
       }
     ],
     "auto_update": true,
@@ -11537,7 +11542,7 @@
     ],
     "auto_update": false,
     "tbd": false,
-    "launch_library_id": null,
+    "launch_library_id": "50ac28f2-024f-442f-837d-dab8107304ec",
     "id": "6161d32d6db1a92bfba85359"
   },
   {

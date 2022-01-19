@@ -255,8 +255,8 @@
     "region": "Florida",
     "latitude": 33.7291858,
     "longitude": -118.262015,
-    "landing_attempts": 5,
-    "landing_successes": 5,
+    "landing_attempts": 6,
+    "landing_successes": 6,
     "wikipedia": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship",
     "details": "The fourth ASDS barge was announced to be under construction in February 2018 and it will become the second active east coast-based ASDS. It will be homeported at Port Canaveral. This future simultaneously usable ASDS, along with OCISLY, is called A Shortfall of Gravitas (ASoG) and like the rest of the fleet, its naming is based on names used in the Culture series. The droneship is expected to be operational in mid-2019.",
     "launches": [
@@ -264,7 +264,8 @@
       "5fe3b15eb3467846b324216d",
       "6161c94c6db1a92bfba85349",
       "5fe3afc1b3467846b3242164",
-      "61d5eca1f88e4c5fc91f1eb7"
+      "61d5eca1f88e4c5fc91f1eb7",
+      "61e048bbbe8d8b66799018d0"
     ],
     "id": "5e9e3033383ecb075134e7cd"
   }
