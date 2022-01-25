@@ -196,5 +196,41 @@
     ],
     "status": "active",
     "id": "60c4b5ad4e041c0b356db393"
+  },
+  {
+    "name": "Michael López-Alegría",
+    "agency": "Axiom Space",
+    "image": "https://i.imgur.com/60YDzr6.png",
+    "wikipedia": "https://en.wikipedia.org/wiki/Michael_L%C3%B3pez-Alegr%C3%ADa",
+    "launches": [],
+    "status": "active",
+    "id": "61eefc9c9eb1064137a1bd77"
+  },
+  {
+    "name": "Larry Connor",
+    "agency": "Axiom Space",
+    "image": "https://i.imgur.com/BMJiQ3G.png",
+    "wikipedia": "https://en.wikipedia.org/wiki/Larry_Connor",
+    "launches": [],
+    "status": "active",
+    "id": "61eefcf89eb1064137a1bd79"
+  },
+  {
+    "name": "Mark Pathy",
+    "agency": "Axiom Space",
+    "image": "https://i.imgur.com/IFpgQpP.png",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Pathy",
+    "launches": [],
+    "status": "active",
+    "id": "61eefd5b9eb1064137a1bd7a"
+  },
+  {
+    "name": "Eytan Stibbe",
+    "agency": "Axiom Space",
+    "image": "https://i.imgur.com/96TBbFB.png",
+    "wikipedia": "https://en.wikipedia.org/wiki/Eytan_Stibbe",
+    "launches": [],
+    "status": "active",
+    "id": "61eefdbf9eb1064137a1bd7b"
   }
 ]
