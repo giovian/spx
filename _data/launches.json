@@ -11486,12 +11486,12 @@
     },
     "links": {
       "patch": {
-        "small": null,
-        "large": null
+        "small": "https://i.imgur.com/CaF1N0S.png",
+        "large": "https://i.imgur.com/XdcZC8w.png"
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/sarr7x/rspacex_csg2_campaign_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/sdtz77/rspacex_csg2_launch_discussion_and_updates_thread/",
         "media": null,
         "recovery": null
       },
@@ -11500,8 +11500,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/AbFoi68L-GQ",
+      "youtube_id": "AbFoi68L-GQ",
       "article": null,
       "wikipedia": null
     },
@@ -11529,15 +11529,15 @@
     "upcoming": true,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
+        "core": "5e9e28a6f359183c413b265d",
+        "flight": 3,
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
         "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "landing_type": "RTLS",
+        "landpad": "5e9e3032383ecb267a34e7c7"
       }
     ],
     "auto_update": false,

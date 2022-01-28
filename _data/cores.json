@@ -839,7 +839,7 @@
     "rtls_landings": 0,
     "asds_attempts": 10,
     "asds_landings": 10,
-    "last_update": "Landed on OCISLY as of Sep 14, 2021 ",
+    "last_update": "Landed on OCISLY as of Sep 14, 2021",
     "launches": [
       "5eb87d22ffd86e000604b36d",
       "5eb87d28ffd86e000604b373",
@@ -853,7 +853,7 @@
       "60e3bf0d73359e1e20335c37"
     ],
     "serial": "B1049",
-    "status": "unknown",
+    "status": "active",
     "id": "5e9e28a5f3591833b13b2659"
   },
   {
@@ -893,7 +893,7 @@
     "rtls_landings": 1,
     "asds_attempts": 10,
     "asds_landings": 10,
-    "last_update": "landed on OCISLY as of Dec 18, 2021. ",
+    "last_update": "landed on OCISLY as of Dec 18, 2021.",
     "launches": [
       "5eb87d2bffd86e000604b375",
       "5eb87d31ffd86e000604b379",
@@ -908,7 +908,7 @@
       "61bba806437241381bf7061e"
     ],
     "serial": "B1051",
-    "status": "unknown",
+    "status": "active",
     "id": "5e9e28a6f35918c0803b265c"
   },
   {
@@ -918,13 +918,13 @@
     "rtls_landings": 2,
     "asds_attempts": 0,
     "asds_landings": 0,
-    "last_update": "Landed at LZ-1 as of Jun 25, 2019. ",
+    "last_update": "on SLC-40 as of Jan 27 2022",
     "launches": [
       "5eb87d2dffd86e000604b376",
       "5eb87d35ffd86e000604b37a"
     ],
     "serial": "B1052",
-    "status": "unknown",
+    "status": "active",
     "id": "5e9e28a6f359183c413b265d"
   },
   {
@@ -934,13 +934,13 @@
     "rtls_landings": 2,
     "asds_attempts": 0,
     "asds_landings": 0,
-    "last_update": "Landed at LZ-2 as of Jun 25, 2019. ",
+    "last_update": "Landed at LZ-2 as of Jun 25, 2019.",
     "launches": [
       "5eb87d2dffd86e000604b376",
       "5eb87d35ffd86e000604b37a"
     ],
     "serial": "B1053",
-    "status": "unknown",
+    "status": "active",
     "id": "5e9e28a6f359188fd53b265e"
   },
   {
@@ -1018,7 +1018,7 @@
     "rtls_landings": 1,
     "asds_attempts": 9,
     "asds_landings": 9,
-    "last_update": "Landed on LZ-1 as of Jan 13, 2022 ",
+    "last_update": "Landed on LZ-1 as of Jan 13, 2022",
     "launches": [
       "5eb87d46ffd86e000604b388",
       "5eb87d50ffd86e000604b394",
@@ -1032,7 +1032,7 @@
       "61bf3e31cd5ab50b0d936345"
     ],
     "serial": "B1058",
-    "status": "unknown",
+    "status": "active",
     "id": "5e9e28a7f3591817f23b2663"
   },
   {
@@ -1042,7 +1042,7 @@
     "rtls_landings": 1,
     "asds_attempts": 9,
     "asds_landings": 9,
-    "last_update": "Landed on ASOG as of Jan 19, 2022. ",
+    "last_update": "Landed on ASOG as of Jan 19, 2022.",
     "launches": [
       "5eb87d4affd86e000604b38b",
       "5ef6a1e90059c33cee4a828a",
@@ -1056,7 +1056,7 @@
       "61e048bbbe8d8b66799018d0"
     ],
     "serial": "B1060",
-    "status": "unknown",
+    "status": "active",
     "id": "5ef670f10059c33cee4a826c"
   },
   {
@@ -1066,7 +1066,7 @@
     "rtls_landings": 0,
     "asds_attempts": 5,
     "asds_landings": 5,
-    "last_update": "Landed on JRTI as of Dec 9, 2021. ",
+    "last_update": "Landed on JRTI as of Dec 9, 2021.",
     "launches": [
       "5eb87d4dffd86e000604b38e",
       "5fe3af58b3467846b324215f",
@@ -1075,7 +1075,7 @@
       "6161c88d6db1a92bfba85348"
     ],
     "serial": "B1061",
-    "status": "unknown",
+    "status": "active",
     "id": "5f57c53d0622a6330279009f"
   },
   {
@@ -1085,7 +1085,7 @@
     "rtls_landings": 0,
     "asds_attempts": 4,
     "asds_landings": 4,
-    "last_update": "landed on ASOG as of Jan 6, 2022. ",
+    "last_update": "landed on ASOG as of Jan 6, 2022.",
     "launches": [
       "5eb87d4cffd86e000604b38d",
       "5eb87d4effd86e000604b390",
@@ -1093,7 +1093,7 @@
       "61d5eca1f88e4c5fc91f1eb7"
     ],
     "serial": "B1062",
-    "status": "unknown",
+    "status": "active",
     "id": "5f57c5440622a633027900a0"
   },
   {
@@ -1103,14 +1103,14 @@
     "rtls_landings": 1,
     "asds_attempts": 2,
     "asds_landings": 2,
-    "last_update": "Landed on OCISLY* as of Nov 24, 2021 ",
+    "last_update": "Landed on OCISLY* as of Nov 24, 2021",
     "launches": [
       "5ed983aa1f30554030d45c31",
       "6079bd399a06446e8c61bf77",
       "5fe3b107b3467846b324216b"
     ],
     "serial": "B1063",
-    "status": "unknown",
+    "status": "active",
     "id": "5f57c54a0622a633027900a1"
   },
   {
@@ -1133,7 +1133,7 @@
     "rtls_landings": 0,
     "asds_attempts": 0,
     "asds_landings": 0,
-    "last_update": "unknown",
+    "last_update": null,
     "launches": [],
     "serial": "B1065",
     "status": "active",
@@ -1146,7 +1146,7 @@
     "rtls_landings": 0,
     "asds_attempts": 0,
     "asds_landings": 0,
-    "last_update": "unknown",
+    "last_update": null,
     "launches": [],
     "serial": "B1066",
     "status": "active",
@@ -1159,14 +1159,14 @@
     "rtls_landings": 0,
     "asds_attempts": 3,
     "asds_landings": 3,
-    "last_update": "Landed on ASOG* as of Dec 19, 2021 ",
+    "last_update": "Landed on ASOG* as of Dec 19, 2021",
     "launches": [
       "5fe3af84b3467846b3242161",
       "5fe3b15eb3467846b324216d",
       "5fe3afc1b3467846b3242164"
     ],
     "serial": "B1067",
-    "status": "unknown",
+    "status": "active",
     "id": "60b800111f83cc1e59f16438"
   },
   {
@@ -1176,12 +1176,12 @@
     "rtls_landings": 0,
     "asds_attempts": 1,
     "asds_landings": 1,
-    "last_update": "Landed on JRTI* as of Dec 21, 2021 ",
+    "last_update": "Landed on JRTI* as of Dec 21, 2021",
     "launches": [
       "6161d2006db1a92bfba85356"
     ],
     "serial": "B1069",
-    "status": "unknown",
+    "status": "active",
     "id": "61c1ef45a4a2462678cbf45d"
   },
   {
