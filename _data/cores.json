@@ -893,7 +893,7 @@
     "rtls_landings": 1,
     "asds_attempts": 10,
     "asds_landings": 10,
-    "last_update": "landed on OCISLY as of Dec 18, 2021.",
+    "last_update": "Landed on OCISLY as of Dec 18, 2021.",
     "launches": [
       "5eb87d2bffd86e000604b375",
       "5eb87d31ffd86e000604b379",
@@ -913,15 +913,16 @@
   },
   {
     "block": 5,
-    "reuse_count": 1,
-    "rtls_attempts": 2,
-    "rtls_landings": 2,
+    "reuse_count": 2,
+    "rtls_attempts": 3,
+    "rtls_landings": 3,
     "asds_attempts": 0,
     "asds_landings": 0,
-    "last_update": "on SLC-40 as of Jan 27 2022",
+    "last_update": "Landed on LZ-1 as of Feb 1 2022",
     "launches": [
       "5eb87d2dffd86e000604b376",
-      "5eb87d35ffd86e000604b37a"
+      "5eb87d35ffd86e000604b37a",
+      "6161d32d6db1a92bfba85359"
     ],
     "serial": "B1052",
     "status": "active",
