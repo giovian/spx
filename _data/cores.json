@@ -1197,5 +1197,33 @@
     "serial": "B1068",
     "status": "unknown",
     "id": "61c1ef4fa4a2462678cbf45e"
+  },
+  {
+    "block": 5,
+    "reuse_count": 0,
+    "rtls_attempts": 0,
+    "rtls_landings": 0,
+    "asds_attempts": 0,
+    "asds_landings": 0,
+    "last_update": null,
+    "launches": [],
+    "serial": "B1070",
+    "status": "active",
+    "id": "61fae58d7aa67176fe3e0e1d"
+  },
+  {
+    "block": 5,
+    "reuse_count": 0,
+    "rtls_attempts": 1,
+    "rtls_landings": 1,
+    "asds_attempts": 0,
+    "asds_landings": 0,
+    "last_update": "Landed on LZ-4 as of Feb 2, 2022",
+    "launches": [
+      "607a34e35a906a44023e085e"
+    ],
+    "serial": "B1071",
+    "status": "active",
+    "id": "61fae5947aa67176fe3e0e1e"
   }
 ]

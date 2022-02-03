@@ -11554,12 +11554,12 @@
     },
     "links": {
       "patch": {
-        "small": null,
-        "large": null
+        "small": "https://i.imgur.com/ISOB8Ny.png",
+        "large": "https://i.imgur.com/PxsC9UW.png"
       },
       "reddit": {
         "campaign": null,
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/si3o0y/rspacex_nrol87_launch_discussion_and_updates/",
         "media": null,
         "recovery": null
       },
@@ -11568,8 +11568,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/bVk8XyjhTKo",
+      "youtube_id": "bVk8XyjhTKo",
       "article": null,
       "wikipedia": null
     },
@@ -11578,7 +11578,7 @@
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "failures": [],
     "details": null,
     "crew": [],
@@ -11594,18 +11594,18 @@
     "date_unix": 1643833080,
     "date_local": "2022-02-02T12:18:00-08:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "core": "61fae5947aa67176fe3e0e1e",
+        "flight": 1,
+        "gridfins": true,
+        "legs": true,
+        "reused": false,
+        "landing_attempt": true,
+        "landing_success": true,
+        "landing_type": "RTLS",
+        "landpad": "5e9e3032383ecb554034e7c9"
       }
     ],
     "auto_update": true,
@@ -11678,7 +11678,7 @@
     ],
     "auto_update": true,
     "tbd": false,
-    "launch_library_id": "23229c2b-abb7-4b94-b624-981a9adc88d2",
+    "launch_library_id": "de39dd1a-0f72-4afd-a6b9-1b848b246071",
     "id": "61e048ffbe8d8b66799018d1"
   },
   {

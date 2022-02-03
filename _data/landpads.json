@@ -80,14 +80,15 @@
     "region": "California",
     "latitude": 34.632989,
     "longitude": -120.615167,
-    "landing_attempts": 3,
-    "landing_successes": 3,
+    "landing_attempts": 4,
+    "landing_successes": 4,
     "wikipedia": "https://en.wikipedia.org/wiki/Vandenberg_AFB_Space_Launch_Complex_4#LZ-4_landing_history",
     "details": "SpaceX's west coast landing pad. The pad is adjacent to SLC-4E, SpaceX's west coast launch site. The pad was under construction for about a year starting in 2016. After concerns with seal mating season, this pad was first used for the SAOCOM 1A mission in October 2018. Officially referred to as LZ-4 in FCC filings.",
     "launches": [
       "5eb87d23ffd86e000604b36e",
       "5eb87d31ffd86e000604b379",
-      "5ed983aa1f30554030d45c31"
+      "5ed983aa1f30554030d45c31",
+      "607a34e35a906a44023e085e"
     ],
     "id": "5e9e3032383ecb554034e7c9"
   },
