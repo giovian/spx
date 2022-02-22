@@ -11695,7 +11695,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/sx92uf/rspacex_starlink_48_launch_discussion_and_updates/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -11714,7 +11714,7 @@
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "failures": [],
     "details": null,
     "crew": [],
@@ -11730,18 +11730,18 @@
     "date_unix": 1645454640,
     "date_local": "2022-02-21T09:44:00-05:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
-        "core": null,
-        "flight": null,
+        "core": "5e9e28a7f3591817f23b2663",
+        "flight": 11,
         "gridfins": true,
         "legs": true,
         "reused": true,
         "landing_attempt": true,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "landing_success": true,
+        "landing_type": "ASDS",
+        "landpad": "5e9e3033383ecb075134e7cd"
       }
     ],
     "auto_update": true,
@@ -11814,7 +11814,7 @@
     ],
     "auto_update": true,
     "tbd": false,
-    "launch_library_id": null,
+    "launch_library_id": "398e713f-5daa-4fb9-a70a-0b8654baf5d1",
     "id": "61fc0203e0dc5662b76489a8"
   },
   {
@@ -11859,7 +11859,7 @@
     "payloads": [
       "61fc0379e0dc5662b76489b6"
     ],
-    "launchpad": "5e9e4501f509094ba4566f84",
+    "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 152,
     "name": "Starlink 4-9 (v1.5)",
     "date_utc": "2022-03-03T00:00:00.000Z",

@@ -1014,12 +1014,12 @@
   },
   {
     "block": 5,
-    "reuse_count": 9,
+    "reuse_count": 10,
     "rtls_attempts": 1,
     "rtls_landings": 1,
-    "asds_attempts": 9,
-    "asds_landings": 9,
-    "last_update": "Landed on LZ-1 as of Jan 13, 2022",
+    "asds_attempts": 10,
+    "asds_landings": 10,
+    "last_update": "Landed on ASOG as of Feb 21, 2022",
     "launches": [
       "5eb87d46ffd86e000604b388",
       "5eb87d50ffd86e000604b394",
@@ -1030,7 +1030,8 @@
       "60428ac4c041c16716f73cd8",
       "605b4b95aa5433645e37d041",
       "618faad2563d69573ed8ca9d",
-      "61bf3e31cd5ab50b0d936345"
+      "61bf3e31cd5ab50b0d936345",
+      "61fc01dae0dc5662b76489a7"
     ],
     "serial": "B1058",
     "status": "active",
