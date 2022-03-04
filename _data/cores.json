@@ -1039,12 +1039,12 @@
   },
   {
     "block": 5,
-    "reuse_count": 9,
+    "reuse_count": 10,
     "rtls_attempts": 1,
     "rtls_landings": 1,
-    "asds_attempts": 9,
-    "asds_landings": 9,
-    "last_update": "Landed on ASOG as of Jan 19, 2022.",
+    "asds_attempts": 10,
+    "asds_landings": 10,
+    "last_update": "Landed on JRTI as of Mar 3, 2022.",
     "launches": [
       "5eb87d4affd86e000604b38b",
       "5ef6a1e90059c33cee4a828a",
@@ -1055,7 +1055,8 @@
       "605b4b6aaa5433645e37d03f",
       "600f9b6d8f798e2a4d5f979f",
       "6161c94c6db1a92bfba85349",
-      "61e048bbbe8d8b66799018d0"
+      "61e048bbbe8d8b66799018d0",
+      "61fc0224e0dc5662b76489ab"
     ],
     "serial": "B1060",
     "status": "active",
