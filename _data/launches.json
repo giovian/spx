@@ -11899,7 +11899,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/t9la7r/rspacex_starlink_410_launch_discussion_and/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -11908,8 +11908,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/uqAppamdGyo",
+      "youtube_id": "uqAppamdGyo",
       "article": null,
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
@@ -11918,7 +11918,7 @@
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "failures": [],
     "details": null,
     "crew": [],
@@ -11934,18 +11934,18 @@
     "date_unix": 1646833500,
     "date_local": "2022-03-09T08:45:00-05:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
-        "core": null,
-        "flight": null,
+        "core": "5e9e28a6f359183c413b265d",
+        "flight": 4,
         "gridfins": true,
         "legs": true,
         "reused": true,
         "landing_attempt": true,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "landing_success": true,
+        "landing_type": "ASDS",
+        "landpad": "5e9e3033383ecb075134e7cd"
       }
     ],
     "auto_update": true,
@@ -12018,7 +12018,7 @@
     ],
     "auto_update": true,
     "tbd": false,
-    "launch_library_id": null,
+    "launch_library_id": "a3eeb03b-a209-4255-91b5-772dc0d2150e",
     "id": "61eefaa89eb1064137a1bd73"
   },
   {
