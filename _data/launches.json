@@ -12183,9 +12183,9 @@
     "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 156,
     "name": "Ax-1",
-    "date_utc": "2022-04-08T16:17:00.000Z",
-    "date_unix": 1649434620,
-    "date_local": "2022-04-08T12:17:00-04:00",
+    "date_utc": "2022-04-08T15:17:00.000Z",
+    "date_unix": 1649431020,
+    "date_local": "2022-04-08T11:17:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
