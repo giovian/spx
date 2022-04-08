@@ -11211,7 +11211,7 @@
       "presskit": null,
       "webcast": "https://youtu.be/gEv6HLHYhWo",
       "youtube_id": "gEv6HLHYhWo",
-      "article": null,
+      "article": "https://spaceflightnow.com/2021/12/21/spacex-cargo-flight-sets-record-for-most-orbital-launches-from-space-coast-in-a-year/",
       "wikipedia": null
     },
     "static_fire_date_utc": null,
@@ -11290,7 +11290,7 @@
       "presskit": null,
       "webcast": "https://youtu.be/4_ePBpwMhns",
       "youtube_id": "4_ePBpwMhns",
-      "article": null,
+      "article": "https://spaceflightnow.com/2022/01/06/spacex-deploys-49-more-starlink-satellites-in-first-launch-of-2022/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
@@ -11368,7 +11368,7 @@
       "presskit": null,
       "webcast": "https://youtu.be/mFBeuSAvhUQ",
       "youtube_id": "mFBeuSAvhUQ",
-      "article": null,
+      "article": "https://spaceflightnow.com/2022/01/13/spacex-launches-105-customer-satellites-on-third-transporter-rideshare-mission/",
       "wikipedia": null
     },
     "static_fire_date_utc": null,
@@ -11443,7 +11443,7 @@
       "presskit": null,
       "webcast": "https://youtu.be/Yov854ZT1lg",
       "youtube_id": "Yov854ZT1lg",
-      "article": null,
+      "article": "https://spaceflightnow.com/2022/01/19/spacex-launches-2000th-starlink-satellite/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
@@ -11523,7 +11523,7 @@
       "presskit": null,
       "webcast": "https://youtu.be/AbFoi68L-GQ",
       "youtube_id": "AbFoi68L-GQ",
-      "article": null,
+      "article": "https://spaceflightnow.com/2022/02/01/italian-radar-satellite-rides-spacex-rocket-into-polar-orbit/",
       "wikipedia": null
     },
     "static_fire_date_utc": "2022-01-23T21:22:00.000Z",
@@ -11601,7 +11601,7 @@
       "presskit": null,
       "webcast": "https://youtu.be/bVk8XyjhTKo",
       "youtube_id": "bVk8XyjhTKo",
-      "article": null,
+      "article": "https://spaceflightnow.com/2022/02/02/spacex-launches-classified-nro-satellite-from-vandenberg-space-force-base/",
       "wikipedia": null
     },
     "static_fire_date_utc": null,
@@ -11673,7 +11673,7 @@
       "presskit": null,
       "webcast": "https://youtu.be/UY3fZ6PwuUY",
       "youtube_id": "UY3fZ6PwuUY",
-      "article": null,
+      "article": "https://spaceflightnow.com/2022/02/03/spacex-launches-third-falcon-9-rocket-mission-in-three-days/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
@@ -11745,7 +11745,7 @@
       "presskit": null,
       "webcast": "https://youtu.be/eiKOMCRymsw",
       "youtube_id": "eiKOMCRymsw",
-      "article": null,
+      "article": "https://spaceflightnow.com/2022/02/21/spacex-adds-46-more-satellites-to-starlink-fleet/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
@@ -11817,7 +11817,7 @@
       "presskit": null,
       "webcast": "https://youtu.be/nnVOfKOzXHE",
       "youtube_id": "nnVOfKOzXHE",
-      "article": null,
+      "article": "https://spaceflightnow.com/2022/02/25/spacex-deploys-another-batch-of-starlink-satellites/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
@@ -11889,7 +11889,7 @@
       "presskit": null,
       "webcast": "https://youtu.be/ypb2sDdUkRo",
       "youtube_id": "ypb2sDdUkRo",
-      "article": null,
+      "article": "https://spaceflightnow.com/2022/03/03/after-another-starlink-mission-spacex-on-pace-for-one-launch-per-week-this-year/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
@@ -11961,7 +11961,7 @@
       "presskit": null,
       "webcast": "https://youtu.be/uqAppamdGyo",
       "youtube_id": "uqAppamdGyo",
-      "article": null,
+      "article": "https://spaceflightnow.com/2022/03/09/spacex-broomstick-launches-40th-starlink-mission/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
@@ -12032,7 +12032,7 @@
       "presskit": null,
       "webcast": "https://youtu.be/0giA6VZOICs",
       "youtube_id": "0giA6VZOICs",
-      "article": null,
+      "article": "https://spaceflightnow.com/2022/03/19/spacex-stretches-rocket-reuse-record-with-another-starlink-launch/",
       "wikipedia": "https://en.wikipedia.org/wiki/Starlink"
     },
     "static_fire_date_utc": null,
@@ -12090,12 +12090,15 @@
       },
       "flickr": {
         "small": [],
-        "original": []
+        "original": [
+          "https://live.staticflickr.com/65535/51981688502_0584ac5658_o.jpg",
+          "https://live.staticflickr.com/65535/51982975529_3e1610767a_o.jpg"
+        ]
       },
       "presskit": null,
       "webcast": "https://youtu.be/4NqSoHnkKEM",
       "youtube_id": "4NqSoHnkKEM",
-      "article": null,
+      "article": "https://spaceflightnow.com/2022/04/01/forty-payloads-ride-into-orbit-on-spacex-falcon-9-rocket/",
       "wikipedia": null
     },
     "static_fire_date_utc": null,
@@ -12142,8 +12145,8 @@
     "fairings": null,
     "links": {
       "patch": {
-        "small": "https://i.imgur.com/h4x6VFd.png",
-        "large": "https://i.imgur.com/RR8JLzm.png"
+        "small": "https://i.imgur.com/lOSw7Q1.png",
+        "large": "https://i.imgur.com/QV9W8OJ.png"
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/t3ez79/axiom1_launch_campaign_thread/",
@@ -12200,7 +12203,7 @@
         "landing_attempt": true,
         "landing_success": null,
         "landing_type": "ASDS",
-        "landpad": null
+        "landpad": "5e9e3033383ecb075134e7cd"
       }
     ],
     "auto_update": true,
