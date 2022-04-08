@@ -12146,8 +12146,8 @@
         "large": "https://i.imgur.com/RR8JLzm.png"
       },
       "reddit": {
-        "campaign": null,
-        "launch": null,
+        "campaign": "https://www.reddit.com/r/spacex/comments/t3ez79/axiom1_launch_campaign_thread/",
+        "launch": "https://www.reddit.com/r/spacex/comments/tyd866/rspacex_axiom1_launch_discussion_and_updates/",
         "media": null,
         "recovery": null
       },
@@ -12156,13 +12156,13 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/5nLk_Vqp7nw",
+      "youtube_id": "5nLk_Vqp7nw",
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/Axiom_Mission_1"
     },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
+    "static_fire_date_utc": "2022-04-06T19:13:00.000Z",
+    "static_fire_date_unix": 1649272380,
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
@@ -12175,7 +12175,9 @@
       "61eefd5b9eb1064137a1bd7a",
       "61eefdbf9eb1064137a1bd7b"
     ],
-    "ships": [],
+    "ships": [
+      "5ea6ed2e080df4000697c909"
+    ],
     "capsules": [],
     "payloads": [
       "61eefb129eb1064137a1bd74"
@@ -12197,7 +12199,7 @@
         "reused": true,
         "landing_attempt": true,
         "landing_success": null,
-        "landing_type": null,
+        "landing_type": "ASDS",
         "landpad": null
       }
     ],
