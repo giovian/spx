@@ -237,13 +237,14 @@
     "id": "5e9e2c5df359185f973b2675"
   },
   {
-    "reuse_count": 1,
+    "reuse_count": 2,
     "water_landings": 2,
     "land_landings": 0,
     "last_update": "Docked to pressurized mating adapter PMA-3 on the Harmony module of the ISS on 2021 July 21",
     "launches": [
       "5eb87d46ffd86e000604b388",
-      "5fe3af58b3467846b324215f"
+      "5fe3af58b3467846b324215f",
+      "61eefaa89eb1064137a1bd73"
     ],
     "serial": "C206",
     "status": "active",
