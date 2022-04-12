@@ -12823,15 +12823,15 @@
     "ships": [],
     "capsules": [],
     "payloads": [
-      "6243b788af52800c6e91926b"
+      "6243b93caf52800c6e91926f"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 171,
-    "name": "O3b mPower 4-6",
-    "date_utc": "2022-04-01T00:00:00.000Z",
-    "date_unix": 1648771200,
-    "date_local": "2022-03-31T20:00:00-04:00",
-    "date_precision": "quarter",
+    "flight_number": 170,
+    "name": "SES-22",
+    "date_utc": "2022-06-01T00:00:00.000Z",
+    "date_unix": 1654041600,
+    "date_local": "2022-05-31T20:00:00-04:00",
+    "date_precision": "month",
     "upcoming": true,
     "cores": [
       {
@@ -12849,7 +12849,7 @@
     "auto_update": true,
     "tbd": false,
     "launch_library_id": null,
-    "id": "6243ae7daf52800c6e91925b"
+    "id": "6243aea5af52800c6e91925c"
   },
   {
     "fairings": null,
@@ -12886,11 +12886,11 @@
     "ships": [],
     "capsules": [],
     "payloads": [
-      "6243b93caf52800c6e91926f"
+      "6243b788af52800c6e91926b"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 171,
-    "name": "SES-22",
+    "name": "O3b mPower 4-6",
     "date_utc": "2022-04-01T00:00:00.000Z",
     "date_unix": 1648771200,
     "date_local": "2022-03-31T20:00:00-04:00",
@@ -12912,7 +12912,7 @@
     "auto_update": true,
     "tbd": false,
     "launch_library_id": null,
-    "id": "6243aea5af52800c6e91925c"
+    "id": "6243ae7daf52800c6e91925b"
   },
   {
     "fairings": null,
