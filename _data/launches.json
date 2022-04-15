@@ -12263,9 +12263,9 @@
     "launchpad": "5e9e4502f509092b78566f87",
     "flight_number": 157,
     "name": "NROL-85",
-    "date_utc": "2022-04-15T13:41:00.000Z",
-    "date_unix": 1650030060,
-    "date_local": "2022-04-15T06:41:00-07:00",
+    "date_utc": "2022-04-16T13:27:00.000Z",
+    "date_unix": 1650115620,
+    "date_local": "2022-04-16T06:27:00-07:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
