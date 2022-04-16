@@ -12263,9 +12263,9 @@
     "launchpad": "5e9e4502f509092b78566f87",
     "flight_number": 157,
     "name": "NROL-85",
-    "date_utc": "2022-04-16T13:27:00.000Z",
-    "date_unix": 1650115620,
-    "date_local": "2022-04-16T06:27:00-07:00",
+    "date_utc": "2022-04-17T13:13:00.000Z",
+    "date_unix": 1650201180,
+    "date_local": "2022-04-17T06:13:00-07:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -12538,7 +12538,7 @@
     "date_utc": "2022-05-01T00:00:00.000Z",
     "date_unix": 1651363200,
     "date_local": "2022-04-30T20:00:00-04:00",
-    "date_precision": "day",
+    "date_precision": "month",
     "upcoming": true,
     "cores": [
       {
@@ -12603,10 +12603,10 @@
     "launchpad": "5e9e4502f509092b78566f87",
     "flight_number": 162,
     "name": "Starlink 4-13 (v1.5)",
-    "date_utc": "2022-05-02T00:00:00.000Z",
-    "date_unix": 1651449600,
-    "date_local": "2022-05-01T17:00:00-07:00",
-    "date_precision": "day",
+    "date_utc": "2022-05-01T00:00:00.000Z",
+    "date_unix": 1651363200,
+    "date_local": "2022-04-30T17:00:00-07:00",
+    "date_precision": "month",
     "upcoming": true,
     "cores": [
       {
