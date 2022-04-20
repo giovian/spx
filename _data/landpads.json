@@ -80,15 +80,16 @@
     "region": "California",
     "latitude": 34.632989,
     "longitude": -120.615167,
-    "landing_attempts": 4,
-    "landing_successes": 4,
+    "landing_attempts": 5,
+    "landing_successes": 5,
     "wikipedia": "https://en.wikipedia.org/wiki/Vandenberg_AFB_Space_Launch_Complex_4#LZ-4_landing_history",
     "details": "SpaceX's west coast landing pad. The pad is adjacent to SLC-4E, SpaceX's west coast launch site. The pad was under construction for about a year starting in 2016. After concerns with seal mating season, this pad was first used for the SAOCOM 1A mission in October 2018. Officially referred to as LZ-4 in FCC filings.",
     "launches": [
       "5eb87d23ffd86e000604b36e",
       "5eb87d31ffd86e000604b379",
       "5ed983aa1f30554030d45c31",
-      "607a34e35a906a44023e085e"
+      "607a34e35a906a44023e085e",
+      "6243adcaaf52800c6e919254"
     ],
     "id": "5e9e3032383ecb554034e7c9"
   },
@@ -211,8 +212,8 @@
     "region": "Florida",
     "latitude": 28.4104,
     "longitude": -80.6188,
-    "landing_attempts": 29,
-    "landing_successes": 28,
+    "landing_attempts": 28,
+    "landing_successes": 27,
     "wikipedia": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship",
     "details": "The third ASDS barge, using the Marmac 303 hull, was built during 2015 in a Louisiana shipyard, and the barge transited the Panama Canal in June 2015 carrying its wing extensions as cargo on the deck because the ASDS, when complete, would be too wide to pass through the canal. The home port for the Marmac 303 is the Port of Los Angeles, at the AltaSea marine research and business campus in San Pedro's outer harbor. The landing platform and tender vessels began docking there in July 2015 in advance of the main construction of AltaSea which is scheduled for 2017. SpaceX announced that the Marmac 303 would be the second ASDS to be named Just Read the Instructions (JRtI) in January 2016, shortly before its first use as a landing platform for Falcon 9 Flight 21. On 17 January 2016, JRtI was put to first use in an attempt to recover a Falcon 9 first-stage booster from the Jason-3 mission from Vandenberg. The booster successfully landed on the deck; however, a lockout collet failed to engage on one of the legs causing the rocket to tip over, exploding on impact with the deck. On January 14, 2017, SpaceX launched Falcon 9 Flight 29 from Vandenberg and landed the first stage on the JRtI that was located about 370 km (230 mi) downrange in the Pacific Ocean, making it the first successful landing in the Pacific.",
     "launches": [
@@ -243,8 +244,7 @@
       "6161d2006db1a92bfba85356",
       "61fc0224e0dc5662b76489ab",
       "6234908cf051102e1fcedac4",
-      "6243ad8baf52800c6e919252",
-      "6243adcaaf52800c6e919254"
+      "6243ad8baf52800c6e919252"
     ],
     "id": "5e9e3033383ecbb9e534e7cc"
   },

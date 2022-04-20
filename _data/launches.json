@@ -12277,8 +12277,8 @@
         "reused": true,
         "landing_attempt": true,
         "landing_success": true,
-        "landing_type": "ASDS",
-        "landpad": "5e9e3033383ecbb9e534e7cc"
+        "landing_type": "RTLS",
+        "landpad": "5e9e3032383ecb554034e7c9"
       }
     ],
     "auto_update": true,
