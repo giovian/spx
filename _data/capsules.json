@@ -304,5 +304,27 @@
     "status": "active",
     "type": "Dragon 2.0",
     "id": "617c05591bad2c661a6e2909"
+  },
+  {
+    "reuse_count": 0,
+    "water_landings": 0,
+    "land_landings": 0,
+    "last_update": null,
+    "launches": [],
+    "serial": "C211",
+    "status": "active",
+    "type": "Dragon 2.0",
+    "id": "62615d120ec008379be596f0"
+  },
+  {
+    "reuse_count": 0,
+    "water_landings": 0,
+    "land_landings": 0,
+    "last_update": null,
+    "launches": [],
+    "serial": "C212",
+    "status": "active",
+    "type": "Dragon 2.0",
+    "id": "62615d180ec008379be596f1"
   }
 ]
