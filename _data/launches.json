@@ -12553,7 +12553,7 @@
     "payloads": [
       "625829cf5988f159024b9648"
     ],
-    "launchpad": "5e9e4502f509094188566f88",
+    "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 161,
     "name": "Starlink 4-15 (v1.5)",
     "date_utc": "2022-05-08T00:00:00.000Z",
@@ -12621,7 +12621,7 @@
     "payloads": [
       "62582aad5988f159024b964e"
     ],
-    "launchpad": "5e9e4501f509094ba4566f84",
+    "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 162,
     "name": "Starlink 4-17 (v1.5)",
     "date_utc": "2022-05-08T00:00:00.000Z",
