@@ -12389,10 +12389,10 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/orN0PaqQECs",
+      "youtube_id": "orN0PaqQECs",
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/SpaceX_Crew-4"
     },
     "static_fire_date_utc": "2022-04-20T14:12:00.000Z",
     "static_fire_date_unix": 1650463920,
