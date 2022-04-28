@@ -246,7 +246,9 @@
     "agency": "NASA",
     "image": "https://i.imgur.com/U7o2UX1.png",
     "wikipedia": "https://en.wikipedia.org/wiki/Kjell_N._Lindgren",
-    "launches": [],
+    "launches": [
+      "6243ade2af52800c6e919255"
+    ],
     "status": "active",
     "id": "6243bc5baf52800c6e919276"
   },
@@ -255,7 +257,9 @@
     "agency": "NASA",
     "image": "https://i.imgur.com/1Ca8K9L.png",
     "wikipedia": "https://en.wikipedia.org/wiki/Robert_Hines_(astronaut)",
-    "launches": [],
+    "launches": [
+      "6243ade2af52800c6e919255"
+    ],
     "status": "active",
     "id": "6243bcdcaf52800c6e919277"
   },
@@ -264,7 +268,9 @@
     "agency": "ESA",
     "image": "https://i.imgur.com/xtoVDZo.png",
     "wikipedia": "https://en.wikipedia.org/wiki/Samantha_Cristoforetti",
-    "launches": [],
+    "launches": [
+      "6243ade2af52800c6e919255"
+    ],
     "status": "active",
     "id": "6243bd7baf52800c6e919278"
   },
@@ -273,7 +279,9 @@
     "agency": "NASA",
     "image": "https://i.imgur.com/bNH8BSo.png",
     "wikipedia": "https://en.wikipedia.org/wiki/Jessica_Watkins",
-    "launches": [],
+    "launches": [
+      "6243ade2af52800c6e919255"
+    ],
     "status": "active",
     "id": "6243bdf8af52800c6e919279"
   }
