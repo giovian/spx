@@ -12556,9 +12556,9 @@
     "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 161,
     "name": "Starlink 4-17 (v1.5)",
-    "date_utc": "2022-05-06T09:51:00.000Z",
-    "date_unix": 1651830660,
-    "date_local": "2022-05-06T05:51:00-04:00",
+    "date_utc": "2022-05-06T09:47:00.000Z",
+    "date_unix": 1651830420,
+    "date_local": "2022-05-06T05:47:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
