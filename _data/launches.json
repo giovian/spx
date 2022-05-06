@@ -12534,8 +12534,76 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/KzpVUXxdc68",
+      "youtube_id": "KzpVUXxdc68",
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "failures": [],
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "625829d75988f159024b9649"
+    ],
+    "launchpad": "5e9e4502f509092b78566f87",
+    "flight_number": 161,
+    "name": "Starlink 4-13 (v1.5)",
+    "date_utc": "2022-05-10T18:50:00.000Z",
+    "date_unix": 1652208600,
+    "date_local": "2022-05-10T11:50:00-07:00",
+    "date_precision": "hour",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "auto_update": true,
+    "tbd": false,
+    "launch_library_id": "0bc91464-1d61-4545-95c8-01040dc5eec9",
+    "id": "6258290d5988f159024b9644"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": "https://imgur.com/BrW201S.png",
+        "large": "https://imgur.com/573IfGk.png"
+      },
+      "reddit": {
+        "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
+        "launch": "https://www.reddit.com/r/spacex/comments/uj5ina/rspacex_starlink_417_launch_discussion_and/",
+        "media": null,
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": "https://youtu.be/KzpVUXxdc68",
+      "youtube_id": "KzpVUXxdc68",
       "article": null,
       "wikipedia": null
     },
@@ -12556,22 +12624,22 @@
     "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 161,
     "name": "Starlink 4-17 (v1.5)",
-    "date_utc": "2022-05-06T09:47:00.000Z",
-    "date_unix": 1651830420,
-    "date_local": "2022-05-06T05:47:00-04:00",
+    "date_utc": "2022-05-06T09:42:00.000Z",
+    "date_unix": 1651830120,
+    "date_local": "2022-05-06T05:42:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
+        "core": "5e9e28a7f3591817f23b2663",
+        "flight": 13,
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
         "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "landing_type": "ASDS",
+        "landpad": "5e9e3033383ecbb9e534e7cc"
       }
     ],
     "auto_update": true,
@@ -12619,14 +12687,14 @@
     "ships": [],
     "capsules": [],
     "payloads": [
-      "625829d75988f159024b9649"
+      "625829cf5988f159024b9648"
     ],
-    "launchpad": "5e9e4502f509092b78566f87",
+    "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 162,
-    "name": "Starlink 4-13 (v1.5)",
-    "date_utc": "2022-05-10T18:50:00.000Z",
-    "date_unix": 1652208600,
-    "date_local": "2022-05-10T11:50:00-07:00",
+    "name": "Starlink 4-15 (v1.5)",
+    "date_utc": "2022-05-17T00:10:00.000Z",
+    "date_unix": 1652746200,
+    "date_local": "2022-05-16T20:10:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -12645,7 +12713,7 @@
     "auto_update": true,
     "tbd": false,
     "launch_library_id": null,
-    "id": "6258290d5988f159024b9644"
+    "id": "625828f25988f159024b9643"
   },
   {
     "fairings": {
@@ -12687,15 +12755,15 @@
     "ships": [],
     "capsules": [],
     "payloads": [
-      "625829cf5988f159024b9648"
+      "62615ee40ec008379be596fd"
     ],
-    "launchpad": "5e9e4501f509094ba4566f84",
+    "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 163,
-    "name": "Starlink 4-15 (v1.5)",
-    "date_utc": "2022-05-17T00:10:00.000Z",
-    "date_unix": 1652746200,
-    "date_local": "2022-05-16T20:10:00-04:00",
-    "date_precision": "hour",
+    "name": "Starlink 4-18 (v1.5)",
+    "date_utc": "2022-05-21T00:00:00.000Z",
+    "date_unix": 1653091200,
+    "date_local": "2022-05-20T20:00:00-04:00",
+    "date_precision": "day",
     "upcoming": true,
     "cores": [
       {
@@ -12713,7 +12781,7 @@
     "auto_update": true,
     "tbd": false,
     "launch_library_id": null,
-    "id": "625828f25988f159024b9643"
+    "id": "62615ebc0ec008379be596fa"
   },
   {
     "fairings": {
@@ -12782,74 +12850,6 @@
     "id": "6243ae24af52800c6e919258"
   },
   {
-    "fairings": {
-      "reused": null,
-      "recovery_attempt": null,
-      "recovered": null,
-      "ships": []
-    },
-    "links": {
-      "patch": {
-        "small": "https://imgur.com/BrW201S.png",
-        "large": "https://imgur.com/573IfGk.png"
-      },
-      "reddit": {
-        "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
-        "media": null,
-        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
-      },
-      "flickr": {
-        "small": [],
-        "original": []
-      },
-      "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
-      "article": null,
-      "wikipedia": null
-    },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
-    "net": false,
-    "window": null,
-    "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
-    "failures": [],
-    "details": null,
-    "crew": [],
-    "ships": [],
-    "capsules": [],
-    "payloads": [
-      "62615ee40ec008379be596fd"
-    ],
-    "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 165,
-    "name": "Starlink 4-18 (v1.5)",
-    "date_utc": "2022-05-01T00:00:00.000Z",
-    "date_unix": 1651363200,
-    "date_local": "2022-04-30T20:00:00-04:00",
-    "date_precision": "month",
-    "upcoming": true,
-    "cores": [
-      {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
-      }
-    ],
-    "auto_update": true,
-    "tbd": false,
-    "launch_library_id": null,
-    "id": "62615ebc0ec008379be596fa"
-  },
-  {
     "fairings": null,
     "links": {
       "patch": {
@@ -12887,7 +12887,7 @@
       "6243b835af52800c6e91926d"
     ],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 166,
+    "flight_number": 165,
     "name": "CRS-25",
     "date_utc": "2022-06-07T15:25:00.000Z",
     "date_unix": 1654615500,
@@ -12996,6 +12996,74 @@
         "campaign": null,
         "launch": null,
         "media": null,
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "failures": [],
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "5fe3b2abb3467846b3242172"
+    ],
+    "launchpad": "5e9e4502f509092b78566f87",
+    "flight_number": 168,
+    "name": "SARah 1",
+    "date_utc": "2022-06-01T00:00:00.000Z",
+    "date_unix": 1654041600,
+    "date_local": "2022-05-31T17:00:00-07:00",
+    "date_precision": "month",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "auto_update": true,
+    "tbd": false,
+    "launch_library_id": null,
+    "id": "5fe3af43b3467846b324215e"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": null,
+        "large": null
+      },
+      "reddit": {
+        "campaign": null,
+        "launch": null,
+        "media": null,
         "recovery": null
       },
       "flickr": {
@@ -13064,7 +13132,7 @@
         "campaign": null,
         "launch": null,
         "media": null,
-        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
+        "recovery": null
       },
       "flickr": {
         "small": [],
@@ -13088,14 +13156,14 @@
     "ships": [],
     "capsules": [],
     "payloads": [
-      "5fe3b2abb3467846b3242172"
+      "6243b896af52800c6e91926e"
     ],
-    "launchpad": "5e9e4502f509092b78566f87",
+    "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 169,
-    "name": "SARah 1",
+    "name": "WorldView Legion 1 & 2",
     "date_utc": "2022-06-01T00:00:00.000Z",
     "date_unix": 1654041600,
-    "date_local": "2022-05-31T17:00:00-07:00",
+    "date_local": "2022-05-31T20:00:00-04:00",
     "date_precision": "month",
     "upcoming": true,
     "cores": [
@@ -13114,7 +13182,7 @@
     "auto_update": true,
     "tbd": false,
     "launch_library_id": null,
-    "id": "5fe3af43b3467846b324215e"
+    "id": "6243ae58af52800c6e91925a"
   },
   {
     "fairings": {
@@ -13156,11 +13224,11 @@
     "ships": [],
     "capsules": [],
     "payloads": [
-      "6243b896af52800c6e91926e"
+      "5fe3b86eb3467846b324217c"
     ],
-    "launchpad": "5e9e4501f509094ba4566f84",
+    "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 170,
-    "name": "WorldView Legion 1 & 2",
+    "name": "USSF-44",
     "date_utc": "2022-06-01T00:00:00.000Z",
     "date_unix": 1654041600,
     "date_local": "2022-05-31T20:00:00-04:00",
@@ -13168,11 +13236,33 @@
     "upcoming": true,
     "cores": [
       {
-        "core": null,
+        "core": "5fe3b8f2b3467846b3242181",
         "flight": null,
         "gridfins": null,
         "legs": null,
-        "reused": null,
+        "reused": true,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      },
+      {
+        "core": "5fe3b8fbb3467846b3242182",
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": true,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      },
+      {
+        "core": "5fe3b906b3467846b3242183",
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": true,
         "landing_attempt": null,
         "landing_success": null,
         "landing_type": null,
@@ -13182,7 +13272,7 @@
     "auto_update": true,
     "tbd": false,
     "launch_library_id": null,
-    "id": "6243ae58af52800c6e91925a"
+    "id": "6243aec2af52800c6e91925d"
   },
   {
     "fairings": {
@@ -13251,96 +13341,6 @@
     "tbd": false,
     "launch_library_id": null,
     "id": "6243aea5af52800c6e91925c"
-  },
-  {
-    "fairings": {
-      "reused": null,
-      "recovery_attempt": null,
-      "recovered": null,
-      "ships": []
-    },
-    "links": {
-      "patch": {
-        "small": null,
-        "large": null
-      },
-      "reddit": {
-        "campaign": null,
-        "launch": null,
-        "media": null,
-        "recovery": null
-      },
-      "flickr": {
-        "small": [],
-        "original": []
-      },
-      "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
-      "article": null,
-      "wikipedia": null
-    },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
-    "net": false,
-    "window": null,
-    "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
-    "failures": [],
-    "details": null,
-    "crew": [],
-    "ships": [],
-    "capsules": [],
-    "payloads": [
-      "5fe3b86eb3467846b324217c"
-    ],
-    "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 171,
-    "name": "USSF-44",
-    "date_utc": "2022-06-01T00:00:00.000Z",
-    "date_unix": 1654041600,
-    "date_local": "2022-05-31T20:00:00-04:00",
-    "date_precision": "month",
-    "upcoming": true,
-    "cores": [
-      {
-        "core": "5fe3b8f2b3467846b3242181",
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": true,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
-      },
-      {
-        "core": "5fe3b8fbb3467846b3242182",
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": true,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
-      },
-      {
-        "core": "5fe3b906b3467846b3242183",
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": true,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
-      }
-    ],
-    "auto_update": true,
-    "tbd": false,
-    "launch_library_id": null,
-    "id": "6243aec2af52800c6e91925d"
   },
   {
     "fairings": {
