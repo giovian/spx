@@ -240,8 +240,8 @@
     "region": "Florida",
     "latitude": 28.6080585,
     "longitude": -80.6039558,
-    "launch_attempts": 47,
-    "launch_successes": 47,
+    "launch_attempts": 48,
+    "launch_successes": 48,
     "rockets": [
       "5e9d0d95eda69973a809d1ec",
       "5e9d0d95eda69974db09d1ed"
@@ -294,7 +294,8 @@
       "61e048ffbe8d8b66799018d1",
       "61fc0224e0dc5662b76489ab",
       "61eefaa89eb1064137a1bd73",
-      "6243ade2af52800c6e919255"
+      "6243ade2af52800c6e919255",
+      "62582a855988f159024b964c"
     ],
     "status": "active",
     "details": "NASA's historic pad that launched most of the Saturn V and Space Shuttle missions, including Apollo 11. SpaceX initially leased solely for Falcon Heavy and Crew Dragon launches, but the company has also used it for others as well following the damage to SLC-40 in the AMOS-6 explosion. After completing the necessary modifications, the first launch SpaceX performed on the pad was CRS-10 in February 2017. After SLC-40 was back online, 39A was upgraded to support Falcon Heavy and complete the removal of the shuttle-era Rotating Service Structure. More recently, a crew access arm and other safety equipment has been installed in order to launch commercial crew missions. 39A also occasionally launches other Falcon 9 missions between Falcon Heavy and Crew Dragon launches, depending on pad scheduling. The pad may also potentially be upgraded in the future for use with the BFR.",

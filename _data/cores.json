@@ -1016,12 +1016,12 @@
   },
   {
     "block": 5,
-    "reuse_count": 11,
+    "reuse_count": 12,
     "rtls_attempts": 1,
     "rtls_landings": 1,
-    "asds_attempts": 11,
-    "asds_landings": 11,
-    "last_update": "Landed on ASOG as of Feb 21, 2022",
+    "asds_attempts": 12,
+    "asds_landings": 12,
+    "last_update": "Landed on ASOG as of May 6, 2022",
     "launches": [
       "5eb87d46ffd86e000604b388",
       "5eb87d50ffd86e000604b394",
@@ -1034,7 +1034,8 @@
       "618faad2563d69573ed8ca9d",
       "61bf3e31cd5ab50b0d936345",
       "61fc01dae0dc5662b76489a7",
-      "6243ada6af52800c6e919253"
+      "6243ada6af52800c6e919253",
+      "62582a855988f159024b964c"
     ],
     "serial": "B1058",
     "status": "active",
@@ -1170,7 +1171,7 @@
     "rtls_landings": 0,
     "asds_attempts": 4,
     "asds_landings": 4,
-    "last_update": "Landed on ASOG* as of Apr 27, 2022",
+    "last_update": "Landed on ASOG as of Apr 27, 2022",
     "launches": [
       "5fe3af84b3467846b3242161",
       "5fe3b15eb3467846b324216d",
@@ -1188,7 +1189,7 @@
     "rtls_landings": 0,
     "asds_attempts": 1,
     "asds_landings": 1,
-    "last_update": "Landed on JRTI* as of Dec 21, 2021",
+    "last_update": "Landed on JRTI as of Dec 21, 2021",
     "launches": [
       "6161d2006db1a92bfba85356"
     ],
@@ -1229,7 +1230,7 @@
     "rtls_landings": 2,
     "asds_attempts": 0,
     "asds_landings": 0,
-    "last_update": "Landed on LZ-4 as of Apr 17, 2022",
+    "last_update": "Landed at LZ-4 as of Apr 17, 2022",
     "launches": [
       "607a34e35a906a44023e085e",
       "6243adcaaf52800c6e919254"
