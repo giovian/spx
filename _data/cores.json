@@ -1016,11 +1016,11 @@
   },
   {
     "block": 5,
-    "reuse_count": 12,
+    "reuse_count": 11,
     "rtls_attempts": 1,
     "rtls_landings": 1,
-    "asds_attempts": 12,
-    "asds_landings": 12,
+    "asds_attempts": 11,
+    "asds_landings": 11,
     "last_update": "Landed on ASOG as of May 6, 2022",
     "launches": [
       "5eb87d46ffd86e000604b388",
@@ -1034,7 +1034,6 @@
       "618faad2563d69573ed8ca9d",
       "61bf3e31cd5ab50b0d936345",
       "61fc01dae0dc5662b76489a7",
-      "6243ada6af52800c6e919253",
       "62582a855988f159024b964c"
     ],
     "serial": "B1058",
@@ -1043,11 +1042,11 @@
   },
   {
     "block": 5,
-    "reuse_count": 10,
+    "reuse_count": 11,
     "rtls_attempts": 1,
     "rtls_landings": 1,
-    "asds_attempts": 10,
-    "asds_landings": 10,
+    "asds_attempts": 11,
+    "asds_landings": 11,
     "last_update": "Landed on JRTI as of Apr 21, 2022.",
     "launches": [
       "5eb87d4affd86e000604b38b",
@@ -1060,7 +1059,8 @@
       "600f9b6d8f798e2a4d5f979f",
       "6161c94c6db1a92bfba85349",
       "61e048bbbe8d8b66799018d0",
-      "61fc0224e0dc5662b76489ab"
+      "61fc0224e0dc5662b76489ab",
+      "6243ada6af52800c6e919253"
     ],
     "serial": "B1060",
     "status": "active",
@@ -1207,7 +1207,7 @@
     "last_update": null,
     "launches": [],
     "serial": "B1068",
-    "status": "unknown",
+    "status": "active",
     "id": "61c1ef4fa4a2462678cbf45e"
   },
   {
@@ -1238,5 +1238,57 @@
     "serial": "B1071",
     "status": "active",
     "id": "61fae5947aa67176fe3e0e1e"
+  },
+  {
+    "block": 5,
+    "reuse_count": 0,
+    "rtls_attempts": 0,
+    "rtls_landings": 0,
+    "asds_attempts": 0,
+    "asds_landings": 0,
+    "last_update": null,
+    "launches": [],
+    "serial": "B1072",
+    "status": "active",
+    "id": "627843d657b51b752c5c5a53"
+  },
+  {
+    "block": 5,
+    "reuse_count": 0,
+    "rtls_attempts": 0,
+    "rtls_landings": 0,
+    "asds_attempts": 0,
+    "asds_landings": 0,
+    "last_update": null,
+    "launches": [],
+    "serial": "B1073",
+    "status": "active",
+    "id": "627843db57b51b752c5c5a54"
+  },
+  {
+    "block": 5,
+    "reuse_count": 0,
+    "rtls_attempts": 0,
+    "rtls_landings": 0,
+    "asds_attempts": 0,
+    "asds_landings": 0,
+    "last_update": null,
+    "launches": [],
+    "serial": "B1074",
+    "status": "active",
+    "id": "627843de57b51b752c5c5a55"
+  },
+  {
+    "block": 5,
+    "reuse_count": 0,
+    "rtls_attempts": 0,
+    "rtls_landings": 0,
+    "asds_attempts": 0,
+    "asds_landings": 0,
+    "last_update": null,
+    "launches": [],
+    "serial": "B1075",
+    "status": "active",
+    "id": "627843e257b51b752c5c5a56"
   }
 ]
