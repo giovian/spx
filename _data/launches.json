@@ -12602,8 +12602,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/bG6AwvGPd-E",
+      "youtube_id": "bG6AwvGPd-E",
       "article": null,
       "wikipedia": null
     },
@@ -12612,7 +12612,7 @@
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "failures": [],
     "details": null,
     "crew": [],
@@ -12624,22 +12624,22 @@
     "launchpad": "5e9e4502f509092b78566f87",
     "flight_number": 162,
     "name": "Starlink 4-13 (v1.5)",
-    "date_utc": "2022-05-12T22:29:00.000Z",
-    "date_unix": 1652394540,
-    "date_local": "2022-05-12T15:29:00-07:00",
+    "date_utc": "2022-05-13T22:07:00.000Z",
+    "date_unix": 1652479620,
+    "date_local": "2022-05-13T15:07:00-07:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "core": "5f57c54a0622a633027900a1",
+        "flight": 5,
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
+        "landing_success": true,
+        "landing_type": "ASDS",
+        "landpad": "5e9e3032383ecb6bb234e7ca"
       }
     ],
     "auto_update": true,
@@ -12692,9 +12692,9 @@
     "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 163,
     "name": "Starlink 4-15 (v1.5)",
-    "date_utc": "2022-05-13T06:08:00.000Z",
-    "date_unix": 1652422080,
-    "date_local": "2022-05-13T02:08:00-04:00",
+    "date_utc": "2022-05-14T20:33:00.000Z",
+    "date_unix": 1652560380,
+    "date_local": "2022-05-14T16:33:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -12712,7 +12712,7 @@
     ],
     "auto_update": true,
     "tbd": false,
-    "launch_library_id": null,
+    "launch_library_id": "b418d984-a9d1-4fa3-953d-c684a079714c",
     "id": "625828f25988f159024b9643"
   },
   {
@@ -12760,10 +12760,10 @@
     "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 164,
     "name": "Starlink 4-18 (v1.5)",
-    "date_utc": "2022-05-21T00:00:00.000Z",
-    "date_unix": 1653091200,
-    "date_local": "2022-05-20T20:00:00-04:00",
-    "date_precision": "day",
+    "date_utc": "2022-05-18T09:00:00.000Z",
+    "date_unix": 1652864400,
+    "date_local": "2022-05-18T05:00:00-04:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
