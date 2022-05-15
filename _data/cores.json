@@ -1258,10 +1258,12 @@
     "reuse_count": 0,
     "rtls_attempts": 0,
     "rtls_landings": 0,
-    "asds_attempts": 0,
-    "asds_landings": 0,
-    "last_update": null,
-    "launches": [],
+    "asds_attempts": 1,
+    "asds_landings": 1,
+    "last_update": "Landed at JRTI as of May 14, 2022",
+    "launches": [
+      "625828f25988f159024b9643"
+    ],
     "serial": "B1073",
     "status": "active",
     "id": "627843db57b51b752c5c5a54"

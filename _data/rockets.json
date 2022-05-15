@@ -211,7 +211,7 @@
     "stages": 2,
     "boosters": 0,
     "cost_per_launch": 50000000,
-    "success_rate_pct": 98,
+    "success_rate_pct": 99,
     "first_flight": "2010-06-04",
     "country": "United States",
     "company": "SpaceX",
