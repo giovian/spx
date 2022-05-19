@@ -914,17 +914,18 @@
   },
   {
     "block": 5,
-    "reuse_count": 3,
+    "reuse_count": 4,
     "rtls_attempts": 3,
     "rtls_landings": 3,
-    "asds_attempts": 1,
-    "asds_landings": 1,
+    "asds_attempts": 2,
+    "asds_landings": 2,
     "last_update": "Landed on ASOG as of May 18 2022",
     "launches": [
       "5eb87d2dffd86e000604b376",
       "5eb87d35ffd86e000604b37a",
       "6161d32d6db1a92bfba85359",
-      "61fc0243e0dc5662b76489ae"
+      "61fc0243e0dc5662b76489ae",
+      "62615ebc0ec008379be596fa"
     ],
     "serial": "B1052",
     "status": "active",
