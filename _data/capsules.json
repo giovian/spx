@@ -267,7 +267,7 @@
   },
   {
     "reuse_count": 0,
-    "water_landings": 1,
+    "water_landings": 2,
     "land_landings": 0,
     "last_update": "Undergoing refurbishment in a Cape Canaveral Processing Facility",
     "launches": [
@@ -280,7 +280,7 @@
   },
   {
     "reuse_count": 1,
-    "water_landings": 1,
+    "water_landings": 2,
     "land_landings": 0,
     "last_update": "C210, Endurance",
     "launches": [
