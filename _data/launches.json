@@ -12896,9 +12896,9 @@
     "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 166,
     "name": "Nilesat-301",
-    "date_utc": "2022-06-07T21:03:00.000Z",
-    "date_unix": 1654635780,
-    "date_local": "2022-06-07T17:03:00-04:00",
+    "date_utc": "2022-06-08T21:03:00.000Z",
+    "date_unix": 1654722180,
+    "date_local": "2022-06-08T17:03:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -12959,9 +12959,9 @@
     "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 167,
     "name": "CRS-25",
-    "date_utc": "2022-06-09T14:45:00.000Z",
-    "date_unix": 1654785900,
-    "date_local": "2022-06-09T10:45:00-04:00",
+    "date_utc": "2022-06-10T15:22:00.000Z",
+    "date_unix": 1654874520,
+    "date_local": "2022-06-10T11:22:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -13093,7 +13093,7 @@
       "6243b93caf52800c6e91926f"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 169,
+    "flight_number": 170,
     "name": "SES-22",
     "date_utc": "2022-06-28T00:00:00.000Z",
     "date_unix": 1656374400,
@@ -13161,7 +13161,7 @@
       "6278484e57b51b752c5c5a63"
     ],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 170,
+    "flight_number": 171,
     "name": "Starlink 4-19 (v1.5)",
     "date_utc": "2022-06-01T00:00:00.000Z",
     "date_unix": 1654041600,
@@ -13226,79 +13226,11 @@
     "ships": [],
     "capsules": [],
     "payloads": [
-      "6243b896af52800c6e91926e"
-    ],
-    "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 171,
-    "name": "WorldView Legion 1 & 2",
-    "date_utc": "2022-06-01T00:00:00.000Z",
-    "date_unix": 1654041600,
-    "date_local": "2022-05-31T20:00:00-04:00",
-    "date_precision": "month",
-    "upcoming": true,
-    "cores": [
-      {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
-      }
-    ],
-    "auto_update": true,
-    "tbd": false,
-    "launch_library_id": null,
-    "id": "6243ae58af52800c6e91925a"
-  },
-  {
-    "fairings": {
-      "reused": null,
-      "recovery_attempt": null,
-      "recovered": null,
-      "ships": []
-    },
-    "links": {
-      "patch": {
-        "small": null,
-        "large": null
-      },
-      "reddit": {
-        "campaign": null,
-        "launch": null,
-        "media": null,
-        "recovery": null
-      },
-      "flickr": {
-        "small": [],
-        "original": []
-      },
-      "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
-      "article": null,
-      "wikipedia": null
-    },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
-    "net": false,
-    "window": null,
-    "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
-    "failures": [],
-    "details": null,
-    "crew": [],
-    "ships": [],
-    "capsules": [],
-    "payloads": [
       "628026a42c0aa958437dcf7c",
       "628027062c0aa958437dcf7d"
     ],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 181,
+    "flight_number": 179,
     "name": "Psyche & Janus",
     "date_utc": "2022-09-20T00:00:00.000Z",
     "date_unix": 1663632000,
@@ -13344,6 +13276,74 @@
     "tbd": false,
     "launch_library_id": null,
     "id": "628025222c0aa958437dcf76"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": null,
+        "large": null
+      },
+      "reddit": {
+        "campaign": null,
+        "launch": null,
+        "media": null,
+        "recovery": null
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "failures": [],
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "6243b896af52800c6e91926e"
+    ],
+    "launchpad": "5e9e4501f509094ba4566f84",
+    "flight_number": 182,
+    "name": "WorldView Legion 1 & 2",
+    "date_utc": "2022-09-01T00:00:00.000Z",
+    "date_unix": 1661990400,
+    "date_local": "2022-08-31T20:00:00-04:00",
+    "date_precision": "month",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "auto_update": true,
+    "tbd": false,
+    "launch_library_id": null,
+    "id": "6243ae58af52800c6e91925a"
   },
   {
     "fairings": {
