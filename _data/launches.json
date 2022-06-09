@@ -12865,7 +12865,7 @@
       },
       "reddit": {
         "campaign": null,
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/v7hxph/rspacex_nilesat_301_launch_discussion_and_updates/",
         "media": null,
         "recovery": null
       },
@@ -12874,10 +12874,10 @@
         "original": []
       },
       "presskit": null,
-      "webcast": "https://youtu.be/UpCZu89zb5Y",
-      "youtube_id": "UpCZu89zb5Y",
+      "webcast": "https://youtu.be/YXSfmxTvWaI",
+      "youtube_id": "YXSfmxTvWaI",
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/Nilesat"
     },
     "static_fire_date_utc": null,
     "static_fire_date_unix": null,
@@ -12908,10 +12908,10 @@
         "gridfins": true,
         "legs": true,
         "reused": true,
-        "landing_attempt": null,
+        "landing_attempt": true,
         "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "landing_type": "ASDS",
+        "landpad": "5e9e3033383ecbb9e534e7cc"
       }
     ],
     "auto_update": true,
