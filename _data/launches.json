@@ -13161,11 +13161,11 @@
       "6243b835af52800c6e91926d"
     ],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 171,
+    "flight_number": 174,
     "name": "CRS-25",
-    "date_utc": "2022-06-28T00:00:00.000Z",
-    "date_unix": 1656374400,
-    "date_local": "2022-06-27T20:00:00-04:00",
+    "date_utc": "2022-07-11T00:00:00.000Z",
+    "date_unix": 1657497600,
+    "date_local": "2022-07-10T20:00:00-04:00",
     "date_precision": "day",
     "upcoming": true,
     "cores": [
