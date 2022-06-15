@@ -13230,7 +13230,7 @@
       "628027062c0aa958437dcf7d"
     ],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 180,
+    "flight_number": 181,
     "name": "Psyche & Janus",
     "date_utc": "2022-09-20T00:00:00.000Z",
     "date_unix": 1663632000,
@@ -13320,7 +13320,7 @@
       "6243b896af52800c6e91926e"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 183,
+    "flight_number": 184,
     "name": "WorldView Legion 1 & 2",
     "date_utc": "2022-09-01T00:00:00.000Z",
     "date_unix": 1661990400,
@@ -13388,7 +13388,7 @@
       "6243b788af52800c6e91926b"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 186,
+    "flight_number": 187,
     "name": "O3b mPower 1,2",
     "date_utc": "2022-07-01T00:00:00.000Z",
     "date_unix": 1656633600,
@@ -13456,7 +13456,7 @@
       "6243b788af52800c6e91926b"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 187,
+    "flight_number": 188,
     "name": "O3b mPower 3.4",
     "date_utc": "2022-07-01T00:00:00.000Z",
     "date_unix": 1656633600,
