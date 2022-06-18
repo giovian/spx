@@ -12933,7 +12933,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/vdue2y/rspacex_starlink_419_launch_discussion_and/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -12952,7 +12952,7 @@
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "failures": [],
     "details": null,
     "crew": [],
@@ -12968,18 +12968,18 @@
     "date_unix": 1654103330,
     "date_local": "2022-06-01T13:08:50-04:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "core": "5ef670f10059c33cee4a826c",
+        "flight": 13,
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
+        "landing_success": true,
+        "landing_type": "ASDS",
+        "landpad": "5e9e3033383ecb075134e7cd"
       }
     ],
     "auto_update": true,
@@ -13032,9 +13032,9 @@
     "launchpad": "5e9e4502f509092b78566f87",
     "flight_number": 168,
     "name": "SARah 1",
-    "date_utc": "2022-06-18T13:50:00.000Z",
-    "date_unix": 1655560200,
-    "date_local": "2022-06-18T06:50:00-07:00",
+    "date_utc": "2022-06-18T14:19:00.000Z",
+    "date_unix": 1655561940,
+    "date_local": "2022-06-18T07:19:00-07:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -13098,9 +13098,9 @@
     "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 169,
     "name": "Globalstar FM15",
-    "date_utc": "2022-06-19T04:25:00.000Z",
-    "date_unix": 1655612700,
-    "date_local": "2022-06-19T00:25:00-04:00",
+    "date_utc": "2022-06-19T04:27:00.000Z",
+    "date_unix": 1655612820,
+    "date_local": "2022-06-19T00:27:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
