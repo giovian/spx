@@ -1230,15 +1230,16 @@
   },
   {
     "block": 5,
-    "reuse_count": 1,
-    "rtls_attempts": 2,
-    "rtls_landings": 2,
+    "reuse_count": 2,
+    "rtls_attempts": 3,
+    "rtls_landings": 3,
     "asds_attempts": 0,
     "asds_landings": 0,
-    "last_update": "Landed at LZ-4 as of Apr 17, 2022",
+    "last_update": "Landed at LZ-4 as of Jun 18, 2022",
     "launches": [
       "607a34e35a906a44023e085e",
-      "6243adcaaf52800c6e919254"
+      "6243adcaaf52800c6e919254",
+      "5fe3af43b3467846b324215e"
     ],
     "serial": "B1071",
     "status": "active",
