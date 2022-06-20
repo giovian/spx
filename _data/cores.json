@@ -1070,12 +1070,12 @@
   },
   {
     "block": 5,
-    "reuse_count": 7,
+    "reuse_count": 8,
     "rtls_attempts": 1,
     "rtls_landings": 1,
-    "asds_attempts": 7,
-    "asds_landings": 7,
-    "last_update": "Landed at LZ-1 as of May 25, 2022.",
+    "asds_attempts": 8,
+    "asds_landings": 8,
+    "last_update": "Landed at JRTI as of June 19, 2022.",
     "launches": [
       "5eb87d4dffd86e000604b38e",
       "5fe3af58b3467846b324215f",
@@ -1084,7 +1084,8 @@
       "6161c88d6db1a92bfba85348",
       "61e048ffbe8d8b66799018d1",
       "6243ad8baf52800c6e919252",
-      "6243ae24af52800c6e919258"
+      "6243ae24af52800c6e919258",
+      "62a9f08b20413d2695d88711"
     ],
     "serial": "B1061",
     "status": "active",
