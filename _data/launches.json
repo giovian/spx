@@ -13137,7 +13137,7 @@
       },
       "reddit": {
         "campaign": null,
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/vnc3uu/rspacex_ses22_launch_discussion_and_updates_thread/",
         "media": null,
         "recovery": null
       },
@@ -13172,18 +13172,18 @@
     "date_unix": 1656536640,
     "date_local": "2022-06-29T17:04:00-04:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
         "core": "627843db57b51b752c5c5a54",
         "flight": 2,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
+        "landing_success": true,
+        "landing_type": "ASDS",
+        "landpad": "5e9e3033383ecb075134e7cd"
       }
     ],
     "auto_update": true,
@@ -13232,7 +13232,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 173,
+    "flight_number": 176,
     "name": "Starlink 4-21 (v1.5)",
     "date_utc": "2022-07-07T22:30:00.000Z",
     "date_unix": 1657233000,
@@ -13254,7 +13254,7 @@
     ],
     "auto_update": true,
     "tbd": false,
-    "launch_library_id": "86a3010e-f8ef-4b64-a029-f4f92829772d",
+    "launch_library_id": "ac4ce8e1-fd76-4654-8809-5500ba792a8a",
     "id": "62a9f0c920413d2695d88712"
   },
   {
@@ -13298,7 +13298,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4502f509092b78566f87",
-    "flight_number": 174,
+    "flight_number": 177,
     "name": "Starlink 3-1 (v1.5)",
     "date_utc": "2022-07-08T00:00:00.000Z",
     "date_unix": 1657238400,
@@ -13364,7 +13364,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 175,
+    "flight_number": 178,
     "name": "Starlink 4-22 (v1.5)",
     "date_utc": "2022-07-10T00:00:00.000Z",
     "date_unix": 1657411200,
@@ -13427,7 +13427,7 @@
       "6243b835af52800c6e91926d"
     ],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 176,
+    "flight_number": 179,
     "name": "CRS-25",
     "date_utc": "2022-07-01T00:00:00.000Z",
     "date_unix": 1656633600,
@@ -13493,7 +13493,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4502f509092b78566f87",
-    "flight_number": 177,
+    "flight_number": 180,
     "name": "Starlink 3-2 (v1.5)",
     "date_utc": "2022-07-01T00:00:00.000Z",
     "date_unix": 1656633600,
@@ -13559,7 +13559,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 178,
+    "flight_number": 181,
     "name": "Starlink 4-25 (v1.5)",
     "date_utc": "2022-07-01T00:00:00.000Z",
     "date_unix": 1656633600,
@@ -13625,7 +13625,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 179,
+    "flight_number": 182,
     "name": "KPLO",
     "date_utc": "2022-08-02T23:37:00.000Z",
     "date_unix": 1659483420,
@@ -13691,7 +13691,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 180,
+    "flight_number": 183,
     "name": "Starlink 4-2 (v1.5) & Blue Walker 3",
     "date_utc": "2022-08-15T00:00:00.000Z",
     "date_unix": 1660521600,
@@ -13757,7 +13757,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 181,
+    "flight_number": 184,
     "name": "Starlink 4-26 (v1.5)",
     "date_utc": "2022-08-01T00:00:00.000Z",
     "date_unix": 1659312000,
@@ -13826,7 +13826,7 @@
       "628027062c0aa958437dcf7d"
     ],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 183,
+    "flight_number": 186,
     "name": "Psyche & Janus",
     "date_utc": "2022-09-20T00:00:00.000Z",
     "date_unix": 1663632000,
@@ -13916,7 +13916,7 @@
       "6243b896af52800c6e91926e"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 186,
+    "flight_number": 189,
     "name": "WorldView Legion 1 & 2",
     "date_utc": "2022-09-01T00:00:00.000Z",
     "date_unix": 1661990400,
@@ -13940,142 +13940,6 @@
     "tbd": false,
     "launch_library_id": null,
     "id": "6243ae58af52800c6e91925a"
-  },
-  {
-    "fairings": {
-      "reused": null,
-      "recovery_attempt": null,
-      "recovered": null,
-      "ships": []
-    },
-    "links": {
-      "patch": {
-        "small": null,
-        "large": null
-      },
-      "reddit": {
-        "campaign": null,
-        "launch": null,
-        "media": null,
-        "recovery": null
-      },
-      "flickr": {
-        "small": [],
-        "original": []
-      },
-      "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
-      "article": null,
-      "wikipedia": null
-    },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
-    "net": false,
-    "window": null,
-    "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
-    "failures": [],
-    "details": null,
-    "crew": [],
-    "ships": [],
-    "capsules": [],
-    "payloads": [
-      "6243b788af52800c6e91926b"
-    ],
-    "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 189,
-    "name": "O3b mPower 1,2",
-    "date_utc": "2022-07-01T00:00:00.000Z",
-    "date_unix": 1656633600,
-    "date_local": "2022-06-30T20:00:00-04:00",
-    "date_precision": "quarter",
-    "upcoming": true,
-    "cores": [
-      {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
-      }
-    ],
-    "auto_update": true,
-    "tbd": false,
-    "launch_library_id": null,
-    "id": "6243ba08af52800c6e919270"
-  },
-  {
-    "fairings": {
-      "reused": null,
-      "recovery_attempt": null,
-      "recovered": null,
-      "ships": []
-    },
-    "links": {
-      "patch": {
-        "small": null,
-        "large": null
-      },
-      "reddit": {
-        "campaign": null,
-        "launch": null,
-        "media": null,
-        "recovery": null
-      },
-      "flickr": {
-        "small": [],
-        "original": []
-      },
-      "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
-      "article": null,
-      "wikipedia": null
-    },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
-    "net": false,
-    "window": null,
-    "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
-    "failures": [],
-    "details": null,
-    "crew": [],
-    "ships": [],
-    "capsules": [],
-    "payloads": [
-      "6243b788af52800c6e91926b"
-    ],
-    "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 190,
-    "name": "O3b mPower 3.4",
-    "date_utc": "2022-07-01T00:00:00.000Z",
-    "date_unix": 1656633600,
-    "date_local": "2022-06-30T20:00:00-04:00",
-    "date_precision": "quarter",
-    "upcoming": true,
-    "cores": [
-      {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
-      }
-    ],
-    "auto_update": true,
-    "tbd": false,
-    "launch_library_id": null,
-    "id": "6243ae7daf52800c6e91925b"
   },
   {
     "fairings": {
@@ -14166,5 +14030,141 @@
     "tbd": false,
     "launch_library_id": null,
     "id": "6243aec2af52800c6e91925d"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": null,
+        "large": null
+      },
+      "reddit": {
+        "campaign": null,
+        "launch": null,
+        "media": null,
+        "recovery": null
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "failures": [],
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "6243b788af52800c6e91926b"
+    ],
+    "launchpad": "5e9e4501f509094ba4566f84",
+    "flight_number": 192,
+    "name": "O3b mPower 1,2",
+    "date_utc": "2022-07-01T00:00:00.000Z",
+    "date_unix": 1656633600,
+    "date_local": "2022-06-30T20:00:00-04:00",
+    "date_precision": "quarter",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "auto_update": true,
+    "tbd": false,
+    "launch_library_id": null,
+    "id": "6243ba08af52800c6e919270"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": null,
+        "large": null
+      },
+      "reddit": {
+        "campaign": null,
+        "launch": null,
+        "media": null,
+        "recovery": null
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "failures": [],
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [
+      "6243b788af52800c6e91926b"
+    ],
+    "launchpad": "5e9e4501f509094ba4566f84",
+    "flight_number": 193,
+    "name": "O3b mPower 3.4",
+    "date_utc": "2022-07-01T00:00:00.000Z",
+    "date_unix": 1656633600,
+    "date_local": "2022-06-30T20:00:00-04:00",
+    "date_precision": "quarter",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "auto_update": true,
+    "tbd": false,
+    "launch_library_id": null,
+    "id": "6243ae7daf52800c6e91925b"
   }
 ]
