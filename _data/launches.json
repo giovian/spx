@@ -13363,9 +13363,9 @@
     "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 173,
     "name": "CRS-25",
-    "date_utc": "2022-07-15T00:30:00.000Z",
-    "date_unix": 1657845000,
-    "date_local": "2022-07-14T20:30:00-04:00",
+    "date_utc": "2022-07-15T00:44:00.000Z",
+    "date_unix": 1657845840,
+    "date_local": "2022-07-14T20:44:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
