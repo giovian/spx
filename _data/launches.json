@@ -13271,7 +13271,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/vvwx9k/rspacex_starlink_31_launch_discussion_and_updates/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -13304,18 +13304,18 @@
     "date_unix": 1657503540,
     "date_local": "2022-07-10T18:39:00-07:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "core": "5f57c54a0622a633027900a1",
+        "flight": 6,
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
+        "landing_success": true,
+        "landing_type": "ASDS",
+        "landpad": "5e9e3032383ecb6bb234e7ca"
       }
     ],
     "auto_update": true,
