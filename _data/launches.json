@@ -13429,10 +13429,10 @@
     "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 174,
     "name": "Starlink 4-22 (v1.5)",
-    "date_utc": "2022-07-17T00:00:00.000Z",
-    "date_unix": 1658016000,
-    "date_local": "2022-07-16T20:00:00-04:00",
-    "date_precision": "day",
+    "date_utc": "2022-07-17T14:50:00.000Z",
+    "date_unix": 1658069400,
+    "date_local": "2022-07-17T10:50:00-04:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
