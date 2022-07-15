@@ -13332,7 +13332,7 @@
       },
       "reddit": {
         "campaign": null,
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/vyw3eo/rspacex_crs25_launch_discussion_and_updates_thread/",
         "media": null,
         "recovery": null
       },
@@ -13351,7 +13351,7 @@
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "failures": [],
     "details": null,
     "crew": [],
@@ -13367,7 +13367,7 @@
     "date_unix": 1657845840,
     "date_local": "2022-07-14T20:44:00-04:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
         "core": "60b800111f83cc1e59f16438",
@@ -13375,10 +13375,10 @@
         "gridfins": true,
         "legs": true,
         "reused": true,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "landing_attempt": true,
+        "landing_success": true,
+        "landing_type": "ASDS",
+        "landpad": "5e9e3033383ecb075134e7cd"
       }
     ],
     "auto_update": true,
@@ -13449,7 +13449,7 @@
     ],
     "auto_update": true,
     "tbd": false,
-    "launch_library_id": null,
+    "launch_library_id": "84f9bbdd-0e2c-468e-b1d0-73d640745c13",
     "id": "62a9f0f820413d2695d88714"
   },
   {
