@@ -284,5 +284,41 @@
     ],
     "status": "active",
     "id": "6243bdf8af52800c6e919279"
+  },
+  {
+    "name": "Nicole Aunapu Mann",
+    "agency": "NASA",
+    "image": "https://i.imgur.com/EW93kmg.png",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nicole_Aunapu_Mann",
+    "launches": [],
+    "status": "active",
+    "id": "62dd7196202306255024d13c"
+  },
+  {
+    "name": "Josh A. Cassada",
+    "agency": "NASA",
+    "image": "https://i.imgur.com/I7FDypC.png",
+    "wikipedia": "https://en.wikipedia.org/wiki/Josh_A._Cassada",
+    "launches": [],
+    "status": "active",
+    "id": "62dd71c9202306255024d13d"
+  },
+  {
+    "name": "Koichi Wakata",
+    "agency": "JAXA",
+    "image": "https://i.imgur.com/X2wnqMT.png",
+    "wikipedia": "https://en.wikipedia.org/wiki/Koichi_Wakata",
+    "launches": [],
+    "status": "active",
+    "id": "62dd7210202306255024d13e"
+  },
+  {
+    "name": "Anna Kikina",
+    "agency": "Roscosmos",
+    "image": "https://i.imgur.com/tKCaih3.png",
+    "wikipedia": "https://en.wikipedia.org/wiki/Anna_Kikina",
+    "launches": [],
+    "status": "active",
+    "id": "62dd7253202306255024d13f"
   }
 ]

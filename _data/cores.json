@@ -1095,12 +1095,12 @@
   },
   {
     "block": 5,
-    "reuse_count": 6,
+    "reuse_count": 7,
     "rtls_attempts": 0,
     "rtls_landings": 0,
-    "asds_attempts": 7,
-    "asds_landings": 7,
-    "last_update": "Landed on JRTI as of Jun 8, 2022.",
+    "asds_attempts": 8,
+    "asds_landings": 8,
+    "last_update": "Landed on ASOG as of Jul 24, 2022.",
     "launches": [
       "5eb87d4cffd86e000604b38d",
       "5eb87d4effd86e000604b390",
@@ -1108,7 +1108,8 @@
       "61d5eca1f88e4c5fc91f1eb7",
       "61eefaa89eb1064137a1bd73",
       "62582a6f5988f159024b964b",
-      "6243ae0aaf52800c6e919257"
+      "6243ae0aaf52800c6e919257",
+      "62a9f12820413d2695d88716"
     ],
     "serial": "B1062",
     "status": "active",
@@ -1245,7 +1246,7 @@
       "607a34e35a906a44023e085e",
       "6243adcaaf52800c6e919254",
       "5fe3af43b3467846b324215e",
-      "62a9f12820413d2695d88716"
+      "62a9f10b20413d2695d88715"
     ],
     "serial": "B1071",
     "status": "active",
