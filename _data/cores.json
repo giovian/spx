@@ -915,18 +915,19 @@
   },
   {
     "block": 5,
-    "reuse_count": 4,
+    "reuse_count": 5,
     "rtls_attempts": 3,
     "rtls_landings": 3,
-    "asds_attempts": 2,
-    "asds_landings": 2,
+    "asds_attempts": 3,
+    "asds_landings": 3,
     "last_update": "Landed on JRTI as of Aug 4 2022",
     "launches": [
       "5eb87d2dffd86e000604b376",
       "5eb87d35ffd86e000604b37a",
       "6161d32d6db1a92bfba85359",
       "61fc0243e0dc5662b76489ae",
-      "62615ebc0ec008379be596fa"
+      "62615ebc0ec008379be596fa",
+      "62a9f86420413d2695d88719"
     ],
     "serial": "B1052",
     "status": "active",
