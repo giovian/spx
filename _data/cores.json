@@ -1268,15 +1268,16 @@
   },
   {
     "block": 5,
-    "reuse_count": 1,
+    "reuse_count": 2,
     "rtls_attempts": 0,
     "rtls_landings": 0,
-    "asds_attempts": 2,
-    "asds_landings": 2,
+    "asds_attempts": 3,
+    "asds_landings": 3,
     "last_update": "Landed at ASOG as of Aug 10, 2022",
     "launches": [
       "625828f25988f159024b9643",
-      "6243aea5af52800c6e91925c"
+      "6243aea5af52800c6e91925c",
+      "62a9f8b320413d2695d8871b"
     ],
     "serial": "B1073",
     "status": "active",
