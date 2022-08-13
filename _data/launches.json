@@ -13823,12 +13823,12 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 180,
+    "flight_number": 179,
     "name": "Starlink 4-27 (v1.5)",
-    "date_utc": "2022-08-16T00:00:00.000Z",
-    "date_unix": 1660608000,
-    "date_local": "2022-08-15T20:00:00-04:00",
-    "date_precision": "day",
+    "date_utc": "2022-08-19T19:24:00.000Z",
+    "date_unix": 1660937040,
+    "date_local": "2022-08-19T15:24:00-04:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
@@ -13889,7 +13889,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 181,
+    "flight_number": 180,
     "name": "Starlink 4-23 (v1.5)",
     "date_utc": "2022-08-24T00:00:00.000Z",
     "date_unix": 1661299200,
@@ -13955,7 +13955,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 182,
+    "flight_number": 181,
     "name": "Starlink 4-20 (v1.5)",
     "date_utc": "2022-08-01T00:00:00.000Z",
     "date_unix": 1659312000,
@@ -14021,7 +14021,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4502f509092b78566f87",
-    "flight_number": 183,
+    "flight_number": 182,
     "name": "Starlink 3-4 (v1.5)",
     "date_utc": "2022-08-01T00:00:00.000Z",
     "date_unix": 1659312000,
@@ -14045,6 +14045,72 @@
     "tbd": false,
     "launch_library_id": null,
     "id": "62f3b53a0f55c50e192a4e6f"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": "https://imgur.com/BrW201S.png",
+        "large": "https://imgur.com/573IfGk.png"
+      },
+      "reddit": {
+        "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
+        "launch": null,
+        "media": null,
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": null,
+      "youtube_id": null,
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "failures": [],
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [],
+    "launchpad": "5e9e4502f509094188566f88",
+    "flight_number": 183,
+    "name": "Starlink 4-2 (v1.5) & Blue Walker 3",
+    "date_utc": "2022-09-07T00:00:00.000Z",
+    "date_unix": 1662508800,
+    "date_local": "2022-09-06T20:00:00-04:00",
+    "date_precision": "day",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "auto_update": true,
+    "tbd": false,
+    "launch_library_id": null,
+    "id": "62a9f89a20413d2695d8871a"
   },
   {
     "fairings": null,
@@ -14115,72 +14181,6 @@
     "tbd": false,
     "launch_library_id": null,
     "id": "62dd70d5202306255024d139"
-  },
-  {
-    "fairings": {
-      "reused": null,
-      "recovery_attempt": null,
-      "recovered": null,
-      "ships": []
-    },
-    "links": {
-      "patch": {
-        "small": "https://imgur.com/BrW201S.png",
-        "large": "https://imgur.com/573IfGk.png"
-      },
-      "reddit": {
-        "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
-        "media": null,
-        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
-      },
-      "flickr": {
-        "small": [],
-        "original": []
-      },
-      "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
-      "article": null,
-      "wikipedia": null
-    },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
-    "net": false,
-    "window": null,
-    "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
-    "failures": [],
-    "details": null,
-    "crew": [],
-    "ships": [],
-    "capsules": [],
-    "payloads": [],
-    "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 186,
-    "name": "Starlink 4-2 (v1.5) & Blue Walker 3",
-    "date_utc": "2022-09-01T00:00:00.000Z",
-    "date_unix": 1661990400,
-    "date_local": "2022-08-31T20:00:00-04:00",
-    "date_precision": "month",
-    "upcoming": true,
-    "cores": [
-      {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
-      }
-    ],
-    "auto_update": true,
-    "tbd": false,
-    "launch_library_id": null,
-    "id": "62a9f89a20413d2695d8871a"
   },
   {
     "fairings": {
