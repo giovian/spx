@@ -13891,10 +13891,10 @@
     "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 181,
     "name": "Starlink 4-23 (v1.5)",
-    "date_utc": "2022-08-24T00:00:00.000Z",
-    "date_unix": 1661299200,
-    "date_local": "2022-08-23T20:00:00-04:00",
-    "date_precision": "day",
+    "date_utc": "2022-08-28T01:52:00.000Z",
+    "date_unix": 1661651520,
+    "date_local": "2022-08-27T21:52:00-04:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
