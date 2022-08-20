@@ -13796,7 +13796,7 @@
       },
       "reddit": {
         "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/wsde1t/rspacex_starlink_427_launch_discussion_and/",
         "media": null,
         "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
       },
@@ -13805,8 +13805,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/M018DAaNd_E",
+      "youtube_id": "M018DAaNd_E",
       "article": null,
       "wikipedia": null
     },
@@ -13815,7 +13815,7 @@
     "net": false,
     "window": null,
     "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
+    "success": true,
     "failures": [],
     "details": null,
     "crew": [],
@@ -13829,18 +13829,18 @@
     "date_unix": 1660937040,
     "date_local": "2022-08-19T15:24:00-04:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "core": "5f57c5440622a633027900a0",
+        "flight": 9,
+        "gridfins": true,
+        "legs": true,
+        "reused": true,
+        "landing_attempt": true,
+        "landing_success": true,
+        "landing_type": "ASDS",
+        "landpad": "5e9e3033383ecb075134e7cd"
       }
     ],
     "auto_update": true,
@@ -13911,7 +13911,7 @@
     ],
     "auto_update": true,
     "tbd": false,
-    "launch_library_id": null,
+    "launch_library_id": "67158b3c-201d-4450-be8a-990010c05b40",
     "id": "62f3b5290f55c50e192a4e6d"
   },
   {
@@ -14021,7 +14021,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 183,
+    "flight_number": 184,
     "name": "Starlink 4-2 (v1.5) & Blue Walker 3",
     "date_utc": "2022-09-07T00:00:00.000Z",
     "date_unix": 1662508800,
@@ -14091,7 +14091,7 @@
       "62dd73ed202306255024d145"
     ],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 185,
+    "flight_number": 186,
     "name": "Crew-5",
     "date_utc": "2022-09-29T00:00:00.000Z",
     "date_unix": 1664409600,
@@ -14157,7 +14157,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 186,
+    "flight_number": 187,
     "name": "Starlink 4-20 (v1.5)",
     "date_utc": "2022-09-01T00:00:00.000Z",
     "date_unix": 1661990400,
@@ -14225,7 +14225,7 @@
       "6243b896af52800c6e91926e"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 198,
+    "flight_number": 197,
     "name": "WorldView Legion 1 & 2",
     "date_utc": "2022-12-01T00:00:00.000Z",
     "date_unix": 1669852800,
@@ -14293,7 +14293,7 @@
       "5fe3b86eb3467846b324217c"
     ],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 200,
+    "flight_number": 199,
     "name": "USSF-44",
     "date_utc": "2022-12-01T00:00:00.000Z",
     "date_unix": 1669852800,
@@ -14383,7 +14383,7 @@
       "6243b788af52800c6e91926b"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 202,
+    "flight_number": 201,
     "name": "O3b mPower 1,2",
     "date_utc": "2022-12-01T00:00:00.000Z",
     "date_unix": 1669852800,
@@ -14451,7 +14451,7 @@
       "6243b788af52800c6e91926b"
     ],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 203,
+    "flight_number": 202,
     "name": "O3b mPower 3.4",
     "date_utc": "2022-12-01T00:00:00.000Z",
     "date_unix": 1669852800,
