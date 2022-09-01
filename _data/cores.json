@@ -1120,11 +1120,11 @@
   },
   {
     "block": 5,
-    "reuse_count": 5,
+    "reuse_count": 6,
     "rtls_attempts": 1,
     "rtls_landings": 1,
-    "asds_attempts": 5,
-    "asds_landings": 5,
+    "asds_attempts": 6,
+    "asds_landings": 6,
     "last_update": "Landed on OCISLY as of Aug 31, 2022",
     "launches": [
       "5ed983aa1f30554030d45c31",
@@ -1132,7 +1132,8 @@
       "5fe3b107b3467846b324216b",
       "61fc0203e0dc5662b76489a8",
       "6258290d5988f159024b9644",
-      "62a9f0e320413d2695d88713"
+      "62a9f0e320413d2695d88713",
+      "62f3b53a0f55c50e192a4e6f"
     ],
     "serial": "B1063",
     "status": "active",
