@@ -34,8 +34,8 @@
     "region": "Florida",
     "latitude": 28.5618571,
     "longitude": -80.577366,
-    "launch_attempts": 97,
-    "launch_successes": 95,
+    "launch_attempts": 98,
+    "launch_successes": 96,
     "rockets": [
       "5e9d0d95eda69973a809d1ec"
     ],
@@ -137,7 +137,8 @@
       "62a9f12820413d2695d88716",
       "62a9f86420413d2695d88719",
       "62f3b5200f55c50e192a4e6c",
-      "62f3b5330f55c50e192a4e6e"
+      "62f3b5330f55c50e192a4e6e",
+      "63161329ffc78f3b8567070b"
     ],
     "status": "active",
     "details": "SpaceX's primary Falcon 9 pad, where all east coast Falcon 9s launched prior to the AMOS-6 anomaly. Previously used alongside SLC-41 to launch Titan rockets for the US Air Force, the pad was heavily damaged by the AMOS-6 anomaly in September 2016. It returned to flight with CRS-13 on December 15, 2017, boasting an upgraded throwback-style Transporter-Erector modeled after that at LC-39A.",
