@@ -14457,12 +14457,12 @@
       "5fe3b86eb3467846b324217c"
     ],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 193,
+    "flight_number": 192,
     "name": "USSF-44",
-    "date_utc": "2022-10-01T00:00:00.000Z",
-    "date_unix": 1664582400,
-    "date_local": "2022-09-30T20:00:00-04:00",
-    "date_precision": "month",
+    "date_utc": "2022-10-21T00:00:00.000Z",
+    "date_unix": 1666310400,
+    "date_local": "2022-10-20T20:00:00-04:00",
+    "date_precision": "day",
     "upcoming": true,
     "cores": [
       {
