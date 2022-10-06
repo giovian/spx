@@ -14280,12 +14280,12 @@
     "fairings": null,
     "links": {
       "patch": {
-        "small": null,
-        "large": null
+        "small": "https://images2.imgbox.com/eb/d8/D1Yywp0w_o.png",
+        "large": "https://images2.imgbox.com/33/2e/k6VE4iYl_o.png"
       },
       "reddit": {
         "campaign": null,
-        "launch": null,
+        "launch": "https://www.reddit.com/r/spacex/comments/xvm76j/rspacex_crew5_launchcoast_docking_discussion_and/",
         "media": null,
         "recovery": null
       },
@@ -14294,10 +14294,10 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/5EwW8ZkArL4",
+      "youtube_id": "5EwW8ZkArL4",
       "article": null,
-      "wikipedia": null
+      "wikipedia": "https://en.wikipedia.org/wiki/SpaceX_Crew-5"
     },
     "static_fire_date_utc": null,
     "static_fire_date_unix": null,
@@ -14327,18 +14327,18 @@
     "date_unix": 1664985600,
     "date_local": "2022-10-05T12:00:00-04:00",
     "date_precision": "hour",
-    "upcoming": true,
+    "upcoming": false,
     "cores": [
       {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
+        "core": "633d9da635a71d1d9c66797b",
+        "flight": 1,
+        "gridfins": true,
+        "legs": true,
+        "reused": false,
+        "landing_attempt": true,
+        "landing_success": true,
+        "landing_type": "ASDS",
+        "landpad": "5e9e3033383ecbb9e534e7cc"
       }
     ],
     "auto_update": true,
@@ -14369,8 +14369,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": null,
-      "youtube_id": null,
+      "webcast": "https://youtu.be/wcq7xiTOPRg",
+      "youtube_id": "wcq7xiTOPRg",
       "article": null,
       "wikipedia": null
     },
@@ -14459,9 +14459,9 @@
     "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 192,
     "name": "USSF-44",
-    "date_utc": "2022-10-21T00:00:00.000Z",
-    "date_unix": 1666310400,
-    "date_local": "2022-10-20T20:00:00-04:00",
+    "date_utc": "2022-10-28T00:00:00.000Z",
+    "date_unix": 1666915200,
+    "date_local": "2022-10-27T20:00:00-04:00",
     "date_precision": "day",
     "upcoming": true,
     "cores": [
