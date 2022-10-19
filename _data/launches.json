@@ -14391,9 +14391,9 @@
     "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 188,
     "name": "Starlink 4-36 (v1.5)",
-    "date_utc": "2022-10-20T15:45:00.000Z",
-    "date_unix": 1666280700,
-    "date_local": "2022-10-20T11:45:00-04:00",
+    "date_utc": "2022-10-20T14:50:00.000Z",
+    "date_unix": 1666277400,
+    "date_local": "2022-10-20T10:50:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
@@ -14555,72 +14555,6 @@
     },
     "links": {
       "patch": {
-        "small": "https://images2.imgbox.com/a9/9a/NXVkTZCE_o.png",
-        "large": "https://images2.imgbox.com/e3/cc/hN96PmST_o.png"
-      },
-      "reddit": {
-        "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
-        "launch": null,
-        "media": null,
-        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
-      },
-      "flickr": {
-        "small": [],
-        "original": []
-      },
-      "presskit": null,
-      "webcast": "https://youtu.be/wcq7xiTOPRg",
-      "youtube_id": "wcq7xiTOPRg",
-      "article": null,
-      "wikipedia": null
-    },
-    "static_fire_date_utc": null,
-    "static_fire_date_unix": null,
-    "net": false,
-    "window": null,
-    "rocket": "5e9d0d95eda69973a809d1ec",
-    "success": null,
-    "failures": [],
-    "details": null,
-    "crew": [],
-    "ships": [],
-    "capsules": [],
-    "payloads": [],
-    "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 189,
-    "name": "Starlink 4-37 (v1.5)",
-    "date_utc": "2022-10-26T00:00:00.000Z",
-    "date_unix": 1666742400,
-    "date_local": "2022-10-25T20:00:00-04:00",
-    "date_precision": "day",
-    "upcoming": true,
-    "cores": [
-      {
-        "core": null,
-        "flight": null,
-        "gridfins": null,
-        "legs": null,
-        "reused": null,
-        "landing_attempt": null,
-        "landing_success": null,
-        "landing_type": null,
-        "landpad": null
-      }
-    ],
-    "auto_update": true,
-    "tbd": false,
-    "launch_library_id": null,
-    "id": "633f71820531f07b4fdf59bd"
-  },
-  {
-    "fairings": {
-      "reused": null,
-      "recovery_attempt": null,
-      "recovered": null,
-      "ships": []
-    },
-    "links": {
-      "patch": {
         "small": null,
         "large": null
       },
@@ -14655,7 +14589,7 @@
       "5fe3b86eb3467846b324217c"
     ],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 191,
+    "flight_number": 190,
     "name": "USSF-44",
     "date_utc": "2022-10-31T10:44:00.000Z",
     "date_unix": 1667213040,
@@ -14743,7 +14677,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 192,
+    "flight_number": 191,
     "name": "Galaxy 31 (23R) & 32 (17R)",
     "date_utc": "2022-11-05T00:00:00.000Z",
     "date_unix": 1667606400,
@@ -14809,7 +14743,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 194,
+    "flight_number": 193,
     "name": "ispace Mission 1 & Rashid",
     "date_utc": "2022-11-09T00:00:00.000Z",
     "date_unix": 1667952000,
@@ -14875,7 +14809,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 195,
+    "flight_number": 194,
     "name": "Eutelsat 10B",
     "date_utc": "2022-11-15T00:00:00.000Z",
     "date_unix": 1668470400,
@@ -14936,7 +14870,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4502f509094188566f88",
-    "flight_number": 196,
+    "flight_number": 195,
     "name": "CRS-26",
     "date_utc": "2022-11-18T22:00:00.000Z",
     "date_unix": 1668808800,
@@ -15002,7 +14936,7 @@
     "capsules": [],
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
-    "flight_number": 197,
+    "flight_number": 196,
     "name": "Hotbird 13G",
     "date_utc": "2022-11-01T00:00:00.000Z",
     "date_unix": 1667260800,
@@ -15026,6 +14960,72 @@
     "tbd": false,
     "launch_library_id": null,
     "id": "633f71dd0531f07b4fdf59c1"
+  },
+  {
+    "fairings": {
+      "reused": null,
+      "recovery_attempt": null,
+      "recovered": null,
+      "ships": []
+    },
+    "links": {
+      "patch": {
+        "small": "https://images2.imgbox.com/a9/9a/NXVkTZCE_o.png",
+        "large": "https://images2.imgbox.com/e3/cc/hN96PmST_o.png"
+      },
+      "reddit": {
+        "campaign": "https://www.reddit.com/r/spacex/comments/jhu37i/starlink_general_discussion_and_deployment_thread/",
+        "launch": null,
+        "media": null,
+        "recovery": "https://www.reddit.com/r/spacex/comments/k2ts1q/rspacex_fleet_updates_discussion_thread/"
+      },
+      "flickr": {
+        "small": [],
+        "original": []
+      },
+      "presskit": null,
+      "webcast": "https://youtu.be/wcq7xiTOPRg",
+      "youtube_id": "wcq7xiTOPRg",
+      "article": null,
+      "wikipedia": null
+    },
+    "static_fire_date_utc": null,
+    "static_fire_date_unix": null,
+    "net": false,
+    "window": null,
+    "rocket": "5e9d0d95eda69973a809d1ec",
+    "success": null,
+    "failures": [],
+    "details": null,
+    "crew": [],
+    "ships": [],
+    "capsules": [],
+    "payloads": [],
+    "launchpad": "5e9e4501f509094ba4566f84",
+    "flight_number": 197,
+    "name": "Starlink 4-37 (v1.5)",
+    "date_utc": "2022-11-01T00:00:00.000Z",
+    "date_unix": 1667260800,
+    "date_local": "2022-10-31T20:00:00-04:00",
+    "date_precision": "month",
+    "upcoming": true,
+    "cores": [
+      {
+        "core": null,
+        "flight": null,
+        "gridfins": null,
+        "legs": null,
+        "reused": null,
+        "landing_attempt": null,
+        "landing_success": null,
+        "landing_type": null,
+        "landpad": null
+      }
+    ],
+    "auto_update": true,
+    "tbd": false,
+    "launch_library_id": null,
+    "id": "633f71820531f07b4fdf59bd"
   },
   {
     "fairings": {
