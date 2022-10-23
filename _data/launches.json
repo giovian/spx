@@ -14591,9 +14591,9 @@
     "launchpad": "5e9e4502f509094188566f88",
     "flight_number": 189,
     "name": "USSF-44",
-    "date_utc": "2022-10-31T10:44:00.000Z",
-    "date_unix": 1667213040,
-    "date_local": "2022-10-31T06:44:00-04:00",
+    "date_utc": "2022-10-31T13:44:00.000Z",
+    "date_unix": 1667223840,
+    "date_local": "2022-10-31T09:44:00-04:00",
     "date_precision": "hour",
     "upcoming": true,
     "cores": [
