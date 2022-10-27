@@ -14369,8 +14369,8 @@
         "original": []
       },
       "presskit": null,
-      "webcast": "https://youtu.be/erH5mrvQkbc",
-      "youtube_id": "erH5mrvQkbc",
+      "webcast": "https://youtu.be/iYtH2khNIgU",
+      "youtube_id": "iYtH2khNIgU",
       "article": null,
       "wikipedia": null
     },
@@ -14679,10 +14679,10 @@
     "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 190,
     "name": "Galaxy 31 (23R) & 32 (17R)",
-    "date_utc": "2022-11-05T00:00:00.000Z",
-    "date_unix": 1667606400,
-    "date_local": "2022-11-04T20:00:00-04:00",
-    "date_precision": "day",
+    "date_utc": "2022-11-03T03:25:00.000Z",
+    "date_unix": 1667445900,
+    "date_local": "2022-11-02T23:25:00-04:00",
+    "date_precision": "hour",
     "upcoming": true,
     "cores": [
       {
