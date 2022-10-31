@@ -14810,11 +14810,11 @@
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 192,
-    "name": "ispace Mission 1 & Rashid",
-    "date_utc": "2022-11-01T00:00:00.000Z",
-    "date_unix": 1667260800,
-    "date_local": "2022-10-31T20:00:00-04:00",
-    "date_precision": "month",
+    "name": "Eutelsat 10B",
+    "date_utc": "2022-11-15T00:00:00.000Z",
+    "date_unix": 1668470400,
+    "date_local": "2022-11-14T19:00:00-05:00",
+    "date_precision": "day",
     "upcoming": true,
     "cores": [
       {
@@ -14832,7 +14832,7 @@
     "auto_update": true,
     "tbd": false,
     "launch_library_id": null,
-    "id": "633f723d0531f07b4fdf59c4"
+    "id": "633f71b60531f07b4fdf59bf"
   },
   {
     "fairings": {
@@ -14876,10 +14876,10 @@
     "payloads": [],
     "launchpad": "5e9e4501f509094ba4566f84",
     "flight_number": 193,
-    "name": "Eutelsat 10B",
-    "date_utc": "2022-11-15T00:00:00.000Z",
-    "date_unix": 1668470400,
-    "date_local": "2022-11-14T19:00:00-05:00",
+    "name": "ispace Mission 1 & Rashid",
+    "date_utc": "2022-11-22T00:00:00.000Z",
+    "date_unix": 1669075200,
+    "date_local": "2022-11-21T19:00:00-05:00",
     "date_precision": "day",
     "upcoming": true,
     "cores": [
@@ -14898,7 +14898,7 @@
     "auto_update": true,
     "tbd": false,
     "launch_library_id": null,
-    "id": "633f71b60531f07b4fdf59bf"
+    "id": "633f723d0531f07b4fdf59c4"
   },
   {
     "fairings": null,
