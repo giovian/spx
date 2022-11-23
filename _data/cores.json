@@ -839,7 +839,7 @@
     "rtls_landings": 0,
     "asds_attempts": 10,
     "asds_landings": 10,
-    "last_update": "Landed on OCISLY as of Sep 14, 2021",
+    "last_update": "Stage Expended",
     "launches": [
       "5eb87d22ffd86e000604b36d",
       "5eb87d28ffd86e000604b373",
@@ -853,7 +853,7 @@
       "60e3bf0d73359e1e20335c37"
     ],
     "serial": "B1049",
-    "status": "active",
+    "status": "expended",
     "id": "5e9e28a5f3591833b13b2659"
   },
   {
